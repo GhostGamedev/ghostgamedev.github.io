@@ -58,11 +58,24 @@
       </p>
       
       <p>
-        I plan to, or at least "want to", or perhaps "hope to", or maybe "dream to", do gamedev 🕹️ (& webdev ⌨️) and blog ✏️ about it!
+        I plan to, or at least "want to", or perhaps "hope to", or maybe even "dream to", do gamedev 🕹️ (& webdev ⌨️) and blog ✏️ about it!
       </p>
 
       <p>
-        To start my adventures, I wanted to start with the "blogging" aspect.
+        I believe that developing games/apps/software/etc is a game in itself. Ie, I believe that software development has all of the elements of a game,
+        <ul>
+          <li>Fun = It's challenging (which is the heart of "funness")</li>
+          <li>Levels/progression = It changes the deeper you get into it</li>
+          <li>Win condition = Building the software</li>
+        </ul>
+      </p>
+
+      <p>
+        So, software development, to me, is a massive adventure game.
+      </p>
+
+      <p>
+        To start my GhostGamedev adventures, I wanted to start with the "blogging" aspect.
         I just enjoy blogging, so yeah. It feels right.
       </p>
 
@@ -89,7 +102,7 @@
       </p>
 
       <p>
-        Additionally, while building this basic blog website, I encountered my first ever GhostGamedev problem/bug!
+        Additionally, while building this basic blog website, I encountered my first ever GhostGamedev problem/bug! 👀
       </p>
 
       <h4>My first problem/bug!</h4>
@@ -100,7 +113,7 @@
 
         I've been a web developer for quite a while, and admittedly, whenever I've encountered "strage and unusual spacing jankness", 
         I've looked for quick fixes and spammed solutions without actually learning what is going on - largely due to time constraints
-        (the "just get it done" mentality) (oh, and, it's not a good mentality, btw - I don't recommend it).
+        (the "just get it done" mentality) (oh, and, btw, it's not a good mentality - I don't recommend it).
 
         But, here, with GhostGamedev, I'm taking my time 🙂.
 
@@ -112,14 +125,16 @@
       <p>
         If you don't know what I'm talking about, create a basic HTML page with a single P tag, go to dev tools, and 
         look at all of the strange and unusual spacing between the HTML (aka "root") element, the body element, and the P element.
+        The body element will be mysteriously translated downward, the contents of the body will extend outwards from the body (the margins), and the HTML element will be the size of the children of the body (including the margins).
+        It makes it even more confusing that the body as a default margin as well.
       </p>
 
       <p>
-        My personal rule of thumb has always been:
+        My personal rule of thumb that I've followed over the years has always been:
       </p>
 
       <p>
-        Do this, (which gets rid of any potential default margin/padding across browsers)
+        Do this, (which gets rid of any potential default window margin/padding across browsers)
 <pre>
 html, body {
   margin: 0;
@@ -131,13 +146,13 @@ html, body {
       </p>
 
       <p>
-        But, now, I know that if elements have their own "block formatting context", 
-        then the margin of children elements can stay within the parent element and not get processed/"collapsed" externally.
+        But, now, I know that if an element has its own "block formatting context", 
+        then the margin of children elements stay within the parent element and don't get processed (via "margin collapsing") externally.
       </p>
 
       <p>
         Oh, also, for the record, I decided to use <code>display: flow-root;</code> to create a block formatting context.
-        There are other ways, but I thought this was the cleanest and I'm not so worried about browser support if it's a particularly new feature.
+        There are other ways to create block formatting contexts, but I thought this was the cleanest and I'm not so worried about browser support if it's a particularly new feature.
       </p>
 
       <p>
@@ -152,7 +167,7 @@ html, body {
       </p>
 
       <p>
-        For the next version of the blog, I plan to host a website on a DigitalOcean Droplet. However, there is one concern I have with DigitalOcean:
+        For the next version of the blog, which I plan to work on soon, I plan to build & host a website on a DigitalOcean Droplet. However, there is one concern I have with DigitalOcean:
       </p>
 
       <p>
@@ -162,7 +177,8 @@ html, body {
 
       <p>
         The reason I find this scary is in the event that a flood of malicious requests come to my server and run my bill up.
-        The last thing I want is a massive, unpayable bill and then end up in a bad situation (I'm certainly not the world's most money-rich person) from a hobby project...
+        This is the public internet, after all - you never know who it out there.
+        And, the last thing I want is a massive, unpayable bill and then end up in a bad situation (I'm certainly not the world's most money-rich person) from a hobby project...
         No thanks...
       </p>
 
@@ -176,24 +192,33 @@ html, body {
         Then, while researching, I discovered something called "tc" in Linux which stands for "traffic control".
         Tc allows you to configure how the operating system handles/schedules network requests/packets.
         It's actually quite cool!
-        You can set a maximum data transfer rate as well as select which algorithm you want the operating system to use for network requets/packets.
+        You can set a maximum data transfer rate as well as select which algorithm you want the operating system to use for scheduling network requets/packets going into the network card.
       </p>
 
       <p>
         So, my plan is to create a Droplet and then test out tc to see if I can indeed limit the data rate of my server.
-        If I can, then I'd be able to compute an upper limit of bandwidth (and, therefore, price) by multiplying the data rate (bytes per second) by the amount of seconds per month 
+        If I can, then I'd be able to compute an upper limit of bandwidth (and, therefore, a price limit) by multiplying the data rate (bytes per second) by the amount of seconds per month 
         (30 days * 24 hours * 60 minutes * 60 seconds = 2,592,000 seconds).
       </p>
 
       <p>
-        A few side notes: I did look for cheaper/cheap VPS hosts, but they generally seemed sketchy, and, for the most part, still had unbounded data transfer fees.
+        A few side notes: I did look for cheaper/cheap VPS hosts, but they generally seemed sketchy, and, for the most part, still had the same unbounded data transfer fees.
         I also intend to use Cloudflare in front of my server, but still, I want to know for certain that I'm safe.
       </p>
 
-      <p>&nbsp;</p>
+
+
 
       <p>
-        Well, that's all for now! I'll proofread this later 😝.
+        <h2>That's all for now!</h2>
+      </p>
+
+      <p>
+        Actually, another side note: I want to do some game dev as well! So, that will probably slow down my server setup work! I guess I'll be context switching between the two things!
+      </p>
+
+      <p>
+        Well, that's all for now! I'll proofread this later... Or, maybe never... 😝
       </p>
 
     </div>
