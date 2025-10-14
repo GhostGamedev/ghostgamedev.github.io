@@ -1,0 +1,4 @@
+
+Mention: I might use an actual blogging engine
+
+Mention: I intend to develop games in C + intend to develop my blog from scratch in JavaScript
