@@ -1,1 +1,203 @@
-Hi! I'm GhostGamedev 👻🙂
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GhostGamedev</title>
+  <style>
+
+    html, body {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      line-height: 1.5;
+      font-family: Tahoma, sans-serif;
+      color: white;
+      background-color: black;
+    }
+    a {
+      color: white;
+    }
+
+    p {
+      overflow-wrap: break-word;
+      text-wrap: pretty;
+    }
+
+    .content {
+      margin: 0 auto;
+      max-width: 700px;
+      padding: 0 12px;
+    }
+    .post {
+      display: block flow-root;  /* margin collapsing is a pain ~ this prevents child margins from leaving this element */
+    }
+
+  </style>
+</head>
+<body>
+  <div class="content">
+
+    <h1>👻🕹️ GhostGamedev</h1>
+
+    <div class="post"><hr>
+
+      <p>10/14/2025</p>
+
+
+
+
+      <p>
+        <h2>Hello, world!</h2>
+      </p>
+
+      <p>
+        Hi! I'm GhostGamedev 👻🕹️🙂.
+      </p>
+      
+      <p>
+        I plan to, or at least "want to", or perhaps "hope to", or maybe "dream to", do gamedev 🕹️ (& webdev ⌨️) and blog ✏️ about it!
+      </p>
+
+      <p>
+        To start my adventures, I wanted to start with the "blogging" aspect.
+        I just enjoy blogging, so yeah. It feels right.
+      </p>
+
+      <p>
+        My goal with blogging is to talk about stuff as I do stuff - like problems, solutions, cool stuff, etc.
+      </p>
+
+      <p>
+        In fact, the very first thing to blog about is this blog itself!
+      </p>
+
+
+
+
+      <p>
+        <h2>Blog version 0 - GitHub Pages</h2>
+      </p>
+
+      <p>
+        For simplicity, I decided to use a GitHub Pages static website (this current website) to start my blog. 
+        It's bare bones, but I actually find it quite nice because I'm just writing HTML code and it feels rather cozy 🙂.
+        However, I do plan to create a server using a DigitalOcean Droplet and build/host a more traditional website - 
+        ie, a server that generates and serves HTML pages.
+      </p>
+
+      <p>
+        Additionally, while building this basic blog website, I encountered my first ever GhostGamedev problem/bug!
+      </p>
+
+      <h4>My first problem/bug!</h4>
+
+      <p>
+        
+        I finally learned about "margin collapsing" for the first time in my life 😆.
+
+        I've been a web developer for quite a while, and admittedly, whenever I've encountered "strage and unusual spacing jankness", 
+        I've looked for quick fixes and spammed solutions without actually learning what is going on - largely due to time constraints
+        (the "just get it done" mentality) (oh, and, it's not a good mentality, btw - I don't recommend it).
+
+        But, here, with GhostGamedev, I'm taking my time 🙂.
+
+        So, this time, I finally learned about it!
+        Particularly, the strange behavior of the HTML element and the Body element when you have a P tag inside the body.
+
+      </p>
+
+      <p>
+        If you don't know what I'm talking about, create a basic HTML page with a single P tag, go to dev tools, and 
+        look at all of the strange and unusual spacing between the HTML (aka "root") element, the body element, and the P element.
+      </p>
+
+      <p>
+        My personal rule of thumb has always been:
+      </p>
+
+      <p>
+        Do this, (which gets rid of any potential default margin/padding across browsers)
+<pre>
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}</pre>
+        And, never use margins (ie, set/override all margins to 0) and use padding instead.
+      </p>
+
+      <p>
+        But, now, I know that if elements have their own "block formatting context", 
+        then the margin of children elements can stay within the parent element and not get processed/"collapsed" externally.
+      </p>
+
+      <p>
+        Oh, also, for the record, I decided to use <code>display: flow-root;</code> to create a block formatting context.
+        There are other ways, but I thought this was the cleanest and I'm not so worried about browser support if it's a particularly new feature.
+      </p>
+
+      <p>
+        So, my issue was that I was afraid of using P tags (because they have margins by default), but now I feel much better about using them! 🎉
+      </p>
+
+
+
+
+      <p>
+        <h2>Blog version 1 - DigitalOcean Droplet</h2>
+      </p>
+
+      <p>
+        For the next version of the blog, I plan to host a website on a DigitalOcean Droplet. However, there is one concern I have with DigitalOcean:
+      </p>
+
+      <p>
+        Data transfer costs additional, unbounded money per GB on top of the base $4 per month
+        (well, specifically, data sent (egress) - data received (ingress) is free ✅).
+      </p>
+
+      <p>
+        The reason I find this scary is in the event that a flood of malicious requests come to my server and run my bill up.
+        The last thing I want is a massive, unpayable bill and then end up in a bad situation (I'm certainly not the world's most money-rich person) from a hobby project...
+        No thanks...
+      </p>
+
+      <p>
+        At first, I researched to see if NGINX could somehow be configured to purposely slow down my website, 
+        but I came to find that it can only do so per-request and/or per-client/IP... Well, effectively, anyway...
+        But, I want to slow down my entire server - not just per-IP...
+      </p>
+
+      <p>
+        Then, while researching, I discovered something called "tc" in Linux which stands for "traffic control".
+        Tc allows you to configure how the operating system handles/schedules network requests/packets.
+        It's actually quite cool!
+        You can set a maximum data transfer rate as well as select which algorithm you want the operating system to use for network requets/packets.
+      </p>
+
+      <p>
+        So, my plan is to create a Droplet and then test out tc to see if I can indeed limit the data rate of my server.
+        If I can, then I'd be able to compute an upper limit of bandwidth (and, therefore, price) by multiplying the data rate (bytes per second) by the amount of seconds per month 
+        (30 days * 24 hours * 60 minutes * 60 seconds = 2,592,000 seconds).
+      </p>
+
+      <p>
+        A few side notes: I did look for cheaper/cheap VPS hosts, but they generally seemed sketchy, and, for the most part, still had unbounded data transfer fees.
+        I also intend to use Cloudflare in front of my server, but still, I want to know for certain that I'm safe.
+      </p>
+
+      <p>&nbsp;</p>
+
+      <p>
+        Well, that's all for now! I'll proofread this later 😝.
+      </p>
+
+    </div>
+
+  </div>
+</body>
+</html>
