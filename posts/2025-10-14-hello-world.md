@@ -36,9 +36,9 @@ Additionally, I have exciting news! While building this basic blog website, I en
 
 ### My first problem/bug!
 
-I finally learned about "margin collapsing" in frontend webdev for the first time in my life 😆. I've been a web developer for quite a while, and admittedly, whenever I've encountered "strage and unusual spacing jankness", I've looked for quick fixes and spammed solutions without actually learning what is going on - largely due to time constraints (the "just get it done" mentality) (oh, and, btw, it's not a good mentality - I don't recommend it - it's just what the corporate grind does to you and it's never good). But, here, with GhostGamedev, I'm taking my time 🙂. So, this time, I finally learned about it! Particularly, the strange behavior of the HTML element and the Body element when you have a P tag inside the body.
+I finally learned about "margin collapsing" in frontend webdev for the first time in my life 😆. I've been a web developer for quite a while, and admittedly, whenever I've encountered "strage and unusual spacing jankness", I've looked for quick fixes and spammed solutions without actually learning what is going on - largely due to time constraints (the "just get it done" mentality) (oh, and, btw, it's not a good mentality - I don't recommend it - it's just what the corporate grind does to you and it's never good). But, here, with GhostGamedev, I'm taking my time 🙂. So, this time, I finally learned about it! Particularly, the strange behavior of the HTML element and the body element when you have a P tag inside the body.
 
-If you don't know what I'm talking about, create a basic HTML page with a single P tag, go to dev tools, and look at all of the strange and unusual spacing between the HTML (aka "root") element, the body element, and the P element. The body element will be mysteriously translated downward, the contents of the body will extend outwards from the body (the margins), and the HTML element will be the size of the children of the body (including the margins). It makes it even more confusing that the body has a default margin as well.
+If you don't know what I'm talking about, create a basic HTML page with a single P (paragraph) tag, go to dev tools, and look at all of the strange and unusual spacing between the HTML (aka "root") element, the body element, and the paragraph element. The body element will be mysteriously translated downward, the contents of the body will extend outwards outside of the body (being the margins from the child P tag), and the HTML element will be the size of the children of the body (including the margins of the child P tag) whereas the body element will not (it will be smaller than its own contents). It makes it even more confusing that the body element has its own margins set by default as well.
 
 My personal rule of thumb that I've followed over the years has always been:
 
@@ -56,9 +56,9 @@ html, body {
 And, never use margins (ie, set/override all margins to 0) and use padding instead.
 But, now, I know that if an element has its own "block formatting context", then the margin of children elements stay within the parent element and don't get processed (via "margin collapsing") externally.
 
-Oh, also, for the record, I decided to use display: flow-root; to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest method and I'm not so worried about browser support if display: flow-root; is a particularly new browser specification.
+Oh, also, for the record, I decided to use `display: flow-root;` to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest method and I'm not so worried about browser support if display: flow-root; is a particularly new browser specification. (sorry legacy browser users!)
 
-So, my issue was that I was afraid of using P tags (because they have margins by default), but now I feel much better about using them! 🎉
+So, my issue was that I was afraid of using P tags (because they have margins by default) and margins, but now I feel much better about using both of them! 🎉
 
 
 ## Blog version 1 - DigitalOcean Droplet
@@ -84,6 +84,6 @@ Actually, another side note: I want to do some actual gamedev as well! So, that 
 
 Well, that's all for now! I'll proofread this later... Or, maybe never... 😝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMTI1MywtNDUxODk0MDY3LDE3NzM2ND
-MzNTQsOTA4NjI1NTQ1LC0xNDkyNTkxNDE3XX0=
+eyJoaXN0b3J5IjpbODA1NDk1NTMyLC00NTE4OTQwNjcsMTc3Mz
+Y0MzM1NCw5MDg2MjU1NDUsLTE0OTI1OTE0MTddfQ==
 -->
