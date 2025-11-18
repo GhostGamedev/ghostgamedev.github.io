@@ -4,4 +4,7 @@ Mention: I might use an actual blogging engine
 Mention: I intend to develop games from scratch in C & I intend to develop my blog from scratch in JavaScript
   > I'm not really looking to build games... I'm really just interested in the process...
     > As a hobby, anyway...
-  > Eventually... Haha.
+  > Eventually... Haha. Things will take a while to get stable for me.
+
+Post: Gamedev as a life-sustaining career ~ just a breif talk about it
+  > Feasibility
