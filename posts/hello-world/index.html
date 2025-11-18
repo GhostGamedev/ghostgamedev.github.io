@@ -1,0 +1,49 @@
+<h1>Hello, World!</h1>
+<p>Hi! I'm GhostGamedev 👻🕹️🙂.</p>
+<p>Here on GhostGamedev, I plan/want/hope/dream/etc to do,</p>
+<ul>
+<li>🕹️ Gamedev</li>
+<li>⌨️ Webdev</li>
+<li>✏️ Blogging (about gamedev &amp; webdev)</li>
+</ul>
+<p>I believe that developing games/apps/software/etc is a game in itself.
+Ie, I believe that software development has all of the elements of a game,</p>
+<ul>
+<li>Fun = It's challenging (which is the heart of &quot;funness&quot;)</li>
+<li>Levels/progression = It changes the deeper you get into it</li>
+<li>Win condition = Building the software</li>
+</ul>
+<p>Software development itself is like a massive adventure game. So, here on GhostGamedev, I'm going to treat software development like an adventure game!</p>
+<p>To start my GhostGamedev adventures, I wanted to start with the &quot;blogging&quot; aspect. I just enjoy blogging, so yeah. It feels right.</p>
+<p>My goal with blogging is to talk about stuff as I do stuff - like problems, solutions, cool stuff, etc.</p>
+<p>In fact, the very first thing to blog about is this blog itself!</p>
+<h2>Blog version 0 - GitHub Pages</h2>
+<p>For simplicity, I decided to use a GitHub Pages static website (this current website) to start my blog. It's bare bones, but I actually find it quite nice because I'm just writing HTML code and it feels rather cozy 🙂. I think GitHub Pages has built-in support for some sort of static site generation, but I'm just writing straight up HTML because why not. However, I do plan to create a server using a DigitalOcean Droplet and build/host a more traditional website - ie, a server that generates and serves HTML pages. More on that later...</p>
+<p>Additionally, I have exciting news! While building this basic blog website, I encountered my first ever GhostGamedev problem/bug! 👀</p>
+<h3>My first problem/bug!</h3>
+<p>I finally learned about &quot;margin collapsing&quot; in frontend webdev for the first time in my life 😆. I've been a web developer for quite a while, and admittedly, whenever I've encountered &quot;strage and unusual spacing jankness&quot;, I've looked for quick fixes and spammed solutions without actually learning what is going on - largely due to time constraints (the &quot;just get it done&quot; mentality) (oh, and, btw, it's not a good mentality - I don't recommend it - it's just what the corporate grind does to you and it's never good). But, here, with GhostGamedev, I'm taking my time 🙂. So, this time, I finally learned about it! Particularly, the strange behavior of the HTML element and the Body element when you have a P tag inside the body.</p>
+<p>If you don't know what I'm talking about, create a basic HTML page with a single P tag, go to dev tools, and look at all of the strange and unusual spacing between the HTML (aka &quot;root&quot;) element, the body element, and the P element. The body element will be mysteriously translated downward, the contents of the body will extend outwards from the body (the margins), and the HTML element will be the size of the children of the body (including the margins). It makes it even more confusing that the body has a default margin as well.</p>
+<p>My personal rule of thumb that I've followed over the years has always been:</p>
+<p>Do this, (which gets rid of any potential default window margin/padding across browsers)</p>
+<pre><code>html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+</code></pre>
+<p>And, never use margins (ie, set/override all margins to 0) and use padding instead.
+But, now, I know that if an element has its own &quot;block formatting context&quot;, then the margin of children elements stay within the parent element and don't get processed (via &quot;margin collapsing&quot;) externally.</p>
+<p>Oh, also, for the record, I decided to use display: flow-root; to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest method and I'm not so worried about browser support if display: flow-root; is a particularly new browser specification.</p>
+<p>So, my issue was that I was afraid of using P tags (because they have margins by default), but now I feel much better about using them! 🎉</p>
+<h2>Blog version 1 - DigitalOcean Droplet</h2>
+<p>For the next version of the blog, which I plan to work on soon, I plan to build &amp; host a website on a DigitalOcean Droplet. However, there is one concern I have with DigitalOcean:</p>
+<p>Data transfer costs additional, unbounded money per GB on top of the base $4 per month (well, specifically, data sent (egress) - data received (ingress) is free ✅).</p>
+<p>The reason I find this scary is in the event that a flood of malicious requests come to my server and run my bill up. This is the public internet, after all - you never know who it out there. And, the last thing I want is a massive, unpayable bill and then end up in a bad situation (I'm certainly not the world's most money-rich person) from a hobby project... No thanks...</p>
+<p>At first, I researched to see if NGINX could somehow be configured to purposely slow down my website, but I came to find that it can only do so per-request and/or per-client/IP... Well, effectively, anyway... But, I want to slow down my entire server - not just per-IP...</p>
+<p>Then, while researching, I discovered something called &quot;tc&quot; in Linux which stands for &quot;traffic control&quot;. Tc allows you to configure how the operating system handles/schedules network requests/packets. It's actually quite cool! You can set a maximum data transfer rate as well as select which algorithm you want the operating system to use for scheduling network requets/packets going into the network card.</p>
+<p>So, my plan is to create a Droplet and then test out tc to see if I can indeed limit the data rate of my server. If I can, then I'd be able to compute an upper limit of bandwidth (and, therefore, a price limit) by multiplying the data rate (bytes per second) by the amount of seconds per month (30 days * 24 hours * 60 minutes * 60 seconds = 2,592,000 seconds).</p>
+<p>A few side notes: I did look for cheaper/cheap VPS hosts, but they generally seemed sketchy (history of asking for sensitive personal information, account terminations for no reason, sending people to collections), and, still had unbounded data transfer fees. So, I asked myself, what's the point? I also intend to use Cloudflare in front of my server, but still, I want to know for certain that I'm safe.</p>
+<h2>That's all for now!</h2>
+<p>Actually, another side note: I want to do some actual gamedev as well! So, that will probably slow down my server setup work! I guess I'll be context switching between the two things because, well, I want both of those things, haha.</p>
+<p>Well, that's all for now! I'll proofread this later... Or, maybe never... 😝</p>

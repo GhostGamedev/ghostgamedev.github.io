@@ -1,0 +1,30 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  line-height: 1.5;
+  font-family: Tahoma, sans-serif;
+  color: white;
+  background-color: black;
+}
+a {
+  color: white;
+}
+
+/* attempt at making text prettier ~ don't know if it does anything */
+p {
+  overflow-wrap: break-word;
+  text-wrap: pretty;
+}
+
+.content {
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 0 12px;
+}
+.post {
+  display: block flow-root;  /* prevents child margins from extending outside of element due to margin collapsing */
+}
