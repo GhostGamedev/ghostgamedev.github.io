@@ -1,9 +1,9 @@
 ---
-title: "Hello World (testing editor)"
+title: "Hello World"
 date: 2025-10-14
 ---
 
-# Hello, World!
+# Hello, World!  (testing editor)
 
 Hi! I'm GhostGamedev 👻🕹️🙂.
 
@@ -84,5 +84,5 @@ Actually, another side note: I want to do some actual gamedev as well! So, that 
 
 Well, that's all for now! I'll proofread this later... Or, maybe never... 😝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI1OTE0MTddfQ==
+eyJoaXN0b3J5IjpbOTA4NjI1NTQ1LC0xNDkyNTkxNDE3XX0=
 -->
