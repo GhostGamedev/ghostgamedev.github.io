@@ -3,7 +3,7 @@ title: "Hello World"
 date: 2025-10-14
 ---
 
-# Hello, World!  (testing editor) (again) (one more time)
+# Hello, World!
 
 Hi! I'm GhostGamedev 👻🕹️🙂.
 
@@ -84,6 +84,6 @@ Actually, another side note: I want to do some actual gamedev as well! So, that 
 
 Well, that's all for now! I'll proofread this later... Or, maybe never... 😝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTg5NDA2NywxNzczNjQzMzU0LDkwOD
-YyNTU0NSwtMTQ5MjU5MTQxN119
+eyJoaXN0b3J5IjpbNTMyMTI1MywtNDUxODk0MDY3LDE3NzM2ND
+MzNTQsOTA4NjI1NTQ1LC0xNDkyNTkxNDE3XX0=
 -->
