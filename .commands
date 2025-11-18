@@ -1,0 +1,6 @@
+
+# build
+npx @11ty/eleventy
+
+# run dev server
+npx @11ty/eleventy --serve
