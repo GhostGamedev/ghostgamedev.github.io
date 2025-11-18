@@ -11,17 +11,17 @@ So, I'll start with computers.
 
 ## Computers
 
-I don't know about you, but straight up, computers, to me, are just like, "what the  INSERT FRENCH HERE  is going on?!?!?" And, I'm not saying this because I don't know how to use computers - what I mean is, I think many/most people have almost no idea what they are actually working with when using computers these days...
+I don't know about you, but straight up, computers, to me, are just like, "what the INSERT FRENCH HERE is going on?!?!?" And, I'm not saying this because I don't know how to use computers - what I mean is, I think many/most people have almost no idea what they are actually working with when using computers these days...
 
-What I mean is, like, computers nowadays, let's take the "Intel i7" - according to a quick lookup, the 2010 model has 1.75 billion transistors. 1.75 billion. That's astronomical. For reference, the Earth is 4.5 billion years old. And, according to another quick lookup, the equivalent number of transistors required to perform the job of an abacus (a mechanical, manually operated calculator) is approximately 1,000. So, in a way, you almost are holding the power of 1.75 million abacuses, and that's in terms of physical computational material, I'm not even sure about computational speed, but I'm sure that it's also another astronomical number. And, I'm just speaking to the hardware level/layer of computers here. There are more levels - hardware, kernel, OS, drivers, network, application, graphics, etc - and, each layer is a deeply complex subject. Humans commit their lives to mastering just a single layer.
+What I mean is, like, computers nowadays, let's take the "Intel i7" - according to a quick lookup, the 2010 model has 1.75 billion transistors. 1.75 billion. That's astronomical. For reference, the Earth is 4.5 billion years old. And, according to another quick lookup, the equivalent number of transistors required to perform the job of an abacus (a mechanical, manually operated calculator) is approximately 1,000. So, in a way, you almost are holding the power of 1.75 million abacuses - and that is in terms of physical computational material, I'm not even sure about computational speed, but I'm sure that it's also another astronomical number. And, I'm just speaking to the hardware level/layer of computers here. There are more levels - hardware, kernel, OS, drivers, network, application, graphics, etc. And, guess what? Each layer is a deeply complex subject. Humans commit their lives to mastering just a single layer.
 
 Crazy stuff...
 
-But, these days, I often find myself asking - were we humans even supposed to be able to compute with this astronomical power?
+But, these days, I often find myself asking - were we humans even supposed to be able to compute with such astronomical power?
 
 I mean, like, today, computers have come so far that we now have AI - artificial (ie, computer-based) intelligence. Like, what!?!?
 
-Point: Computers are immensely powerful and immensely deep things.
+Point: Computers are immensely deep and immensely powerful things. 
 
 And, how does all of this relate to video games?
 
@@ -65,3 +65,6 @@ So, all in all, I think game engines are truly good, but I think you lose some o
 ## What this means
 
 Here on GhostGamedev, I think I'd like to explore trying to "build a game from scratch" or at least feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🙂
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjEwMDM1MTE2Nl19
+-->
