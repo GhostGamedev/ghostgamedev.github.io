@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Hello World (testing editor)"
 date: 2025-10-14
 ---
 
@@ -83,3 +83,6 @@ A few side notes: I did look for cheaper/cheap VPS hosts, but they generally see
 Actually, another side note: I want to do some actual gamedev as well! So, that will probably slow down my server setup work! I guess I'll be context switching between the two things because, well, I want both of those things, haha.
 
 Well, that's all for now! I'll proofread this later... Or, maybe never... 😝
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0OTI1OTE0MTddfQ==
+-->
