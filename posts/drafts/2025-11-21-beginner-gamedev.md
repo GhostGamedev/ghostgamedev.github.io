@@ -37,13 +37,19 @@ That's a lot... And, there is no denying that. I don't care what universe you ar
 - Graphics - have to learn about graphics and how to create and program graphics
 - Sound - have to learn about audio and how to create and program audio
 
-So, you can technically still play a video game with the sound off (so audio isn't vital) (although it is still a HUGE part of video games) and programming is something you learn simply by doing it, so the best course of action is to start with **graphics**.
+So, you can technically still play a video game with the sound off (so audio isn't vital) (although it is still a HUGE part of video games) (ie, I think very few people would buy a video game that didn't have any sound) and programming is something you learn simply by doing it, so the best course of action is to start with **graphics**.
 
 ## Graphics, baby! Let's go!
 
 So, beginners tend to jump straight into **graphics programming** thinking, "I'm going to put stuff on the screen and it's going to be amazing!" completely disregarding the "learn about graphics" part...
 
-But, here's the thing - you're a go-getter. You're an action-oriented, results-oriented kind of person, so you say, well, I'll learn as I go - I just have to **go**.
+But, here's the thing... You're a go-getter. You're an "action-oriented" kind of person (although, you don't know that about yourself yet), so you say, well, I'll learn as I "dig through the trenches" - let's just **GO**, let's just **DO IT**.
+
+You start "Googling" things, find a tutorial that you seem to resonate with, install a C compiler, make a hello world, and things feel okay ✅. Then, all of a sudden, things get complicated really, really quick (seemingly out of nowhere) - there are words you don't know, you're completely lost, you try to ignore those words and keep moving on, that makes it worse, then you finally just give up after a week of nothingness.
+
+So, I can say from (this exact) experience, bringing a shovel is probably much, much better than jumping into trenches and digging with your bare hands...
+
+But, the question is, what is the equivalent of a shovel in the context of video game development?
 
 -----------------------------------------
 
@@ -52,5 +58,5 @@ GPU
 -----------------------------------------
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUxNTgyMjEsLTY4MTU3ODEwXX0=
+eyJoaXN0b3J5IjpbMjEwMjMxODIzLC02ODE1NzgxMF19
 -->
