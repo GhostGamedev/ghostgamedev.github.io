@@ -3,7 +3,7 @@ title: "The Title"
 date: 2025-01-01
 ---
 
-# The story of a beginner game developer (before game engines)
+# The story of a beginner video game developer (before game engines)
 
 <!--
 Do I even post this?
@@ -58,5 +58,5 @@ GPU
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTQwNTQwLC02ODE1NzgxMF19
+eyJoaXN0b3J5IjpbNzE5OTE0NjI1LC02ODE1NzgxMF19
 -->
