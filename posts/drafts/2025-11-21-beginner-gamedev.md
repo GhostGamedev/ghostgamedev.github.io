@@ -51,12 +51,12 @@ So, I can say from (this exact) experience, bringing a shovel is probably much, 
 
 But, the question is, what is the equivalent of a shovel in the context of video game development?
 
------------------------------------------
+<!--
 
 GPU
 
------------------------------------------
+-->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjMxODIzLC02ODE1NzgxMF19
+eyJoaXN0b3J5IjpbMTMyMTQwNTQwLC02ODE1NzgxMF19
 -->
