@@ -55,8 +55,21 @@ But, the question is, what is the equivalent of a shovel in the context of video
 
 GPU
 
--->
+-->U
+
+-----------------------------------------
+
+
+----------
+
+
+----------
+
+
+----------
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5OTE0NjI1LC02ODE1NzgxMF19
+eyJoaXN0b3J5IjpbLTE4MDIyNTg3OTEsNzE5OTE0NjI1LC02OD
+E1NzgxMF19
 -->
