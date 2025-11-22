@@ -9,7 +9,7 @@ date: 2025-01-01
 Do I even post this?
 -->
 
-*Below is a story about me when I was a young chap (combined with wisdom of being a bit older but still relatively just as clueless) wanting to build a 3D video game before game engines existed. I also think this story is quite likely the same story as many, many other people. The story is told in the 'you' tense - like, a copy of myself talking to myself. I hope you enjoy.* 🙂
+*Below is a story about me when I was a young chap (combined with wisdom of being a bit older) wanting to build a 3D video game before game engines existed. I also think this story is quite likely the same story as many, many other people. The story is told in the 'you' tense - like, a copy of myself talking to myself. I hope you enjoy.* 🙂
 
 So, you want to build a video game.
 
@@ -58,6 +58,6 @@ GPU
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5OTE0NjI1LC0xODAyMjU4NzkxLDcxOT
-kxNDYyNSwtNjgxNTc4MTBdfQ==
+eyJoaXN0b3J5IjpbMTk5NzQ2NzQ2MSw3MTk5MTQ2MjUsLTE4MD
+IyNTg3OTEsLTY4MTU3ODEwXX0=
 -->
