@@ -72,8 +72,12 @@ So, how does one not give up when things are seemingly uneventful and things don
 I think there are a few things one can do.
 
 - Everytime you work on anything related to video game development, remind yourself of the end goal of making your dream video game so that you don't lose sight and lose inspiration.
-- Find beauty and appreciation in every part of every subject you learn along the way. Computers are quite remarkable, complex machines. It's impressive that you can do anything with them at all.
+- Find beauty in every little part of every subject you learn along the way and appreciate even the smallest things. Computers are quite remarkable, complex machines. It's impressive that you can do anything with them at all.
+
+I suppose I'm currently trying these things, and I'll see how it goes!
+
+Due to "life", gamedev things are extremely slow, but speed has nothing to do with knowledge. And, knowledge is what I'm after, no matter the time it takes me. 🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODc2MjYyMCw3MTk5MTQ2MjUsLTE4MD
-IyNTg3OTEsLTY4MTU3ODEwXX0=
+eyJoaXN0b3J5IjpbNzYzNzcxMTE0LDcxOTkxNDYyNSwtMTgwMj
+I1ODc5MSwtNjgxNTc4MTBdfQ==
 -->
