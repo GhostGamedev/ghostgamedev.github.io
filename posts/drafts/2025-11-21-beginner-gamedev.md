@@ -1,6 +1,6 @@
 ---
 title: "The Story of a Beginner Video Game Developer Before Game Engines"
-date: 2025-11-25
+date: 2025-11-
 ---
 
 # The story of a beginner video game developer (before game engines)
@@ -76,8 +76,13 @@ I think there are a few things one can do.
 
 I suppose I'm currently trying these things, and I'll see how it goes!
 
-Due to "life", gamedev things are extremely slow, but speed has nothing to do with knowledge. And, knowledge is what I'm after, no matter the time it takes me. 🙂
+Due to "life", gamedev things are extremely slow, but speed has nothing to do with knowledge. And, knowledge is what I'm after, no matter the time it takes me. 🙂<!--
+
+GPU
+
+-->
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNzcxMTE0LDcxOTkxNDYyNSwtMTgwMj
-I1ODc5MSwtNjgxNTc4MTBdfQ==
+eyJoaXN0b3J5IjpbLTg5Njg0OTQ2OCw3NjM3NzExMTQsNzE5OT
+E0NjI1LC02ODE1NzgxMF19
 -->
