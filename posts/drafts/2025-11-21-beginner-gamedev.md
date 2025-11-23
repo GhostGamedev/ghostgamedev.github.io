@@ -67,22 +67,18 @@ I think the whole process is a deep and uneventful road. But, I think that's jus
 
 ## How to not give up?
 
-So, how does one not give up when things are seemingly uneventful and things don't feel like your making progress towards your actual goal of making a video game?
+So, how does one not give up when things are seemingly uneventful and things don't feel like you're making progress towards your actual goal of making a video game?
 
-I think there are a few things one can do.
+I think there are a few things one can do,
 
-- Everytime you work on anything related to video game development, remind yourself of the end goal of making your dream video game so that you don't lose sight and lose inspiration.
+- Every time you work on anything related to video game development, remind yourself of the end goal of making your dream video game so that you don't lose sight and lose inspiration.
 - Find beauty in every little part of every subject you learn along the way and appreciate even the smallest things. Computers are quite remarkable, complex machines. It's impressive that you can do anything with them at all.
 
 I suppose I'm currently trying these things, and I'll see how it goes!
 
-Due to "life", gamedev things are extremely slow, but speed has nothing to do with knowledge. And, knowledge is what I'm after, no matter the time it takes me. 🙂<!--
-
-GPU
-
--->
+However, due to "life", gamedev things are currently extremely slow for me, but hey! It's still going! And, that's what matters! 🙂
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Njg0OTQ2OCw3NjM3NzExMTQsNzE5OT
-E0NjI1LC02ODE1NzgxMF19
+eyJoaXN0b3J5IjpbLTE0MzI1NzA0NDMsNzYzNzcxMTE0LDcxOT
+kxNDYyNSwtNjgxNTc4MTBdfQ==
 -->
