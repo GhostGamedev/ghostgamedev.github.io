@@ -1,6 +1,6 @@
 ---
 title: "The Story of a Beginner Video Game Developer Before Game Engines"
-date: 2025-11-21
+date: 2025-11-
 ---
 
 # The story of a beginner video game developer (before game engines)
@@ -69,17 +69,17 @@ I think the whole process is a deep and uneventful road. But, I think that's jus
 
 So, how does one not give up when things are seemingly uneventful and things don't feel like you're making progress towards your actual goal of making a video game?
 
-I think there are a few things one can do,
+I think there are a few things one can do
 
 - Every time you work on anything related to video game development, remind yourself of the end goal of making your dream video game so that you don't lose sight and lose inspiration.
 - Find beauty in every little part of every subject you learn along the way and appreciate even the smallest things. Computers are quite remarkable, complex machines. It's impressive that you can do anything with them at all.
 
 I suppose I'm currently trying these things, and I'll see how it goes!
 
-Admittedly, due to "life things", gamedev things are currently extremely slow for me, but hey! It's still going! And, that's what matters! 🙂
+AdmittedlyHowever, due to "life things", gamedev things are currently extremely slow for me, but hey! It's still going! And, that's what matters! 🙂
 
 I hope you enjoyed this story and I look forward
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMjg1MDk1LDc2Mzc3MTExNCw3MTk5MT
-Q2MjUsLTY4MTU3ODEwXX0=
+eyJoaXN0b3J5IjpbLTM3MjczMzM1Miw5MTAyODUwOTUsNzYzNz
+cxMTE0LDcxOTkxNDYyNSwtNjgxNTc4MTBdfQ==
 -->
