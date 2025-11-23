@@ -1,6 +1,6 @@
 ---
 title: "The Story of a Beginner Video Game Developer Before Game Engines"
-date: 2025-11-
+date: 2025-11-21
 ---
 
 # The story of a beginner video game developer (before game engines)
@@ -76,9 +76,10 @@ I think there are a few things one can do,
 
 I suppose I'm currently trying these things, and I'll see how it goes!
 
-However, due to "life", gamedev things are currently extremely slow for me, but hey! It's still going! And, that's what matters! 🙂
+Admittedly, due to "life things", gamedev things are currently extremely slow for me, but hey! It's still going! And, that's what matters! 🙂
 
+I hope you enjoyed this story and I look forward
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI1NzA0NDMsNzYzNzcxMTE0LDcxOT
-kxNDYyNSwtNjgxNTc4MTBdfQ==
+eyJoaXN0b3J5IjpbOTEwMjg1MDk1LDc2Mzc3MTExNCw3MTk5MT
+Q2MjUsLTY4MTU3ODEwXX0=
 -->
