@@ -5,7 +5,7 @@ date: 2025-11-21
 
 # The story of a beginner video game developer (before game engines)
 
-*Below is a story about me when I was a younger chap (combined with some wisdom of being a bit older today) wanting to build a 3D video game before game engines were well-known. I also think this story is quite likely the same story as many, many other people. The story is told in the 'you' tense - like, a copy of myself talking to myself. I hope you enjoy.* 🙂
+*Below is a story about me when I was a younger chap (combined with some wisdom of being a bit older today) wanting to build a 3D video game before game engines were mainstream. I also think this story is quite likely the same story as many, many other people. The story is told in the 'you' tense - like, a copy of myself talking to myself. I hope you enjoy.* 🙂
 
 So, you want to build a video game.
 
@@ -13,9 +13,7 @@ Why?
 
 Is that even a question?
 
-Because video games are remarkable, beautiful things.
-
-Duh.
+Because video games are remarkable things.
 
 Moving on!
 
@@ -41,17 +39,17 @@ So, beginners tend to jump straight into **graphics programming** thinking, "I'm
 
 But, here's the thing... You're a "go-getter" - an "action-oriented" kind of person (although, you don't consciously know that about yourself yet), so you say, well, I'll learn as I "dig through the trenches" - let's just **GO**, let's just **DO IT**.
 
-You start "Googling" (using Google to search for) things, find a tutorial that resonates with you, install a C compiler, make a hello world program, and things feel okay ✅. Then, all of a sudden, things get complicated really quick (seemingly out of nowhere) - there are words you don't know, you're completely lost, you try to ignore those words and just keep moving on, that makes it worse, then you finally just give up after a week of essentially nothingness.
+You start "Googling" (using Google to search for) things, find a tutorial that resonates with you, install a C compiler for the first time in your life, make a hello world program, and things feel okay ✅. Then, all of a sudden, things get complicated (seemingly out of nowhere) - there are words you don't know, you're completely lost, you try to ignore the words you don't know and just keep moving on, that makes it worse, then you finally just give up after a week of essentially nothingness.
 
 ## Lesson: perhaps bring a shovel to the trenches
 
-So, I can say from (this exact) experience, bringing a shovel is naturally much, much better than jumping into trenches and digging with your bare hands...
+So, I can say from (this exact) experience, bringing a shovel is naturally much, much better than jumping into trenches and digging with your bare hands... You simply don't make much, or any, progress - especially if the mud is really dense.
 
 So, the big question is, what is the equivalent of a shovel in the context of video game development?
 
 I'd say the modern-day answer is a "game engine" (Godot, Unity, Unreal, etc). But, back then, game engines didn't really exist (in the mainstream, anyway) (NOTE: I used to build games in Flash+ActionScript, but that was for 2D games and I wanted to do 3D). And, today, I wish to build "from scratch", so even today, I don't want to use a mainstream game engine.
 
-So, then, what is the shovel equivalent?
+So, then, what is the shovel equivalent without one of the modern game engines?
 
 I'd say it's really just "knowledge".
 
@@ -63,7 +61,7 @@ So, what do you do?
 
 You first become a beginner of "computer graphics". Then, later on, you become a "graphics programming beginner", then you become a "software engineering beginner", then you become an "audio programmer beginning", then you become a "FILL IN THE BLANK beginner", etc, etc.
 
-I think the whole process is a deep and uneventful road. But, I think that's just the way it goes. I think modern-day game engines help you get immediate positive feedback - ie, in about 5 hours, you can have a beautiful rotating cube on the screen - 1 hour to download and install a massively bloated game engine on your computer, 3 hours to learn the absolute basics of navigating the editor that the game engine comes with, and 1 hour for your 2 lines of code to finally work because it keeps breaking because you don't know how to code yet. And, hey, 5 hours is amazing compared to, say, 5 months. And, I think that immediate satisfaction gives you endorphins to want to keep going, whereas having a red square on a screen after 1 month is a bit grim and makes it easy to just want to give up.
+I think the whole process is a deep and uneventful road. But, I think that's just the way it goes. I think modern-day game engines help you get immediate positive feedback - ie, in about 5 hours, you can have a beautiful rotating cube on the screen - 1 hour to download and install a massively bloated game engine on your computer, 3 hours to learn the basics of navigating the editor that the game engine comes with, and 1 hour for your 2 lines of code to finally work because it keeps breaking because you don't know how to code yet. And, hey, 5 hours is amazing compared to, say, 5 months. And, I think that immediate satisfaction gives you endorphins to want to keep going, whereas having a red square on a screen after 1 month is a bit grim and makes it easy to just want to give up.
 
 ## How to not give up?
 
@@ -76,9 +74,9 @@ I think there are a few things one can do
 
 I suppose I'm currently trying these things, and I'll see how it goes!
 
-Admittedly, however, due to "life things", gamedev things are currently a bit slow for me... But, hey! It's still going! And, that's what matters! 🙂
+Admittedly, however, due to "life things", gamedev things are currently a bit slow for me... But, hey! It's still going! And, that's what matters! 🙂🕹️
 
-I hope you enjoyed this story and I look forward to chatting again soon! 🙂
+Well, I hope you enjoyed this story and I look forward to chatting again soon! 🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDAzNzAzNV19
+eyJoaXN0b3J5IjpbMTgzMzUyNDE2NywxMzg0MDM3MDM1XX0=
 -->
