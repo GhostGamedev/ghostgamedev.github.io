@@ -20,12 +20,12 @@ I guess it's been a little over a month since I wrote my last post...
 
 Recently, I've been thinking about GhostGamedev, and for whatever reason, I started asking myself the questions,
 
-Why am I doing this? Why am I blogging? What is my goal? Do I have a goal?
+Why am I doing this? Why am I blogging? What is the goal? Do I have a goal?
 
 Initially, my intent was simply because,
 
 - I enjoy it - I think writing is kinda fun - well, writing in the way I want to, anyway...
-- I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on... And, laugh. Just kidding. 🤣
+- I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on.
 - I also thought it would be cool to just talk about cool things.
 
 But, then I realized that there perhaps might be another reason - a deeper reason.
@@ -34,11 +34,11 @@ I don't think I fully understand it yet, but I'll try my best, haha.
 
 # What is my goal in blogging?
 
-I think gamedev, especially gamedev from scratch, is a really difficult process and perhaps it's even a bit cold and lonely.
+I think gamedev, especially gamedev from scratch, is a really difficult and discouraging process.
 
-So, perhaps I'm creating this blog to make gamedev feel less lonely and less cold - perhaps to make it feel more wholesome and warm - for myself and also for other people who may happen to stumble across this tiny little blog.
+So, perhaps I'm creating this blog to make gamedev feel cozier and more encouraging - for myself and also for other people who may happen to stumble across this tiny little blog.
 
-Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games! Because I'm just a normal guy! I'm not particularly smart - I've always just tried my best at things. 🤷
+Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart - I've always just tried my best at things. 🤷
 
 So, maybe my intent is to make a "space" where aspiring gamedevs can feel safe to express anything - even things that are extremely simple and to not feel judged - a space where struggles are relatable and support can be provided.
 
@@ -48,9 +48,9 @@ I don't know if that changes anything... 😆
 
 But!
 
-It does give me purpose! Haha
+It does give me more purpose! Haha
 
-Like, to know that perhaps I'm doing some future kid/teen/adult/elder who aspires to build video games a favor. That's pretty cool. Really cool, actually, haha. Well... To me, anyway...
+Like, to know that perhaps I'm doing some future kid/teen/adult/elder who aspires to build video games a favor. That's pretty cool. Well... To me, anyway...
 
 It's something I didn't have (hence you see me struggling with this stuff today, haha), so it feels nice to at least try to give it forward in any way that I can!
 
@@ -70,11 +70,11 @@ I also made updates to the blog! I should talk about that as well. 👀
 
 Not a whole lot, but I'm moving! And, that's what matters!
 
-I'm getting tired, so I'll finish this post later.
+Okay, I'm getting tired, so I'll finish this post later.
 
 I hope you've been well. 🙂
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQwMzM0OTJdfQ==
+eyJoaXN0b3J5IjpbNzM5OTI4NDM1LC0xNDk0MDMzNDkyXX0=
 -->
