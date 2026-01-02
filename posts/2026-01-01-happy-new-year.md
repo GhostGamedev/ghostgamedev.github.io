@@ -54,8 +54,6 @@ Like, to know that perhaps I'm doing some future kid/teen/adult/elder who aspire
 
 It's something I didn't have (hence you see me struggling with this stuff today, haha), so it feels nice to at least try to give it forward in any way that I can!
 
-Not everyone has access to mentorship and support.
-
 # ...
 
 Also, I made this in WebGL2, haha. 
@@ -70,5 +68,5 @@ I'm getting tired, so I'll finish this post later.
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTQ0NzU4N119
+eyJoaXN0b3J5IjpbMTIxNDA5MTE1XX0=
 -->
