@@ -110,8 +110,8 @@ eyJoaXN0b3J5IjpbLTUxMTE2MTk1Ml19
 <p>Video game development has so, so, so, so much depth. It's mind-blowing. Video games are probably one of the most complex applications of graphics processing out there - just look up &quot;ray tracing&quot;. Even 3D graphics itself involves pure matrix mathematics. Video games often rely on sophisticated mathematical physics models/simulations - look up &quot;broad phase vs narrow phase&quot; or &quot;space partitioning&quot;. Then, if a game is a real-time online multiplayer game, then you get into &quot;netcode&quot; (on the network layer) - look up &quot;predictive roll-back&quot; - a technique used to make players feel like they are with each other in real-time even though there might be seconds of latency between them. And, this is the surface of it all...</p>
 <p>It's truly amazing. And, honestly, it feels good to express gratitude to all of the people before me who have come up with remarkable methods of &quot;bending a computer&quot; to do what we want it to do in terms of giving people meaningful, interactive experiences via the channel of video games through the years.</p>
 <p>But, today, I can't help but think people have forgotten the profound depth and elegance of computers, computer software, and video games.</p>
-<p>Lost appreciation
-I read Reddit forums/subreddits on game development and very often see comments like, &quot;I could build this game in Unity in a month&quot;.</p>
+<h3>Lost appreciation</h3>
+<p>I read Reddit forums/subreddits on game development and very often see comments like, &quot;I could build this game in Unity in a month&quot;.</p>
 <p>And, I always have just one thing so say about that... Everytime... And, that is,</p>
 <p>&quot;🤦‍♂️&quot;</p>
 <p>To me, I don't care how basic or how complex a video game is. All video games are amazing. Why? Because of just how much is actually happening on a computational level even for the most basic video games to simply exist. Graphics processing, input drivers, audio processing/drivers, mathematics - just to get started.</p>
@@ -126,7 +126,7 @@ I read Reddit forums/subreddits on game development and very often see comments 
 <h2>What this means</h2>
 <p>Here on GhostGamedev, I think I'd like to explore trying to &quot;build a game from scratch&quot; or at least feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🙂</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDM1MTE2Nl19
+eyJoaXN0b3J5IjpbNDAyNTgyMDU3LDIxMDAzNTExNjZdfQ==
 --></p>
   <br />
 
@@ -159,7 +159,7 @@ Ie, I believe that software development has all of the elements of a game,</p>
 <p>I finally learned about &quot;margin collapsing&quot; in frontend webdev for the first time in my life 😆. I've been a web developer for quite a while, and admittedly, whenever I've encountered &quot;strage and unusual spacing jankness&quot;, I've looked for quick fixes and spammed solutions without actually learning what is going on - largely due to time constraints (the &quot;just get it done&quot; mentality) (oh, and, btw, it's not a good mentality - I don't recommend it - it's just what the corporate grind does to you and it's never good). But, here, with GhostGamedev, I'm taking my time 🙂. So, this time, I finally learned about it! Particularly, the strange behavior of the HTML element and the body element when you have a P tag inside the body.</p>
 <p>If you don't know what I'm talking about, create a basic HTML page with a single P (paragraph) tag, go to dev tools, and look at all of the strange and unusual spacing between the HTML (aka &quot;root&quot;) element, the body element, and the paragraph element. The body element will be mysteriously translated downward, the contents of the body will extend outwards outside of the body (being the margins from the child P tag), and the HTML element will be the size of the children of the body (including the margins of the child P tag) whereas the body element will not (it will be smaller than its own contents). It makes it even more confusing that the body element has its own margins set by default as well.</p>
 <p>My personal rule of thumb that I've followed over the years has always been:</p>
-<p>Do this, (which gets rid of any potential default window margin/padding across browsers)</p>
+<p>Do this in CSS,</p>
 <pre><code>html, body {
   margin: 0;
   padding: 0;
@@ -167,10 +167,12 @@ Ie, I believe that software development has all of the elements of a game,</p>
   height: 100%;
 }
 </code></pre>
-<p>And, never use margins (ie, set/override all margins to 0) and use padding instead.
-But, now, I know that if an element has its own &quot;block formatting context&quot;, then the margin of children elements stay within the parent element and don't get processed (via &quot;margin collapsing&quot;) externally.</p>
-<p>Oh, also, for the record, I decided to use <code>display: flow-root;</code> to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest method and I'm not so worried about browser support if display: flow-root; is a particularly new browser specification. (sorry legacy browser users!)</p>
-<p>So, my issue was that I was afraid of using P tags (because they have margins by default) and margins, but now I feel much better about using both of them! 🎉</p>
+<p>And, that gets rid of any/all potential default window margin (and padding) across browsers. ✅</p>
+<p>And, just never (or very sparingly) use margins (ie, set/override all margins to 0) and use padding instead.</p>
+<p>But!</p>
+<p>Now, I know that if an element has its own &quot;block formatting context&quot;, then the margin of children elements stay within the containing element and doesn't get processed (via &quot;margin collapsing&quot;) externally. 🙂</p>
+<p>Oh, also, for the record, I decided to use <code>display: flow-root;</code> to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest and simplest method. And, I'm not so worried about browser support if <code>display: flow-root;</code> is a particularly new browser specification. (sorry legacy browser users!)</p>
+<p>So, my issue was that I was afraid of using margins as well as P tags (because they have margins by default), but now I feel much better about using both of them! 🎉</p>
 <h2>Blog version 1 - DigitalOcean Droplet</h2>
 <p>For the next version of the blog, which I plan to work on soon, I plan to build &amp; host a website on a DigitalOcean Droplet. However, there is one concern I have with DigitalOcean:</p>
 <p>Data transfer costs additional, unbounded money per GB on top of the base $4 per month (well, specifically, data sent (egress) - data received (ingress) is free ✅).</p>
@@ -183,8 +185,9 @@ But, now, I know that if an element has its own &quot;block formatting context&q
 <p>Actually, another side note: I want to do some actual gamedev as well! So, that will probably slow down my server setup work! I guess I'll be context switching between the two things because, well, I want both of those things, haha.</p>
 <p>Well, that's all for now! I'll proofread this later... Or, maybe never... 😝</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1NDk1NTMyLC00NTE4OTQwNjcsMTc3Mz
-Y0MzM1NCw5MDg2MjU1NDUsLTE0OTI1OTE0MTddfQ==
+eyJoaXN0b3J5IjpbLTIxNDI5ODMyMzAsODA1NDk1NTMyLC00NT
+E4OTQwNjcsMTc3MzY0MzM1NCw5MDg2MjU1NDUsLTE0OTI1OTE0
+MTddfQ==
 --></p>
   <br />
 
