@@ -66,6 +66,8 @@ That's what I've done so far in my gamedev journey. 🧙‍♂️🕹️
 
 I also made a "Hello, World!" in C. 😝
 
+I also made updates to the blog! I should talk about that as well. 👀
+
 Not a whole lot, but I'm moving! And, that's what matters!
 
 I'm getting tired, so I'll finish this post later.
@@ -74,5 +76,5 @@ I hope you've been well. 🙂
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI2NzM1MzNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTQwMzM0OTJdfQ==
 -->
