@@ -1,10 +1,70 @@
 ---
-layout: layout.liquid
+layout: home.liquid
 ---
 
+
+{% comment %} ----------------------------------------- {% endcomment %}
+{% comment %} welcome {% endcomment %}
+
+<p>
+  Hello and welcome to GhostGamedev - a blog where I talk about gamedev and webdev! 
+  Below you'll find a list of links to individual posts, 
+  and if you keep scrolling, 
+  you'll find all of my posts rendered here in a single page.
+</p>
+<br />
+<br />
+<br />
+
+
+{% comment %} ----------------------------------------- {% endcomment %}
+{% comment %} table of contents {% endcomment %}
+
+<hr />
+
+<h2 style="text-align: center;">Posts</h2>
+
+<div class="content">
+  {% for post in collections.post reversed %}
+    <a href="{{ post.url }}">{{ post.data.title }}</a>
+    <span>- {{ post.data.date | myDateString }}</span>
+    <br />
+    <br />
+  {% endfor %}
+</div>
+
+<br />
+<hr />
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+{% comment %} ----------------------------------------- {% endcomment %}
+{% comment %} posts {% endcomment %}
+
+{% comment %} <div style="text-align: center;">
+  <h2>All Posts...</h2>
+  <span><i>Most recent posts are on top</i></span>
+</div> {% endcomment %}
+
+<br />
+
 {% for post in collections.post reversed %}
-  <hr />  
-  {% comment %} <a href="{{ post.url }}">{{ post.data.title }}</a> {% endcomment %}
+  <hr />
   <p>{{ post.data.date | myDateString }}</p>
   <p>{{ post.templateContent }}</p>
   <br />
