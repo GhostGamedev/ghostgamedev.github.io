@@ -15,6 +15,8 @@ Is that even a question?
 
 Because video games are remarkable things.
 
+I couldn't agree more!
+
 Moving on!
 
 ## What should you do?
@@ -78,5 +80,6 @@ Admittedly, however, due to "life things", gamedev things are currently a bit sl
 
 Well, I hope you enjoyed this story and I look forward to chatting again soon! 🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzUyNDE2NywxMzg0MDM3MDM1XX0=
+eyJoaXN0b3J5IjpbOTM1NzM1NzMyLDE4MzM1MjQxNjcsMTM4ND
+AzNzAzNV19
 -->
