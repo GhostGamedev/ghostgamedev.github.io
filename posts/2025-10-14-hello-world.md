@@ -1,5 +1,6 @@
 ---
 title: "Hello World"
+permalink: "/hello-world/"
 date: 2025-10-14
 ---
 
@@ -90,7 +91,7 @@ Actually, another side note: I want to do some actual gamedev as well! So, that 
 
 Well, that's all for now! I'll proofread this later... Or, maybe never... 😝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI5ODMyMzAsODA1NDk1NTMyLC00NT
-E4OTQwNjcsMTc3MzY0MzM1NCw5MDg2MjU1NDUsLTE0OTI1OTE0
-MTddfQ==
+eyJoaXN0b3J5IjpbMTIyOTYxOTI1OCw4MDU0OTU1MzIsLTQ1MT
+g5NDA2NywxNzczNjQzMzU0LDkwODYyNTU0NSwtMTQ5MjU5MTQx
+N119
 -->
