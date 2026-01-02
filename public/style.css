@@ -7,11 +7,18 @@ html, body {
 body {
   line-height: 1.5;
   font-family: Tahoma, sans-serif;
-  color: white;
-  background-color: black;
+  /* color: #FBFBFB; */
+  /* color: #BFBFBF; */
+  /* color: #dedede; */
+  color: #d6d6d6;
+  /* background-color: #1A1A1E; */
+  background-color: #171717;
 }
 a {
-  color: white;
+  /* color: #FBFBFB; */
+  /* color: #BFBFBF; */
+  /* color: #dedede; */
+  color: #d6d6d6;
 }
 
 /* attempt at making text prettier ~ don't know if it does anything */
