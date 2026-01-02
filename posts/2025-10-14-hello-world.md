@@ -30,6 +30,7 @@ In fact, the very first thing to blog about is this blog itself!
 
 
 ## Blog version 0 - GitHub Pages
+
 For simplicity, I decided to use a GitHub Pages static website (this current website) to start my blog. It's bare bones, but I actually find it quite nice because I'm just writing HTML code and it feels rather cozy 🙂. I think GitHub Pages has built-in support for some sort of static site generation, but I'm just writing straight up HTML because why not. However, I do plan to create a server using a DigitalOcean Droplet and build/host a more traditional website - ie, a server that generates and serves HTML pages. More on that later...
 
 Additionally, I have exciting news! While building this basic blog website, I encountered my first ever GhostGamedev problem/bug! 👀
@@ -42,7 +43,7 @@ If you don't know what I'm talking about, create a basic HTML page with a single
 
 My personal rule of thumb that I've followed over the years has always been:
 
-Do this, (which gets rid of any potential default window margin/padding across browsers)
+Do this in CSS,
 
 ```
 html, body {
@@ -53,12 +54,17 @@ html, body {
 }
 ```
 
-And, never use margins (ie, set/override all margins to 0) and use padding instead.
-But, now, I know that if an element has its own "block formatting context", then the margin of children elements stay within the parent element and don't get processed (via "margin collapsing") externally.
+And, that gets rid of any/all potential default window margin (and padding) across browsers. ✅
 
-Oh, also, for the record, I decided to use `display: flow-root;` to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest method and I'm not so worried about browser support if display: flow-root; is a particularly new browser specification. (sorry legacy browser users!)
+And, just never (or very sparingly) use margins (ie, set/override all margins to 0) and use padding instead.
 
-So, my issue was that I was afraid of using P tags (because they have margins by default) and margins, but now I feel much better about using both of them! 🎉
+But!
+
+Now, I know that if an element has its own "block formatting context", then the margin of children elements stay within the containing element and doesn't get processed (via "margin collapsing") externally. 🙂
+
+Oh, also, for the record, I decided to use `display: flow-root;` to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest and simplest method. And, I'm not so worried about browser support if `display: flow-root;` is a particularly new browser specification. (sorry legacy browser users!)
+
+So, my issue was that I was afraid of using margins as well as P tags (because they have margins by default), but now I feel much better about using both of them! 🎉
 
 
 ## Blog version 1 - DigitalOcean Droplet
@@ -84,6 +90,7 @@ Actually, another side note: I want to do some actual gamedev as well! So, that 
 
 Well, that's all for now! I'll proofread this later... Or, maybe never... 😝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1NDk1NTMyLC00NTE4OTQwNjcsMTc3Mz
-Y0MzM1NCw5MDg2MjU1NDUsLTE0OTI1OTE0MTddfQ==
+eyJoaXN0b3J5IjpbLTIxNDI5ODMyMzAsODA1NDk1NTMyLC00NT
+E4OTQwNjcsMTc3MzY0MzM1NCw5MDg2MjU1NDUsLTE0OTI1OTE0
+MTddfQ==
 -->
