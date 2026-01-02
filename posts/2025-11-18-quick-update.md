@@ -1,5 +1,6 @@
 ---
 title: "Quick Update"
+permalink: "/quick-update-2025-11-18/"
 date: 2025-11-18
 ---
 
@@ -23,5 +24,5 @@ I plan to do posts about all of these things, but for now I just wanted to do th
 
 I hope you are well, and I look forward to seeing you again soon! 👻🙂🙏
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTE2MTk1Ml19
+eyJoaXN0b3J5IjpbLTEyMzE2NTIyMDVdfQ==
 -->
