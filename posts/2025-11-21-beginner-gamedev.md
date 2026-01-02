@@ -1,5 +1,6 @@
 ---
 title: "The Story of a Beginner Video Game Developer Before Game Engines"
+permalink: "/story-of-a-beginner-video-game-developer-before-game-engines/"
 date: 2025-11-21
 ---
 
@@ -80,6 +81,6 @@ Admittedly, however, due to "life things", gamedev things are currently a bit sl
 
 Well, I hope you enjoyed this story and I look forward to chatting again soon! 🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1NzM1NzMyLDE4MzM1MjQxNjcsMTM4ND
-AzNzAzNV19
+eyJoaXN0b3J5IjpbLTY3OTcyMDg1MCw5MzU3MzU3MzIsMTgzMz
+UyNDE2NywxMzg0MDM3MDM1XX0=
 -->
