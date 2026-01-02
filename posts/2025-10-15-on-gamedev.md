@@ -37,7 +37,8 @@ It's truly amazing. And, honestly, it feels good to express gratitude to all of 
 
 But, today, I can't help but think people have forgotten the profound depth and elegance of computers, computer software, and video games.
 
-Lost appreciation
+### Lost appreciation
+
 I read Reddit forums/subreddits on game development and very often see comments like, "I could build this game in Unity in a month".
 
 And, I always have just one thing so say about that... Everytime... And, that is,
@@ -66,5 +67,5 @@ So, all in all, I think game engines are truly good, but I think you lose some o
 
 Here on GhostGamedev, I think I'd like to explore trying to "build a game from scratch" or at least feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDM1MTE2Nl19
+eyJoaXN0b3J5IjpbNDAyNTgyMDU3LDIxMDAzNTExNjZdfQ==
 -->
