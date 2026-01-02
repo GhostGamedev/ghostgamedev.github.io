@@ -35,3 +35,7 @@ p {
 .post {
   display: block flow-root;  /* prevents child margins from extending outside of element due to margin collapsing */
 }
+
+img {
+  max-width: 100%;
+}
