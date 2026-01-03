@@ -18,27 +18,27 @@ I guess it's been a little over a month since I wrote my last post...
 
 # So, what's been happening?
 
-Recently, I've been thinking about GhostGamedev, and for whatever reason, I started asking myself the questions,
+Recently, I've been thinking about this GhostGamedev blog, and for whatever reason, I started asking myself the questions,
 
-Why am I doing this? Why am I blogging? What is the goal? Do I have a goal?
+Why am I doing all of this writing when I could be learning game development instead? Why am I blogging? Am I trying to achieve anything in my blogging? What am I trying to achieve?
 
 Initially, my intent was simply because,
 
 - I enjoy it - I think writing is kinda fun - well, writing in the way I want to, anyway...
-- I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on.
+- I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on. Although, I could technically achieve that without posting publicly... So?? 🤷‍♂️
 - I also thought it would be cool to just talk about cool things.
 
 But, then I realized that there perhaps might be another reason - a deeper reason.
 
-I don't think I fully understand it yet, but I'll try my best, haha.
+I don't think I fully understand it yet, but I'll try my best to explain what I feel so far, haha.
 
-# What is my goal in blogging?
+# What am I trying to achieve in blogging?
 
-I think gamedev, especially gamedev from scratch, is a really difficult and discouraging process.
+I think gamedev is a difficult and often discouraging process.
 
 So, perhaps I'm creating this blog to make gamedev feel cozier and more encouraging - for myself and also for other people who may happen to stumble across this tiny little blog.
 
-Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart - I've always just tried my best at things. 🤷
+Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart nor artistic - I just try my best at things. 🤷
 
 So, maybe my intent is to make a "space" where aspiring gamedevs can feel safe to express anything - even things that are extremely simple and to not feel judged - a space where struggles are relatable and support can be provided.
 
@@ -50,31 +50,34 @@ But!
 
 It does give me more purpose! Haha
 
-Like, to know that perhaps I'm doing some future kid/teen/adult/elder who aspires to build video games a favor. That's pretty cool. Well... To me, anyway...
+Like, to know that perhaps I'm helping some future kid/teen/adult/elder out there who aspires to build video games. That's pretty cool. Well... To me, anyway...
 
-It's something I didn't have (hence you see me struggling with this stuff today, haha), so it feels nice to at least try to give it forward in any way that I can!
+It's something I didn't exactly have (hence you see me struggling with this stuff today, haha), so it feels nice to at least try to give it forward in any way that I can!
 
-# ...
+# Anyway...
 
-Also, I made this in WebGL2, haha. 
+I made this in WebGL2...
+
+Behold - the most beautiful quadrilateral you've ever seen. 🟦
 
 ![WebGL2 quadrilateral](/webgl2-square.png)
 
-Behold - the most beautiful quadrilateral you've ever seen.
+I also made a "Hello, World!" in C using TCC (Tiny C Compiler). 🙂
 
-That's what I've done so far in my gamedev journey. 🧙‍♂️🕹️
-
-I also made a "Hello, World!" in C. 😝
+Did you know that there are like 8 or so versions of the C language? Crazy, right?
 
 I also made updates to the blog! I should talk about that as well. 👀
 
-Not a whole lot, but I'm moving! And, that's what matters!
+In a nutshell, that's what I've done in my "gamedev journey" since last time I posted. 🧙‍♂️🕹️
+
+Not a whole lot... But, hey! I'm moving! And, that's what matters!
 
 Okay, I'm getting tired, so I'll finish this post later.
 
-I hope you've been well. 🙂
+I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5OTI4NDM1LC0xNDk0MDMzNDkyXX0=
+eyJoaXN0b3J5IjpbNDAwNzg4OTg5LDczOTkyODQzNSwtMTQ5ND
+AzMzQ5Ml19
 -->
