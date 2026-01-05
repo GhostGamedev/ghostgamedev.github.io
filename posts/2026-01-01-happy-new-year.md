@@ -20,7 +20,7 @@ I guess it's been a little over a month since I wrote my last post...
 
 Recently, I've been thinking about this GhostGamedev blog, and for whatever reason, I started asking myself the questions,
 
-Why am I doing all of this writing when I could be learning game development instead? Why am I blogging? Am I trying to achieve anything in my blogging? What am I trying to achieve?
+Why am I doing all of this writing when I could be learning/doing game development during this time instead? Why am I blogging? Am I trying to achieve anything in my blogging? What am I trying to achieve?
 
 Initially, my intent was simply because,
 
@@ -78,6 +78,6 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwNzg4OTg5LDczOTkyODQzNSwtMTQ5ND
-AzMzQ5Ml19
+eyJoaXN0b3J5IjpbLTExOTgyNTQ1MTcsNDAwNzg4OTg5LDczOT
+kyODQzNSwtMTQ5NDAzMzQ5Ml19
 -->
