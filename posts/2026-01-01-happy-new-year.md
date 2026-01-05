@@ -25,7 +25,7 @@ Why am I doing all of this writing when I could be learning/doing game developme
 Initially, my intent was simply because,
 
 - I enjoy it - I think writing is kinda fun - well, writing in the way I want to, anyway...
-- I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on. Although, I could technically achieve that without posting publicly... So?? 🤷‍♂️
+- I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on. Although, I could technically achieve that without posting it publicly... So?? 🤷‍♂️
 - I also thought it would be cool to just talk about cool things.
 
 But, then I realized that there perhaps might be another reason - a deeper reason.
@@ -78,6 +78,6 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgyNTQ1MTcsNDAwNzg4OTg5LDczOT
-kyODQzNSwtMTQ5NDAzMzQ5Ml19
+eyJoaXN0b3J5IjpbMTU3MjkxNDc2OCw0MDA3ODg5ODksNzM5OT
+I4NDM1LC0xNDk0MDMzNDkyXX0=
 -->
