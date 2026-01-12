@@ -66,6 +66,7 @@ layout: home.liquid
 {% for post in collections.post reversed %}
   <hr />
   <p>{{ post.data.date | myDateString }}</p>
-  <p>{{ post.templateContent }}</p>
+  {{ post.templateContent }}
+  <br />
   <br />
 {% endfor %}
