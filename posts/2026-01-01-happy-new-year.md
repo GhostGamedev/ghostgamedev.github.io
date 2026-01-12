@@ -10,7 +10,9 @@ Well... Happy New Year! It's now 2026! We survived! Woohoo!
 
 But, seriously... What a weird year number... Somehow 2016 feels more normal... 2026 feels... Weird somehow... I'm not even sure why...
 
-But, we can't control time, haha, so however weird it may be, I hope 2026 brings good things for all! 🙏😊
+But, we don't control time, haha, so however weird it is...
+
+I hope 2026 brings good things for all! 🙏😊
 
 And, what better way to start the year than to write a GhostGamedev post? 🙂
 
@@ -38,9 +40,9 @@ I think gamedev is a difficult and often discouraging process.
 
 So, perhaps I'm creating this blog to make gamedev feel cozier and more encouraging - for myself and also for other people who may happen to stumble across this tiny little blog.
 
-Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart nor artistic - I just try my best at things. 🤷
+Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart nor particularly artistic - I just try my best at things. 🤷
 
-So, maybe my intent is to make a "space" where aspiring gamedevs can feel safe to express anything - even things that are extremely simple and to not feel judged - a space where struggles are relatable and support can be provided.
+So, maybe my intent is to make a "small place on the internet" where aspiring gamedevs can feel safe to express anything - even things that are "embarrassingly simple" and not feel judged - a space where struggles are relatable and support can be provided.
 
 So, yeah!
 
@@ -64,6 +66,16 @@ Behold - the most beautiful quadrilateral you've ever seen. 🟦
 
 I also made a "Hello, World!" in C using TCC (Tiny C Compiler). 🙂
 
+Here is it,
+```
+#include  <stdio.h>
+
+int  main() {
+  printf("Hello, World!");
+  return  0;
+}
+```
+
 Did you know that there are like 8 or so versions of the C language? Crazy, right?
 
 I also made updates to the blog! I should talk about that as well. 👀
@@ -78,6 +90,6 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjkxNDc2OCw0MDA3ODg5ODksNzM5OT
-I4NDM1LC0xNDk0MDMzNDkyXX0=
+eyJoaXN0b3J5IjpbNzY4NjM1Mjk4LDE1NzI5MTQ3NjgsNDAwNz
+g4OTg5LDczOTkyODQzNSwtMTQ5NDAzMzQ5Ml19
 -->
