@@ -42,8 +42,6 @@ So, perhaps I'm creating this blog to make gamedev feel cozier and more encourag
 
 Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart nor particularly artistic - I just try my best at things. 🤷
 
-So, maybe my intent is to make a "small place on the internet" where aspiring gamedevs can feel safe to express anything - even things that are "embarrassingly simple" and not feel judged - a space where struggles are relatable and support can be provided.
-
 So, yeah!
 
 I don't know if that changes anything... 😆
@@ -90,6 +88,7 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4NjM1Mjk4LDE1NzI5MTQ3NjgsNDAwNz
-g4OTg5LDczOTkyODQzNSwtMTQ5NDAzMzQ5Ml19
+eyJoaXN0b3J5IjpbNzMwMTYxNjM1LDc2ODYzNTI5OCwxNTcyOT
+E0NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJd
+fQ==
 -->
