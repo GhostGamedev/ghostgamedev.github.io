@@ -66,9 +66,9 @@ I also made a "Hello, World!" in C using TCC (Tiny C Compiler). 🙂
 
 Here is it,
 ```
-#include  <stdio.h>
+#include <stdio.h>
 
-int  main() {
+int main() {
   printf("Hello, World!");
   return  0;
 }
@@ -88,7 +88,7 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMTYxNjM1LDc2ODYzNTI5OCwxNTcyOT
-E0NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJd
-fQ==
+eyJoaXN0b3J5IjpbLTE0MTI4MzA1OTcsNzY4NjM1Mjk4LDE1Nz
+I5MTQ3NjgsNDAwNzg4OTg5LDczOTkyODQzNSwtMTQ5NDAzMzQ5
+Ml19
 -->
