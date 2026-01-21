@@ -70,7 +70,7 @@ Here is it,
 
 int main() {
   printf("Hello, World!");
-  return  0;
+  return 0;
 }
 ```
 
@@ -88,7 +88,7 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI4MzA1OTcsNzY4NjM1Mjk4LDE1Nz
-I5MTQ3NjgsNDAwNzg4OTg5LDczOTkyODQzNSwtMTQ5NDAzMzQ5
-Ml19
+eyJoaXN0b3J5IjpbMTIwMzQyNTg1OSwtMTQxMjgzMDU5NywxNT
+cyOTE0NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0
+OTJdfQ==
 -->
