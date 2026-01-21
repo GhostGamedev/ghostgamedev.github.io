@@ -7,10 +7,10 @@ layout: home.liquid
 {% comment %} welcome {% endcomment %}
 
 <p>
-  Hello and welcome to GhostGamedev - a blog where I talk about gamedev and webdev! 
+  Hello and welcome to GhostGamedev - a blog about gamedev (and some webdev)! 
   Below you'll find a list of links to individual posts, 
   and if you keep scrolling, 
-  you'll find all of my posts rendered here in a single page.
+  you'll find all posts rendered here in a single page.
 </p>
 <br />
 <br />
@@ -63,7 +63,7 @@ layout: home.liquid
 
 <br />
 
-{% for post in collections.post reversed %}
+{% for post in collections.post %}
   <hr />
   <p>{{ post.data.date | myDateString }}</p>
   {{ post.templateContent }}
