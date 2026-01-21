@@ -42,7 +42,11 @@ So, perhaps I'm creating this blog to make gamedev feel cozier and more encourag
 
 Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart nor particularly artistic - I just try my best at things. 🤷
 
-So, yeah!
+So, to put it concretely,
+
+"Ghostgamedev exists to make gamedev feel cozy"
+
+Yeah! I like it!
 
 I don't know if that changes anything... 😆
 
@@ -50,9 +54,9 @@ But!
 
 It does give me more purpose! Haha
 
-Like, to know that perhaps I'm helping some future kid/teen/adult/elder out there who aspires to build video games. That's pretty cool. Well... To me, anyway...
+Like, to know that perhaps I'm helping some future kid/teen/adult/elder out there who aspires to build video games to not give up. That's pretty cool. Well... To me, anyway...
 
-It's something I didn't exactly have (hence you see me struggling with this stuff today, haha), so it feels nice to at least try to give it forward in any way that I can!
+It's something I didn't exactly have (hence you see me struggling with this stuff today, haha), so it feels nice to at least try to give it forward in a way that I can!
 
 # Anyway...
 
@@ -88,7 +92,7 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzQyNTg1OSwtMTQxMjgzMDU5NywxNT
+eyJoaXN0b3J5IjpbLTkzMDM3OTI3NCwtMTQxMjgzMDU5NywxNT
 cyOTE0NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0
 OTJdfQ==
 -->
