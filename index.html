@@ -17,10 +17,10 @@
 
 
 <p>
-  Hello and welcome to GhostGamedev - a blog where I talk about gamedev and webdev! 
+  Hello and welcome to GhostGamedev - a blog about gamedev (and some webdev)! 
   Below you'll find a list of links to individual posts, 
   and if you keep scrolling, 
-  you'll find all of my posts rendered here in a single page.
+  you'll find all posts rendered here in a single page.
 </p>
 <br />
 <br />
@@ -92,59 +92,125 @@
 
 
   <hr />
-  <p>1/1/2026</p>
-  <h1>Happy New Year! 🎉</h1>
-<p>Well... Happy New Year! It's now 2026! We survived! Woohoo!</p>
-<p>But, seriously... What a weird year number... Somehow 2016 feels more normal... 2026 feels... Weird somehow... I'm not even sure why...</p>
-<p>But, we don't control time, haha, so however weird it is...</p>
-<p>I hope 2026 brings good things for all! 🙏😊</p>
-<p>And, what better way to start the year than to write a GhostGamedev post? 🙂</p>
-<p>I guess it's been a little over a month since I wrote my last post...</p>
-<h1>So, what's been happening?</h1>
-<p>Recently, I've been thinking about this GhostGamedev blog, and for whatever reason, I started asking myself the questions,</p>
-<p>Why am I doing all of this writing when I could be learning/doing game development during this time instead? Why am I blogging? Am I trying to achieve anything in my blogging? What am I trying to achieve?</p>
-<p>Initially, my intent was simply because,</p>
+  <p>10/14/2025</p>
+  <h1>Hello, World!</h1>
+<p>Hi! I'm GhostGamedev 👻🕹️🙂.</p>
+<p>Here on GhostGamedev, I plan/want/hope/dream/etc to do,</p>
 <ul>
-<li>I enjoy it - I think writing is kinda fun - well, writing in the way I want to, anyway...</li>
-<li>I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on. Although, I could technically achieve that without posting it publicly... So?? 🤷‍♂️</li>
-<li>I also thought it would be cool to just talk about cool things.</li>
+<li>🕹️ Gamedev</li>
+<li>⌨️ Webdev</li>
+<li>✏️ Blogging (about gamedev &amp; webdev)</li>
 </ul>
-<p>But, then I realized that there perhaps might be another reason - a deeper reason.</p>
-<p>I don't think I fully understand it yet, but I'll try my best to explain what I feel so far, haha.</p>
-<h1>What am I trying to achieve in blogging?</h1>
-<p>I think gamedev is a difficult and often discouraging process.</p>
-<p>So, perhaps I'm creating this blog to make gamedev feel cozier and more encouraging - for myself and also for other people who may happen to stumble across this tiny little blog.</p>
-<p>Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart nor particularly artistic - I just try my best at things. 🤷</p>
-<p>So, yeah!</p>
-<p>I don't know if that changes anything... 😆</p>
-<p>But!</p>
-<p>It does give me more purpose! Haha</p>
-<p>Like, to know that perhaps I'm helping some future kid/teen/adult/elder out there who aspires to build video games. That's pretty cool. Well... To me, anyway...</p>
-<p>It's something I didn't exactly have (hence you see me struggling with this stuff today, haha), so it feels nice to at least try to give it forward in any way that I can!</p>
-<h1>Anyway...</h1>
-<p>I made this in WebGL2...</p>
-<p>Behold - the most beautiful quadrilateral you've ever seen. 🟦</p>
-<p><img src="/webgl2-square.png" alt="WebGL2 quadrilateral"></p>
-<p>I also made a &quot;Hello, World!&quot; in C using TCC (Tiny C Compiler). 🙂</p>
-<p>Here is it,</p>
-<pre><code>#include &lt;stdio.h&gt;
-
-int main() {
-  printf(&quot;Hello, World!&quot;);
-  return  0;
+<p>I believe that developing games/apps/software/etc is a game in itself.
+Ie, I believe that software development has all of the elements of a game,</p>
+<ul>
+<li>Fun = It's challenging (which is the heart of &quot;funness&quot;)</li>
+<li>Levels/progression = It changes the deeper you get into it</li>
+<li>Win condition = Building the software</li>
+</ul>
+<p>Software development itself is like a massive adventure game. So, here on GhostGamedev, I'm going to treat software development like an adventure game!</p>
+<p>To start my GhostGamedev adventures, I wanted to start with the &quot;blogging&quot; aspect. I just enjoy blogging, so yeah. It feels right.</p>
+<p>My goal with blogging is to talk about stuff as I do stuff - like problems, solutions, cool stuff, etc.</p>
+<p>In fact, the very first thing to blog about is this blog itself!</p>
+<h2>Blog version 0 - GitHub Pages</h2>
+<p>For simplicity, I decided to use a GitHub Pages static website (this current website) to start my blog. It's bare bones, but I actually find it quite nice because I'm just writing HTML code and it feels rather cozy 🙂. I think GitHub Pages has built-in support for some sort of static site generation, but I'm just writing straight up HTML because why not. However, I do plan to create a server using a DigitalOcean Droplet and build/host a more traditional website - ie, a server that generates and serves HTML pages. More on that later...</p>
+<p>Additionally, I have exciting news! While building this basic blog website, I encountered my first ever GhostGamedev problem/bug! 👀</p>
+<h3>My first problem/bug!</h3>
+<p>I finally learned about &quot;margin collapsing&quot; in frontend webdev for the first time in my life 😆. I've been a web developer for quite a while, and admittedly, whenever I've encountered &quot;strage and unusual spacing jankness&quot;, I've looked for quick fixes and spammed solutions without actually learning what is going on - largely due to time constraints (the &quot;just get it done&quot; mentality) (oh, and, btw, it's not a good mentality - I don't recommend it - it's just what the corporate grind does to you and it's never good). But, here, with GhostGamedev, I'm taking my time 🙂. So, this time, I finally learned about it! Particularly, the strange behavior of the HTML element and the body element when you have a P tag inside the body.</p>
+<p>If you don't know what I'm talking about, create a basic HTML page with a single P (paragraph) tag, go to dev tools, and look at all of the strange and unusual spacing between the HTML (aka &quot;root&quot;) element, the body element, and the paragraph element. The body element will be mysteriously translated downward, the contents of the body will extend outwards outside of the body (being the margins from the child P tag), and the HTML element will be the size of the children of the body (including the margins of the child P tag) whereas the body element will not (it will be smaller than its own contents). It makes it even more confusing that the body element has its own margins set by default as well.</p>
+<p>My personal rule of thumb that I've followed over the years has always been:</p>
+<p>Do this in CSS,</p>
+<pre><code>html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
 }
 </code></pre>
-<p>Did you know that there are like 8 or so versions of the C language? Crazy, right?</p>
-<p>I also made updates to the blog! I should talk about that as well. 👀</p>
-<p>In a nutshell, that's what I've done in my &quot;gamedev journey&quot; since last time I posted. 🧙‍♂️🕹️</p>
-<p>Not a whole lot... But, hey! I'm moving! And, that's what matters!</p>
-<p>Okay, I'm getting tired, so I'll finish this post later.</p>
-<p>I hope you've been well. 🙂🙏</p>
-<p>Peace!</p>
+<p>And, that gets rid of any/all potential default window margin (and padding) across browsers. ✅</p>
+<p>And, just never (or very sparingly) use margins (ie, set/override all margins to 0) and use padding instead.</p>
+<p>But!</p>
+<p>Now, I know that if an element has its own &quot;block formatting context&quot;, then the margin of children elements stay within the containing element and doesn't get processed (via &quot;margin collapsing&quot;) externally. 🙂</p>
+<p>Oh, also, for the record, I decided to use <code>display: flow-root;</code> to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest and simplest method. And, I'm not so worried about browser support if <code>display: flow-root;</code> is a particularly new browser specification. (sorry legacy browser users!)</p>
+<p>So, my issue was that I was afraid of using margins as well as P tags (because they have margins by default), but now I feel much better about using both of them! 🎉</p>
+<h2>Blog version 1 - DigitalOcean Droplet</h2>
+<p>For the next version of the blog, which I plan to work on soon, I plan to build &amp; host a website on a DigitalOcean Droplet. However, there is one concern I have with DigitalOcean:</p>
+<p>Data transfer costs additional, unbounded money per GB on top of the base $4 per month (well, specifically, data sent (egress) - data received (ingress) is free ✅).</p>
+<p>The reason I find this scary is in the event that a flood of malicious requests come to my server and run my bill up. This is the public internet, after all - you never know who it out there. And, the last thing I want is a massive, unpayable bill and then end up in a bad situation (I'm certainly not the world's most money-rich person) from a hobby project... No thanks...</p>
+<p>At first, I researched to see if NGINX could somehow be configured to purposely slow down my website, but I came to find that it can only do so per-request and/or per-client/IP... Well, effectively, anyway... But, I want to slow down my entire server - not just per-IP...</p>
+<p>Then, while researching, I discovered something called &quot;tc&quot; in Linux which stands for &quot;traffic control&quot;. Tc allows you to configure how the operating system handles/schedules network requests/packets. It's actually quite cool! You can set a maximum data transfer rate as well as select which algorithm you want the operating system to use for scheduling network requets/packets going into the network card.</p>
+<p>So, my plan is to create a Droplet and then test out tc to see if I can indeed limit the data rate of my server. If I can, then I'd be able to compute an upper limit of bandwidth (and, therefore, a price limit) by multiplying the data rate (bytes per second) by the amount of seconds per month (30 days * 24 hours * 60 minutes * 60 seconds = 2,592,000 seconds).</p>
+<p>A few side notes: I did look for cheaper/cheap VPS hosts, but they generally seemed sketchy (history of asking for sensitive personal information, account terminations for no reason, sending people to collections), and, still had unbounded data transfer fees. So, I asked myself, what's the point? I also intend to use Cloudflare in front of my server, but still, I want to know for certain that I'm safe.</p>
+<h2>That's all for now!</h2>
+<p>Actually, another side note: I want to do some actual gamedev as well! So, that will probably slow down my server setup work! I guess I'll be context switching between the two things because, well, I want both of those things, haha.</p>
+<p>Well, that's all for now! I'll proofread this later... Or, maybe never... 😝</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI4MzA1OTcsNzY4NjM1Mjk4LDE1Nz
-I5MTQ3NjgsNDAwNzg4OTg5LDczOTkyODQzNSwtMTQ5NDAzMzQ5
-Ml19
+eyJoaXN0b3J5IjpbMTIyOTYxOTI1OCw4MDU0OTU1MzIsLTQ1MT
+g5NDA2NywxNzczNjQzMzU0LDkwODYyNTU0NSwtMTQ5MjU5MTQx
+N119
+-->
+  <br />
+  <br />
+
+  <hr />
+  <p>10/15/2025</p>
+  <h1>On video game development</h1>
+<p>After thinking about it, I feel like I didn't really fully introduce myself in my &quot;Hello, World!&quot; post. So, I wanted to talk more about that - specifically a bit more about my thoughts/philosophies rather than just &quot;what I'm objectively going to be doing&quot; here on GhostGamedev.</p>
+<p>So, I'll start with computers.</p>
+<h2>Computers</h2>
+<p>I don't know about you, but straight up, computers, to me, are just like, &quot;what the INSERT FRENCH HERE is going on?!?!?&quot; And, I'm not saying this because I don't know how to use computers - what I mean is, I think many/most people have almost no idea what they are actually working with when using computers these days...</p>
+<p>What I mean is, like, computers nowadays, let's take the &quot;Intel i7&quot; - according to a quick lookup, the 2010 model has 1.75 billion transistors. 1.75 billion. That's astronomical. For reference, the Earth is 4.5 billion years old. And, according to another quick lookup, the equivalent number of transistors required to perform the job of an abacus (a mechanical, manually operated calculator) is approximately 1,000. So, in a way, you almost are holding the power of 1.75 million abacuses - and that is in terms of physical computational material, I'm not even sure about computational speed, but I'm sure that it's also another astronomical number. And, I'm just speaking to the hardware level/layer of computers here. There are more levels - hardware, kernel, OS, drivers, network, application, graphics, etc. And, guess what? Each layer is a deeply complex subject. Humans commit their lives to mastering just a single layer.</p>
+<p>Crazy stuff...</p>
+<p>But, these days, I often find myself asking - were we humans even supposed to be able to compute with such astronomical power?</p>
+<p>I mean, like, today, computers have come so far that we now have AI - artificial (ie, computer-based) intelligence. Like, what!?!?</p>
+<p>Point: Computers are immensely deep and immensely powerful things.</p>
+<p>And, how does all of this relate to video games?</p>
+<h2>Back to video games</h2>
+<p>Well, video games are computer programs just like any other computer program.</p>
+<p>In my opinion, video game development is yet another &quot;layer&quot; of computing. Perhaps a &quot;compound layer&quot; of computing that is a blend of effectively all of the layers of a computer combined.</p>
+<p>Video game development has so, so, so, so much depth. It's mind-blowing. Video games are probably one of the most complex applications of graphics processing out there - just look up &quot;ray tracing&quot;. Even 3D graphics itself involves pure matrix mathematics. Video games often rely on sophisticated mathematical physics models/simulations - look up &quot;broad phase vs narrow phase&quot; or &quot;space partitioning&quot;. Then, if a game is a real-time online multiplayer game, then you get into &quot;netcode&quot; (on the network layer) - look up &quot;predictive roll-back&quot; - a technique used to make players feel like they are with each other in real-time even though there might be seconds of latency between them. And, this is the surface of it all...</p>
+<p>It's truly amazing. And, honestly, it feels good to express gratitude to all of the people before me who have come up with remarkable methods of &quot;bending a computer&quot; to do what we want it to do in terms of giving people meaningful, interactive experiences via the channel of video games through the years.</p>
+<p>But, today, I can't help but think people have forgotten the profound depth and elegance of computers, computer software, and video games.</p>
+<h3>Lost appreciation</h3>
+<p>I read Reddit forums/subreddits on game development and very often see comments like, &quot;I could build this game in Unity in a month&quot;.</p>
+<p>And, I always have just one thing so say about that... Everytime... And, that is,</p>
+<p>&quot;🤦‍♂️&quot;</p>
+<p>To me, I don't care how basic or how complex a video game is. All video games are amazing. Why? Because of just how much is actually happening on a computational level even for the most basic video games to simply exist. Graphics processing, input drivers, audio processing/drivers, mathematics - just to get started.</p>
+<p>So, yeah...</p>
+<p>Point: All video games are masterpieces.</p>
+<h2>Game engines</h2>
+<p>I think the issue, which are also solutions at the same time, let's call it a &quot;double-edged sword&quot;, are game engines (ie, Godot, Unity, Unreal, GameMaker, etc). Game engines enable everyday people to build video games, which is incredible and very empowering. But, I think game engines these days also give people the illusion that video games themselves are simple, when, in reality, they aren't whatsoever.</p>
+<p>On top of that, I think that game engines make every single game built with the engine somehow all feel the same. Ie, I can, with reasonable accuracy, tell which engine is used for a game when I see it. How? Games developed in a given engine often all share the same graphics/shaders, the same physics feel, the same terrain generation, the same fog effect, the same character controller logic, etc.</p>
+<p>And, to me, I think there is something lost when developing using a game engine. Game developers using game engines lose out on the experience of true, genuine computer programming. Game engines take care of all of the &quot;computer stuff&quot; so that, as a game developer, you focus on the &quot;game&quot; part. Which is good, but, I think game engines often take this idea a bit too far... What I mean is, game engines even force specific, opinionated programming patterns onto you - Unity has its entities/components with &quot;MonoBehaviors&quot; and Godot has &quot;signals&quot;, for instance. If a game doesn't lend itself to those programming patterns, you are still stuck with them because other things within the engine are coupled with (dependent on) those systems. What is even worse is when you end up battling the engine - like, your game's software architecture literally contradicts the engine's programming patterns/architecture and you end up not being able to access specific variables/data at times when you need them, for instance. Cry 😭.</p>
+<h2>Conclusion</h2>
+<p>So, all in all, I think game engines are truly good, but I think you lose some of the meaning behind what it means to develop video games when using game engines. Admittedly, I've never built a game from scratch, so I don't know if what I'm saying is all true. Maybe having a somewhat generic look/feel with all of your games and being forced into specific programming patterns is worth the tradeoff with everything game engines provide, haha.</p>
+<h2>What this means</h2>
+<p>Here on GhostGamedev, I think I'd like to explore trying to &quot;build a game from scratch&quot; or at least feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🙂</p>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDAzMDk0NDA5LDQwMjU4MjA1NywyMTAwMz
+UxMTY2XX0=
+-->
+  <br />
+  <br />
+
+  <hr />
+  <p>11/18/2025</p>
+  <h1>Quick update!</h1>
+<p>Hi! I just wanted to write something because, well, it's been a while! (sorry for ghosting - no pun intended, either, lol)</p>
+<p>I've been a bit occupied lately (hence the ghosting)... But! I have managed to do a few things!</p>
+<p>I've,</p>
+<ul>
+<li>Decided to use a SSG (static site generator) to be able to write markdown rather than raw HTML for writing blog posts (the SSG converts markdown into HTML ✅) (writing raw HTML just got too cumbersome) (and, an SSG feels like a good middle ground before creating a server for hosting my blog for now)</li>
+<li>Learned 11ty - the SSG 🙂</li>
+<li>Ported my raw HTML blog to 11ty</li>
+<li>Configured GitHub Pages to host 11ty via &quot;GitHub Actions&quot; (which are very cool)</li>
+<li>Researched and discovered StackEdit for creating/editing markdown files (ie, blog posts) in my GitHub repo 🙂 (in fact, I'm writing this post in StackEdit right now 👀)</li>
+</ul>
+<p>Lots of goodies discovered! Lots of adventures! 🧙‍♂️</p>
+<p>I plan to do posts about all of these things, but for now I just wanted to do this small update!</p>
+<p>I hope you are well, and I look forward to seeing you again soon! 👻🙂🙏</p>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODIyMTQ2NTE2LC0xMzYwNzY5NzUxXX0=
 -->
   <br />
   <br />
@@ -204,125 +270,59 @@ eyJoaXN0b3J5IjpbLTEwODU1ODc5MTksLTE4MDQ1NDI1MzNdfQ
   <br />
 
   <hr />
-  <p>11/18/2025</p>
-  <h1>Quick update!</h1>
-<p>Hi! I just wanted to write something because, well, it's been a while! (sorry for ghosting - no pun intended, either, lol)</p>
-<p>I've been a bit occupied lately (hence the ghosting)... But! I have managed to do a few things!</p>
-<p>I've,</p>
+  <p>1/1/2026</p>
+  <h1>Happy New Year! 🎉</h1>
+<p>Well... Happy New Year! It's now 2026! We survived! Woohoo!</p>
+<p>But, seriously... What a weird year number... Somehow 2016 feels more normal... 2026 feels... Weird somehow... I'm not even sure why...</p>
+<p>But, we don't control time, haha, so however weird it is...</p>
+<p>I hope 2026 brings good things for all! 🙏😊</p>
+<p>And, what better way to start the year than to write a GhostGamedev post? 🙂</p>
+<p>I guess it's been a little over a month since I wrote my last post...</p>
+<h1>So, what's been happening?</h1>
+<p>Recently, I've been thinking about this GhostGamedev blog, and for whatever reason, I started asking myself the questions,</p>
+<p>Why am I doing all of this writing when I could be learning/doing game development during this time instead? Why am I blogging? Am I trying to achieve anything in my blogging? What am I trying to achieve?</p>
+<p>Initially, my intent was simply because,</p>
 <ul>
-<li>Decided to use a SSG (static site generator) to be able to write markdown rather than raw HTML for writing blog posts (the SSG converts markdown into HTML ✅) (writing raw HTML just got too cumbersome) (and, an SSG feels like a good middle ground before creating a server for hosting my blog for now)</li>
-<li>Learned 11ty - the SSG 🙂</li>
-<li>Ported my raw HTML blog to 11ty</li>
-<li>Configured GitHub Pages to host 11ty via &quot;GitHub Actions&quot; (which are very cool)</li>
-<li>Researched and discovered StackEdit for creating/editing markdown files (ie, blog posts) in my GitHub repo 🙂 (in fact, I'm writing this post in StackEdit right now 👀)</li>
+<li>I enjoy it - I think writing is kinda fun - well, writing in the way I want to, anyway...</li>
+<li>I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on. Although, I could technically achieve that without posting it publicly... So?? 🤷‍♂️</li>
+<li>I also thought it would be cool to just talk about cool things.</li>
 </ul>
-<p>Lots of goodies discovered! Lots of adventures! 🧙‍♂️</p>
-<p>I plan to do posts about all of these things, but for now I just wanted to do this small update!</p>
-<p>I hope you are well, and I look forward to seeing you again soon! 👻🙂🙏</p>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMTQ2NTE2LC0xMzYwNzY5NzUxXX0=
--->
-  <br />
-  <br />
+<p>But, then I realized that there perhaps might be another reason - a deeper reason.</p>
+<p>I don't think I fully understand it yet, but I'll try my best to explain what I feel so far, haha.</p>
+<h1>What am I trying to achieve in blogging?</h1>
+<p>I think gamedev is a difficult and often discouraging process.</p>
+<p>So, perhaps I'm creating this blog to make gamedev feel cozier and more encouraging - for myself and also for other people who may happen to stumble across this tiny little blog.</p>
+<p>Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart nor particularly artistic - I just try my best at things. 🤷</p>
+<p>So, yeah!</p>
+<p>I don't know if that changes anything... 😆</p>
+<p>But!</p>
+<p>It does give me more purpose! Haha</p>
+<p>Like, to know that perhaps I'm helping some future kid/teen/adult/elder out there who aspires to build video games. That's pretty cool. Well... To me, anyway...</p>
+<p>It's something I didn't exactly have (hence you see me struggling with this stuff today, haha), so it feels nice to at least try to give it forward in any way that I can!</p>
+<h1>Anyway...</h1>
+<p>I made this in WebGL2...</p>
+<p>Behold - the most beautiful quadrilateral you've ever seen. 🟦</p>
+<p><img src="/webgl2-square.png" alt="WebGL2 quadrilateral"></p>
+<p>I also made a &quot;Hello, World!&quot; in C using TCC (Tiny C Compiler). 🙂</p>
+<p>Here is it,</p>
+<pre><code>#include &lt;stdio.h&gt;
 
-  <hr />
-  <p>10/15/2025</p>
-  <h1>On video game development</h1>
-<p>After thinking about it, I feel like I didn't really fully introduce myself in my &quot;Hello, World!&quot; post. So, I wanted to talk more about that - specifically a bit more about my thoughts/philosophies rather than just &quot;what I'm objectively going to be doing&quot; here on GhostGamedev.</p>
-<p>So, I'll start with computers.</p>
-<h2>Computers</h2>
-<p>I don't know about you, but straight up, computers, to me, are just like, &quot;what the INSERT FRENCH HERE is going on?!?!?&quot; And, I'm not saying this because I don't know how to use computers - what I mean is, I think many/most people have almost no idea what they are actually working with when using computers these days...</p>
-<p>What I mean is, like, computers nowadays, let's take the &quot;Intel i7&quot; - according to a quick lookup, the 2010 model has 1.75 billion transistors. 1.75 billion. That's astronomical. For reference, the Earth is 4.5 billion years old. And, according to another quick lookup, the equivalent number of transistors required to perform the job of an abacus (a mechanical, manually operated calculator) is approximately 1,000. So, in a way, you almost are holding the power of 1.75 million abacuses - and that is in terms of physical computational material, I'm not even sure about computational speed, but I'm sure that it's also another astronomical number. And, I'm just speaking to the hardware level/layer of computers here. There are more levels - hardware, kernel, OS, drivers, network, application, graphics, etc. And, guess what? Each layer is a deeply complex subject. Humans commit their lives to mastering just a single layer.</p>
-<p>Crazy stuff...</p>
-<p>But, these days, I often find myself asking - were we humans even supposed to be able to compute with such astronomical power?</p>
-<p>I mean, like, today, computers have come so far that we now have AI - artificial (ie, computer-based) intelligence. Like, what!?!?</p>
-<p>Point: Computers are immensely deep and immensely powerful things.</p>
-<p>And, how does all of this relate to video games?</p>
-<h2>Back to video games</h2>
-<p>Well, video games are computer programs just like any other computer program.</p>
-<p>In my opinion, video game development is yet another &quot;layer&quot; of computing. Perhaps a &quot;compound layer&quot; of computing that is a blend of effectively all of the layers of a computer combined.</p>
-<p>Video game development has so, so, so, so much depth. It's mind-blowing. Video games are probably one of the most complex applications of graphics processing out there - just look up &quot;ray tracing&quot;. Even 3D graphics itself involves pure matrix mathematics. Video games often rely on sophisticated mathematical physics models/simulations - look up &quot;broad phase vs narrow phase&quot; or &quot;space partitioning&quot;. Then, if a game is a real-time online multiplayer game, then you get into &quot;netcode&quot; (on the network layer) - look up &quot;predictive roll-back&quot; - a technique used to make players feel like they are with each other in real-time even though there might be seconds of latency between them. And, this is the surface of it all...</p>
-<p>It's truly amazing. And, honestly, it feels good to express gratitude to all of the people before me who have come up with remarkable methods of &quot;bending a computer&quot; to do what we want it to do in terms of giving people meaningful, interactive experiences via the channel of video games through the years.</p>
-<p>But, today, I can't help but think people have forgotten the profound depth and elegance of computers, computer software, and video games.</p>
-<h3>Lost appreciation</h3>
-<p>I read Reddit forums/subreddits on game development and very often see comments like, &quot;I could build this game in Unity in a month&quot;.</p>
-<p>And, I always have just one thing so say about that... Everytime... And, that is,</p>
-<p>&quot;🤦‍♂️&quot;</p>
-<p>To me, I don't care how basic or how complex a video game is. All video games are amazing. Why? Because of just how much is actually happening on a computational level even for the most basic video games to simply exist. Graphics processing, input drivers, audio processing/drivers, mathematics - just to get started.</p>
-<p>So, yeah...</p>
-<p>Point: All video games are masterpieces.</p>
-<h2>Game engines</h2>
-<p>I think the issue, which are also solutions at the same time, let's call it a &quot;double-edged sword&quot;, are game engines (ie, Godot, Unity, Unreal, GameMaker, etc). Game engines enable everyday people to build video games, which is incredible and very empowering. But, I think game engines these days also give people the illusion that video games themselves are simple, when, in reality, they aren't whatsoever.</p>
-<p>On top of that, I think that game engines make every single game built with the engine somehow all feel the same. Ie, I can, with reasonable accuracy, tell which engine is used for a game when I see it. How? Games developed in a given engine often all share the same graphics/shaders, the same physics feel, the same terrain generation, the same fog effect, the same character controller logic, etc.</p>
-<p>And, to me, I think there is something lost when developing using a game engine. Game developers using game engines lose out on the experience of true, genuine computer programming. Game engines take care of all of the &quot;computer stuff&quot; so that, as a game developer, you focus on the &quot;game&quot; part. Which is good, but, I think game engines often take this idea a bit too far... What I mean is, game engines even force specific, opinionated programming patterns onto you - Unity has its entities/components with &quot;MonoBehaviors&quot; and Godot has &quot;signals&quot;, for instance. If a game doesn't lend itself to those programming patterns, you are still stuck with them because other things within the engine are coupled with (dependent on) those systems. What is even worse is when you end up battling the engine - like, your game's software architecture literally contradicts the engine's programming patterns/architecture and you end up not being able to access specific variables/data at times when you need them, for instance. Cry 😭.</p>
-<h2>Conclusion</h2>
-<p>So, all in all, I think game engines are truly good, but I think you lose some of the meaning behind what it means to develop video games when using game engines. Admittedly, I've never built a game from scratch, so I don't know if what I'm saying is all true. Maybe having a somewhat generic look/feel with all of your games and being forced into specific programming patterns is worth the tradeoff with everything game engines provide, haha.</p>
-<h2>What this means</h2>
-<p>Here on GhostGamedev, I think I'd like to explore trying to &quot;build a game from scratch&quot; or at least feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🙂</p>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzMDk0NDA5LDQwMjU4MjA1NywyMTAwMz
-UxMTY2XX0=
--->
-  <br />
-  <br />
-
-  <hr />
-  <p>10/14/2025</p>
-  <h1>Hello, World!</h1>
-<p>Hi! I'm GhostGamedev 👻🕹️🙂.</p>
-<p>Here on GhostGamedev, I plan/want/hope/dream/etc to do,</p>
-<ul>
-<li>🕹️ Gamedev</li>
-<li>⌨️ Webdev</li>
-<li>✏️ Blogging (about gamedev &amp; webdev)</li>
-</ul>
-<p>I believe that developing games/apps/software/etc is a game in itself.
-Ie, I believe that software development has all of the elements of a game,</p>
-<ul>
-<li>Fun = It's challenging (which is the heart of &quot;funness&quot;)</li>
-<li>Levels/progression = It changes the deeper you get into it</li>
-<li>Win condition = Building the software</li>
-</ul>
-<p>Software development itself is like a massive adventure game. So, here on GhostGamedev, I'm going to treat software development like an adventure game!</p>
-<p>To start my GhostGamedev adventures, I wanted to start with the &quot;blogging&quot; aspect. I just enjoy blogging, so yeah. It feels right.</p>
-<p>My goal with blogging is to talk about stuff as I do stuff - like problems, solutions, cool stuff, etc.</p>
-<p>In fact, the very first thing to blog about is this blog itself!</p>
-<h2>Blog version 0 - GitHub Pages</h2>
-<p>For simplicity, I decided to use a GitHub Pages static website (this current website) to start my blog. It's bare bones, but I actually find it quite nice because I'm just writing HTML code and it feels rather cozy 🙂. I think GitHub Pages has built-in support for some sort of static site generation, but I'm just writing straight up HTML because why not. However, I do plan to create a server using a DigitalOcean Droplet and build/host a more traditional website - ie, a server that generates and serves HTML pages. More on that later...</p>
-<p>Additionally, I have exciting news! While building this basic blog website, I encountered my first ever GhostGamedev problem/bug! 👀</p>
-<h3>My first problem/bug!</h3>
-<p>I finally learned about &quot;margin collapsing&quot; in frontend webdev for the first time in my life 😆. I've been a web developer for quite a while, and admittedly, whenever I've encountered &quot;strage and unusual spacing jankness&quot;, I've looked for quick fixes and spammed solutions without actually learning what is going on - largely due to time constraints (the &quot;just get it done&quot; mentality) (oh, and, btw, it's not a good mentality - I don't recommend it - it's just what the corporate grind does to you and it's never good). But, here, with GhostGamedev, I'm taking my time 🙂. So, this time, I finally learned about it! Particularly, the strange behavior of the HTML element and the body element when you have a P tag inside the body.</p>
-<p>If you don't know what I'm talking about, create a basic HTML page with a single P (paragraph) tag, go to dev tools, and look at all of the strange and unusual spacing between the HTML (aka &quot;root&quot;) element, the body element, and the paragraph element. The body element will be mysteriously translated downward, the contents of the body will extend outwards outside of the body (being the margins from the child P tag), and the HTML element will be the size of the children of the body (including the margins of the child P tag) whereas the body element will not (it will be smaller than its own contents). It makes it even more confusing that the body element has its own margins set by default as well.</p>
-<p>My personal rule of thumb that I've followed over the years has always been:</p>
-<p>Do this in CSS,</p>
-<pre><code>html, body {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100%;
+int main() {
+  printf(&quot;Hello, World!&quot;);
+  return  0;
 }
 </code></pre>
-<p>And, that gets rid of any/all potential default window margin (and padding) across browsers. ✅</p>
-<p>And, just never (or very sparingly) use margins (ie, set/override all margins to 0) and use padding instead.</p>
-<p>But!</p>
-<p>Now, I know that if an element has its own &quot;block formatting context&quot;, then the margin of children elements stay within the containing element and doesn't get processed (via &quot;margin collapsing&quot;) externally. 🙂</p>
-<p>Oh, also, for the record, I decided to use <code>display: flow-root;</code> to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest and simplest method. And, I'm not so worried about browser support if <code>display: flow-root;</code> is a particularly new browser specification. (sorry legacy browser users!)</p>
-<p>So, my issue was that I was afraid of using margins as well as P tags (because they have margins by default), but now I feel much better about using both of them! 🎉</p>
-<h2>Blog version 1 - DigitalOcean Droplet</h2>
-<p>For the next version of the blog, which I plan to work on soon, I plan to build &amp; host a website on a DigitalOcean Droplet. However, there is one concern I have with DigitalOcean:</p>
-<p>Data transfer costs additional, unbounded money per GB on top of the base $4 per month (well, specifically, data sent (egress) - data received (ingress) is free ✅).</p>
-<p>The reason I find this scary is in the event that a flood of malicious requests come to my server and run my bill up. This is the public internet, after all - you never know who it out there. And, the last thing I want is a massive, unpayable bill and then end up in a bad situation (I'm certainly not the world's most money-rich person) from a hobby project... No thanks...</p>
-<p>At first, I researched to see if NGINX could somehow be configured to purposely slow down my website, but I came to find that it can only do so per-request and/or per-client/IP... Well, effectively, anyway... But, I want to slow down my entire server - not just per-IP...</p>
-<p>Then, while researching, I discovered something called &quot;tc&quot; in Linux which stands for &quot;traffic control&quot;. Tc allows you to configure how the operating system handles/schedules network requests/packets. It's actually quite cool! You can set a maximum data transfer rate as well as select which algorithm you want the operating system to use for scheduling network requets/packets going into the network card.</p>
-<p>So, my plan is to create a Droplet and then test out tc to see if I can indeed limit the data rate of my server. If I can, then I'd be able to compute an upper limit of bandwidth (and, therefore, a price limit) by multiplying the data rate (bytes per second) by the amount of seconds per month (30 days * 24 hours * 60 minutes * 60 seconds = 2,592,000 seconds).</p>
-<p>A few side notes: I did look for cheaper/cheap VPS hosts, but they generally seemed sketchy (history of asking for sensitive personal information, account terminations for no reason, sending people to collections), and, still had unbounded data transfer fees. So, I asked myself, what's the point? I also intend to use Cloudflare in front of my server, but still, I want to know for certain that I'm safe.</p>
-<h2>That's all for now!</h2>
-<p>Actually, another side note: I want to do some actual gamedev as well! So, that will probably slow down my server setup work! I guess I'll be context switching between the two things because, well, I want both of those things, haha.</p>
-<p>Well, that's all for now! I'll proofread this later... Or, maybe never... 😝</p>
+<p>Did you know that there are like 8 or so versions of the C language? Crazy, right?</p>
+<p>I also made updates to the blog! I should talk about that as well. 👀</p>
+<p>In a nutshell, that's what I've done in my &quot;gamedev journey&quot; since last time I posted. 🧙‍♂️🕹️</p>
+<p>Not a whole lot... But, hey! I'm moving! And, that's what matters!</p>
+<p>Okay, I'm getting tired, so I'll finish this post later.</p>
+<p>I hope you've been well. 🙂🙏</p>
+<p>Peace!</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTYxOTI1OCw4MDU0OTU1MzIsLTQ1MT
-g5NDA2NywxNzczNjQzMzU0LDkwODYyNTU0NSwtMTQ5MjU5MTQx
-N119
+eyJoaXN0b3J5IjpbLTE0MTI4MzA1OTcsNzY4NjM1Mjk4LDE1Nz
+I5MTQ3NjgsNDAwNzg4OTg5LDczOTkyODQzNSwtMTQ5NDAzMzQ5
+Ml19
 -->
   <br />
   <br />
