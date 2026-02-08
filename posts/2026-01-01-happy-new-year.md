@@ -44,7 +44,7 @@ Like, as if beginner gamedevs (like me) can get a breath of fresh air and be rem
 
 So, to put it concretely,
 
-"Ghostgamedev exists to make gamedev feel cozy"
+"Ghostgamedev exists to make gamedev cozier"
 
 Yeah! I like it!
 
@@ -92,7 +92,7 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDM3OTI3NCwtMTQxMjgzMDU5NywxNT
-cyOTE0NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTMxNTA1MzkxNSwtOTMwMzc5Mjc0LC0xND
+EyODMwNTk3LDE1NzI5MTQ3NjgsNDAwNzg4OTg5LDczOTkyODQz
+NSwtMTQ5NDAzMzQ5Ml19
 -->
