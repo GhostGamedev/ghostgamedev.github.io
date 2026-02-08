@@ -54,7 +54,7 @@ But!
 
 It does give me more purpose! Haha
 
-Like, to know that perhaps I'm helping some future kid/teen/adult/elder out there who aspires to build video games to not give up. That's pretty cool. Well... To me, anyway...
+Like, to know that perhaps I'm helping some future kid/teen/adult/elder/person/etc out there who aspires to build video games to not give up. That's pretty cool. Well... To me, anyway...
 
 It's something I didn't exactly have (hence you see me struggling with this stuff today, haha), so it feels nice to at least try to give it forward in a way that I can!
 
@@ -92,7 +92,7 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTA1MzkxNSwtOTMwMzc5Mjc0LC0xND
+eyJoaXN0b3J5IjpbLTU2NTMxNzYxOCwtOTMwMzc5Mjc0LC0xND
 EyODMwNTk3LDE1NzI5MTQ3NjgsNDAwNzg4OTg5LDczOTkyODQz
 NSwtMTQ5NDAzMzQ5Ml19
 -->
