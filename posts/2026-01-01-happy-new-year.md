@@ -10,9 +10,7 @@ Well... Happy New Year! It's now 2026! We survived! Woohoo!
 
 But, seriously... What a weird year number... Somehow 2016 feels more normal... 2026 feels... Weird somehow... I'm not even sure why...
 
-But, we don't control time, haha, so however weird it is...
-
-I hope 2026 brings good things for all! 🙏😊
+But, we don't control time, haha, so however weird it is, I hope 2026 brings good things for all! 🙏😊
 
 And, what better way to start the year than to write a GhostGamedev post? 🙂
 
@@ -92,7 +90,7 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTMxNzYxOCwtOTMwMzc5Mjc0LC0xND
-EyODMwNTk3LDE1NzI5MTQ3NjgsNDAwNzg4OTg5LDczOTkyODQz
-NSwtMTQ5NDAzMzQ5Ml19
+eyJoaXN0b3J5IjpbMTAxODEzMDI3NCwtNTY1MzE3NjE4LC05Mz
+AzNzkyNzQsLTE0MTI4MzA1OTcsMTU3MjkxNDc2OCw0MDA3ODg5
+ODksNzM5OTI4NDM1LC0xNDk0MDMzNDkyXX0=
 -->
