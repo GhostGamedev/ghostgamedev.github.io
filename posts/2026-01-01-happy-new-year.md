@@ -25,7 +25,7 @@ Why am I doing all of this writing when I could be learning/doing game developme
 Initially, my intent was simply because,
 
 - I enjoy it - I think writing is kinda fun - well, writing in the way I want to, anyway...
-- I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on. Although, I could technically achieve that without posting it publicly... So?? 🤷‍♂️
+- I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on. Although, I could technically achieve that with a personal journal, ie without posting it publicly... So?? 🤷‍♂️
 - I also thought it would be cool to just talk about cool things.
 
 But, then I realized that there perhaps might be another reason - a deeper reason.
@@ -64,7 +64,7 @@ Behold - the most beautiful quadrilateral you've ever seen. 🟦
 
 ![WebGL2 quadrilateral](/webgl2-square.png)
 
-I also made a "Hello, World!" in C using TCC (Tiny C Compiler). 🙂
+I also made a "Hello, World!" in C using TCC (Tiny C Compiler) to compile. 🙂
 
 Here is it,
 ```
@@ -90,7 +90,7 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODEzMDI3NCwtNTY1MzE3NjE4LC05Mz
+eyJoaXN0b3J5IjpbMTExNTcxNDUwNiwtNTY1MzE3NjE4LC05Mz
 AzNzkyNzQsLTE0MTI4MzA1OTcsMTU3MjkxNDc2OCw0MDA3ODg5
 ODksNzM5OTI4NDM1LC0xNDk0MDMzNDkyXX0=
 -->
