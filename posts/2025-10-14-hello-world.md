@@ -6,7 +6,7 @@ date: 2025-10-14
 
 # Hello, World!
 
-Hi! I'm GhostGamedev 👻🕹️🙂.
+Hi! Welcome to GhostGamedev! 👻🕹️🙂
 
 Here on GhostGamedev, I plan/want/hope/dream/etc to do,
 
@@ -14,8 +14,7 @@ Here on GhostGamedev, I plan/want/hope/dream/etc to do,
 - ⌨️ Webdev
 - ✏️ Blogging (about gamedev & webdev)
 
-I believe that developing games/apps/software/etc is a game in itself.
-Ie, I believe that software development has all of the elements of a game,
+I believe that developing games/apps/software/etc is a game in itself - that software development has all of the elements of a game,
 
 - Fun = It's challenging (which is the heart of "funness")
 - Levels/progression = It changes the deeper you get into it
@@ -91,7 +90,7 @@ Actually, another side note: I want to do some actual gamedev as well! So, that 
 
 Well, that's all for now! I'll proofread this later... Or, maybe never... 😝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTYxOTI1OCw4MDU0OTU1MzIsLTQ1MT
+eyJoaXN0b3J5IjpbMTQ0NTA3NDUyMSw4MDU0OTU1MzIsLTQ1MT
 g5NDA2NywxNzczNjQzMzU0LDkwODYyNTU0NSwtMTQ5MjU5MTQx
 N119
 -->
