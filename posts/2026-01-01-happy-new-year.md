@@ -72,7 +72,7 @@ Here is it,
 
 int main() {
   printf("Hello, World!");
-  return 0;  // return success(0)/failure(1)
+  return 0;  // return success=0/failure=1
 }
 ```
 
@@ -90,7 +90,7 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIxMzk0ODIsMTExNTcxNDUwNiwtNT
+eyJoaXN0b3J5IjpbLTE3MzY0NDU1MzIsMTExNTcxNDUwNiwtNT
 Y1MzE3NjE4LC05MzAzNzkyNzQsLTE0MTI4MzA1OTcsMTU3Mjkx
 NDc2OCw0MDA3ODg5ODksNzM5OTI4NDM1LC0xNDk0MDMzNDkyXX
 0=
