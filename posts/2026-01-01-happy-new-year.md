@@ -50,7 +50,7 @@ I don't know if that changes anything... 😆
 
 But!
 
-It does give me more purpose! Haha
+It does give GhostGamedev more purpose! Haha
 
 Like, to know that perhaps I'm helping some future kid/teen/adult/elder/person/etc out there who aspires to build video games to not give up. That's pretty cool. Well... To me, anyway...
 
@@ -68,11 +68,11 @@ I also made a "Hello, World!" in C using TCC (Tiny C Compiler) to compile. 🙂
 
 Here is it,
 ```
-#include <stdio.h>
+#include <stdio.h>  // the standard input/output library
 
 int main() {
   printf("Hello, World!");
-  return 0;
+  return 0;  // return success(0)/failure(1)
 }
 ```
 
@@ -90,7 +90,8 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTcxNDUwNiwtNTY1MzE3NjE4LC05Mz
-AzNzkyNzQsLTE0MTI4MzA1OTcsMTU3MjkxNDc2OCw0MDA3ODg5
-ODksNzM5OTI4NDM1LC0xNDk0MDMzNDkyXX0=
+eyJoaXN0b3J5IjpbLTE3MjIxMzk0ODIsMTExNTcxNDUwNiwtNT
+Y1MzE3NjE4LC05MzAzNzkyNzQsLTE0MTI4MzA1OTcsMTU3Mjkx
+NDc2OCw0MDA3ODg5ODksNzM5OTI4NDM1LC0xNDk0MDMzNDkyXX
+0=
 -->
