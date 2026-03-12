@@ -22,7 +22,7 @@ Recently, I've been thinking about this GhostGamedev blog, and for whatever reas
 
 Why am I doing all of this writing when I could be learning/doing game development during this time instead? Why am I blogging? Am I trying to achieve anything in my blogging? If so, what am I trying to achieve?
 
-Initially, my intent was simply because,
+Initially, I think my intent was simply,
 
 - I enjoy it - I think writing is kinda fun - well, writing in the way I want to, anyway...
 - I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on. Although, I could technically achieve that with a personal journal, ie without posting it publicly... So?? 🤷‍♂️
@@ -90,8 +90,8 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzU4MDk3MSwxMTE1NzE0NTA2LC01Nj
-UzMTc2MTgsLTkzMDM3OTI3NCwtMTQxMjgzMDU5NywxNTcyOTE0
-NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJdfQ
-==
+eyJoaXN0b3J5IjpbLTEwMDE4MjA4NTIsMTExNTcxNDUwNiwtNT
+Y1MzE3NjE4LC05MzAzNzkyNzQsLTE0MTI4MzA1OTcsMTU3Mjkx
+NDc2OCw0MDA3ODg5ODksNzM5OTI4NDM1LC0xNDk0MDMzNDkyXX
+0=
 -->
