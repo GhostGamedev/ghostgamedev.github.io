@@ -58,11 +58,17 @@ It's something I didn't exactly have (hence you see me struggling with this stuf
 
 # Anyway...
 
+I'll do a blast of things I've done so far:
+
+1.
+
 I made this in WebGL2...
 
 Behold - the most beautiful quadrilateral you've ever seen. 🟦
 
 ![WebGL2 quadrilateral](/webgl2-square.png)
+
+2.
 
 I also made a "Hello, World!" in C using TCC (Tiny C Compiler) to compile. 🙂
 
@@ -76,22 +82,27 @@ int main() {
 }
 ```
 
+INTERESTING SIDE FACT:
+
 Did you know that there are like 8 or so versions of the C language? Crazy, right?
 
-I also made updates to the blog! I should talk about that as well. 👀
+3.
 
-In a nutshell, that's what I've done in my "gamedev journey" since last time I posted. 🧙‍♂️🕹️
+I also made updates to the blog! I could talk about that as well. 👀
+
+And, that's it!
+
+So, in a nutshell, that's what I've done in my "gamedev journey" since last time I posted. 🧙‍♂️🕹️
 
 Not a whole lot... But, hey! I'm moving! And, that's what matters!
 
-Okay, I'm getting tired, so I'll finish this post later.
+Well... I'm getting tired, so I'll finish this post later.
 
 I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE4MjA4NTIsMTExNTcxNDUwNiwtNT
-Y1MzE3NjE4LC05MzAzNzkyNzQsLTE0MTI4MzA1OTcsMTU3Mjkx
-NDc2OCw0MDA3ODg5ODksNzM5OTI4NDM1LC0xNDk0MDMzNDkyXX
-0=
+eyJoaXN0b3J5IjpbNDkwNTg4MDY5LDExMTU3MTQ1MDYsLTU2NT
+MxNzYxOCwtOTMwMzc5Mjc0LC0xNDEyODMwNTk3LDE1NzI5MTQ3
+NjgsNDAwNzg4OTg5LDczOTkyODQzNSwtMTQ5NDAzMzQ5Ml19
 -->
