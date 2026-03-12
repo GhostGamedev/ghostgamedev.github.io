@@ -31,15 +31,17 @@ In fact, the very first thing to blog about is this blog itself!
 
 ## Blog version 0 - GitHub Pages
 
-For simplicity, I decided to use a GitHub Pages static website (this current website) to start my blog. It's bare bones, but I actually find it quite nice because I'm just writing HTML code and it feels rather cozy 🙂. I think GitHub Pages has built-in support for some sort of static site generation, but I'm just writing straight up HTML because why not. However, I do plan to create a server using a DigitalOcean Droplet and build/host a more traditional website - ie, a server that generates and serves HTML pages. More on that later...
+For simplicity, I decided to use a GitHub Pages static website (this current website) to start my blog. It's bare bones, but I actually find it quite nice because I'm just writing HTML code and it feels rather cozy 🙂. I think GitHub Pages has built-in support for some sort of static site generation, but I'm just writing straight up HTML at this time because, well, it's an easy way to get started!
 
-Additionally, I have exciting news! While building this basic blog website, I encountered my first ever GhostGamedev problem/bug! 👀
+However, at some point in the future, I plan to create a server using a DigitalOcean Droplet and build/host a more traditional website - ie, a server that generates and serves HTML pages. But, more on that later... Because...
+
+I have exciting news! While building this basic blog website, I encountered my first ever GhostGamedev problem/bug! 👀
 
 ### My first problem/bug!
 
-I finally learned about "margin collapsing" in frontend webdev for the first time in my life 😆. I've been a web developer for quite a while, and admittedly, whenever I've encountered "strage and unusual spacing jankness", I've looked for quick fixes and spammed solutions without actually learning what is going on - largely due to time constraints (the "just get it done" mentality) (oh, and, btw, it's not a good mentality - I don't recommend it - it's just what the corporate grind does to you and it's never good). But, here, with GhostGamedev, I'm taking my time 🙂. So, this time, I finally learned about it! Particularly, the strange behavior of the HTML element and the body element when you have a P tag inside the body.
+I finally learned about "margin collapsing" in frontend webdev for the first time in my life! I've been a web developer for quite a while, and admittedly, whenever I've encountered "strange and unusual spacing jankness", I've looked for quick fixes and spammed solutions without actually learning what is going on - largely due to time constraints (the "just get it done" mentality) (oh, and, btw, it's not a good mentality - I don't recommend it - it's just what the corporate grind does to you and it's never good). But, here, with GhostGamedev, I'm taking my time 🙂. So, this time, I finally learned about "margin collapsing" - particularly, the strange behavior of the HTML element and the body element when you have a P tag as the first element inside the body.
 
-If you don't know what I'm talking about, create a basic HTML page with a single P (paragraph) tag, go to dev tools, and look at all of the strange and unusual spacing between the HTML (aka "root") element, the body element, and the paragraph element. The body element will be mysteriously translated downward, the contents of the body will extend outwards outside of the body (being the margins from the child P tag), and the HTML element will be the size of the children of the body (including the margins of the child P tag) whereas the body element will not (it will be smaller than its own contents). It makes it even more confusing that the body element has its own margins set by default as well.
+If you don't know what I'm talking about, create a basic HTML page with a single P (paragraph) tag. It may look totally normal, but go to dev tools, and look at all of the strange and unusual spacing between the HTML (aka "root") element, the body element, and the paragraph element. The body element will be mysteriously translated downward, the contents of the body will extend outwards outside of the body (being the margins from its child P tag), and the HTML element will be the size of the children of the body (including the margins of the child P tag) whereas the body element will not (ie, it will be SMALLER than its own contents - like, how is that possible???). It makes it even more confusing that the body element has its own margins set by default as well.
 
 My personal rule of thumb that I've followed over the years has always been:
 
@@ -60,37 +62,44 @@ And, just never (or very sparingly) use margins (ie, set/override all margins to
 
 But!
 
-Now, I know that if an element has its own "block formatting context", then the margin of children elements stay within the containing element and doesn't get processed (via "margin collapsing") externally. 🙂
+Now I know that if an element has its own "block formatting context", then the margin of children elements stay within the containing element and doesn't get processed/handled (via "margin collapsing") externally (ie, by the parent element). 🙂
 
-Oh, also, for the record, I decided to use `display: flow-root;` to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest and simplest method. And, I'm not so worried about browser support if `display: flow-root;` is a particularly new browser specification. (sorry legacy browser users!)
+Oh, also, for the record, I decided to use `display: flow-root;` to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest and simplest method. And, I'm not so worried about browser support if `display: flow-root;` is a particularly new browser specification (sorry legacy browser users!).
 
 So, my issue was that I was afraid of using margins as well as P tags (because they have margins by default), but now I feel much better about using both of them! 🎉
 
 
 ## Blog version 1 - DigitalOcean Droplet
 
-For the next version of the blog, which I plan to work on soon, I plan to build & host a website on a DigitalOcean Droplet. However, there is one concern I have with DigitalOcean:
+For the next version of the blog (which I plan to work on hopefully soon), I plan to build & host a website on a DigitalOcean Droplet. However, admittedly, there is one concern I have with DigitalOcean:
 
-Data transfer costs additional, unbounded money per GB on top of the base $4 per month (well, specifically, data sent (egress) - data received (ingress) is free ✅).
+Data transfer costs additional, unbounded money per GB on top of the base $4 per month (well, specifically, data sent (egress)) (data received (ingress) is free ✅).
 
-The reason I find this scary is in the event that a flood of malicious requests come to my server and run my bill up. This is the public internet, after all - you never know who it out there. And, the last thing I want is a massive, unpayable bill and then end up in a bad situation (I'm certainly not the world's most money-rich person) from a hobby project... No thanks...
+The reason I find this scary is in the event that a flood of malicious requests come to my server and run my bill up - the "infinite bill" problem. This is the public internet, after all - you never know who is out there. And, the last thing I want is a massive, unpayable bill and then end up in a bad situation (I'm certainly not the world's most money-rich person) from a hobby project... No thanks...
 
-At first, I researched to see if NGINX could somehow be configured to purposely slow down my website, but I came to find that it can only do so per-request and/or per-client/IP... Well, effectively, anyway... But, I want to slow down my entire server - not just per-IP...
+At first, I researched to see if NGINX could somehow be configured to purposely/intentionally slow down my website, but I came to find that it can only do so per-request and/or per-client/IP... Well, effectively, anyway... But, I want to slow down my entire server - not just per-IP...
 
-Then, while researching, I discovered something called "tc" in Linux which stands for "traffic control". Tc allows you to configure how the operating system handles/schedules network requests/packets. It's actually quite cool! You can set a maximum data transfer rate as well as select which algorithm you want the operating system to use for scheduling network requets/packets going into the network card.
+Then, while doing research, I discovered something called "tc" in Linux which stands for "traffic control". Tc allows you to configure how the operating system handles/schedules network requests/packets at the driver level. It's actually quite cool! You can set a maximum data transfer rate as well as select which algorithm you want the operating system to use for scheduling network requests/packets going in/out of the network card.
 
-So, my plan is to create a Droplet and then test out tc to see if I can indeed limit the data rate of my server. If I can, then I'd be able to compute an upper limit of bandwidth (and, therefore, a price limit) by multiplying the data rate (bytes per second) by the amount of seconds per month (30 days * 24 hours * 60 minutes * 60 seconds = 2,592,000 seconds).
+So, my plan is to create a Droplet and then somehow test out tc to see if I can indeed limit the data rate of my server. If I can, then I'd be able to compute an upper limit of bandwidth (and, therefore, a price limit) by multiplying the data rate (bytes per second) by the amount of seconds per month (30 days * 24 hours * 60 minutes * 60 seconds = 2,592,000 seconds).
 
-A few side notes: I did look for cheaper/cheap VPS hosts, but they generally seemed sketchy (history of asking for sensitive personal information, account terminations for no reason, sending people to collections), and, still had unbounded data transfer fees. So, I asked myself, what's the point? I also intend to use Cloudflare in front of my server, but still, I want to know for certain that I'm safe.
+A few side notes: 
+- I did look for cheaper/cheap VPS hosts that didn't charge for data transference, but they generally seemed sketchy (stories including: history of asking for sensitive personal information, account terminations for no reason, wrongly sending people to debt collections, etc), and, still had unbounded data transference fees 🤦. So, I asked myself, what's the point of trying to use a cheaper host when it will probably end up being a much more expensive headache in the future? Perhaps sometimes it's better to just use the things that are well-known...
+- I also 100% intend to use Cloudflare in front of my server (some may say "Cloudflare will solve all of your problems"), but still, I want to know for certain that I'm safe. ✅
 
 
 ## That's all for now!
 
-Actually, another side note: I want to do some actual gamedev as well! So, that will probably slow down my server setup work! I guess I'll be context switching between the two things because, well, I want both of those things, haha.
+Just kidding.
 
-Well, that's all for now! I'll proofread this later... Or, maybe never... 😝
+A final side note: 
+Naturally, I'd like to do some actual gamedev as well! And, that will probably slow down my server setup work... I guess I'll be context switching between the two things because, well, I want both of those things, haha.
+
+Well...
+
+I think that is finally, actually all for now! I'll proofread this later... Or, maybe never... 😝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTA3NDUyMSw4MDU0OTU1MzIsLTQ1MT
-g5NDA2NywxNzczNjQzMzU0LDkwODYyNTU0NSwtMTQ5MjU5MTQx
-N119
+eyJoaXN0b3J5IjpbNTA3NTY3NzU3LDE0NDUwNzQ1MjEsODA1ND
+k1NTMyLC00NTE4OTQwNjcsMTc3MzY0MzM1NCw5MDg2MjU1NDUs
+LTE0OTI1OTE0MTddfQ==
 -->
