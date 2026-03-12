@@ -41,7 +41,7 @@ I have exciting news! While building this basic blog website, I encountered my f
 
 I finally learned about "margin collapsing" in frontend webdev for the first time in my life! I've been a web developer for quite a while, and admittedly, whenever I've encountered "strange and unusual spacing jankness", I've looked for quick fixes and spammed solutions without actually learning what is going on - largely due to time constraints (the "just get it done" mentality) (oh, and, btw, it's not a good mentality - I don't recommend it - it's just what the corporate grind does to you and it's never good). But, here, with GhostGamedev, I'm taking my time 🙂. So, this time, I finally learned about what is actually going on! Particularly, the strange behavior of the HTML element and the body element when you have a P tag as the first element inside the body. It's due to a little something called "margin collapsing".
 
-If you don't know what I'm talking about, create a basic HTML page with a single P (paragraph) tag. It may look totally normal, but go to dev tools, and look at all of the strange and unusual spacing between the HTML (aka "root") element, the body element, and the paragraph element. The body element will be mysteriously translated downward, the contents of the body will extend outwards outside of the body (being the margins from its child P tag), and the HTML element will be the size of the children of the body (including the margins of the child P tag) whereas the body element will not (ie, it will be SMALLER than its own contents - like, how is that possible???). It makes it even more confusing that the body element has its own margins set by default as well.
+If you don't know what I'm talking about, create a basic HTML page with a single P (paragraph) tag. It may look totally normal but go into dev tools and look at all of the strange and unusual spacing between the HTML (aka "root") element, the body element, and the paragraph element. The body element will be mysteriously translated downward, the contents of the body will extend outwards outside of the body (being the margins from its child P tag), and the HTML element will be the size of the children of the body (including the margins of the child P tag) whereas the body element will not (ie, it will be SMALLER than its own contents - like, how is that possible???). It makes it even more confusing that the body element has its own margins set by default as well.
 
 My personal rule of thumb that I've followed over the years has always been:
 
@@ -99,7 +99,7 @@ Well...
 
 I think that is finally, actually all for now! I'll proofread this later... Or, maybe never... 😝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNzM0MDIzLDE0NDUwNzQ1MjEsODA1ND
-k1NTMyLC00NTE4OTQwNjcsMTc3MzY0MzM1NCw5MDg2MjU1NDUs
-LTE0OTI1OTE0MTddfQ==
+eyJoaXN0b3J5IjpbMTgwMTAzNzk0MCwxNDQ1MDc0NTIxLDgwNT
+Q5NTUzMiwtNDUxODk0MDY3LDE3NzM2NDMzNTQsOTA4NjI1NTQ1
+LC0xNDkyNTkxNDE3XX0=
 -->
