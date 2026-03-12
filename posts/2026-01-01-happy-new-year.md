@@ -60,7 +60,7 @@ It's something I didn't exactly have (hence you see me struggling with this stuf
 
 I'll do a blast of things I've done so far:
 
-1.
+### 1)
 
 I made this in WebGL2...
 
@@ -68,7 +68,7 @@ Behold - the most beautiful quadrilateral you've ever seen. 🟦
 
 ![WebGL2 quadrilateral](/webgl2-square.png)
 
-2.
+### 2)
 
 I also made a "Hello, World!" in C using TCC (Tiny C Compiler) to compile. 🙂
 
@@ -86,7 +86,7 @@ INTERESTING SIDE FACT:
 
 Did you know that there are like 8 or so versions of the C language? Crazy, right?
 
-3.
+### 3)
 
 I also made updates to the blog! I could talk about that as well. 👀
 
@@ -102,7 +102,8 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNTg4MDY5LDExMTU3MTQ1MDYsLTU2NT
-MxNzYxOCwtOTMwMzc5Mjc0LC0xNDEyODMwNTk3LDE1NzI5MTQ3
-NjgsNDAwNzg4OTg5LDczOTkyODQzNSwtMTQ5NDAzMzQ5Ml19
+eyJoaXN0b3J5IjpbLTkxMzk1NDUzMSwxMTE1NzE0NTA2LC01Nj
+UzMTc2MTgsLTkzMDM3OTI3NCwtMTQxMjgzMDU5NywxNTcyOTE0
+NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJdfQ
+==
 -->
