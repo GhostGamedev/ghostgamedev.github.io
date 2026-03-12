@@ -62,7 +62,7 @@ And, just never (or very sparingly) use margins (ie, set/override all margins to
 
 But!
 
-Now I know that if an element has its own "block formatting context", then the margin of children elements stay within the containing element and doesn't get processed/handled (via "margin collapsing") externally (ie, by the parent element). 🙂
+Now I know that if an element has its own "block formatting context", then the margin of children elements stay within the containing element and doesn't get processed/handled/"collapsed" externally (ie, to the parent element) (via "margin collapsing"). 🙂
 
 Oh, also, for the record, I decided to use `display: flow-root;` to create a block formatting context. There are other ways to create block formatting contexts, but I thought this was the cleanest and simplest method. And, I'm not so worried about browser support if `display: flow-root;` is a particularly new browser specification (sorry legacy browser users!).
 
@@ -99,7 +99,7 @@ Well...
 
 I think that is finally, actually all for now! I'll proofread this later... Or, maybe never... 😝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTAzNzk0MCwxNDQ1MDc0NTIxLDgwNT
-Q5NTUzMiwtNDUxODk0MDY3LDE3NzM2NDMzNTQsOTA4NjI1NTQ1
-LC0xNDkyNTkxNDE3XX0=
+eyJoaXN0b3J5IjpbLTE1MjQ3MDg1NjYsMTQ0NTA3NDUyMSw4MD
+U0OTU1MzIsLTQ1MTg5NDA2NywxNzczNjQzMzU0LDkwODYyNTU0
+NSwtMTQ5MjU5MTQxN119
 -->
