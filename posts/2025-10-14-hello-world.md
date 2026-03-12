@@ -88,18 +88,15 @@ A few side notes:
 - I also 100% intend to use Cloudflare in front of my server (some may say "Cloudflare will solve all of your problems"), but still, I want to know for certain that I'm safe. ✅
 
 
-## That's all for now!
+## Well, that's all for now!
 
-Just kidding.
+I suppose that, naturally, I'd also like to do some actual gamedev as well (seeing that this is Ghost"Gamedev" 🤔). And, that will probably slow down my server setup work... So, I guess I'll be context switching between the two things because, well, I want both of those things, haha.
 
-A final side note: 
-Naturally, I'd like to do some actual gamedev as well! And, that will probably slow down my server setup work... I guess I'll be context switching between the two things because, well, I want both of those things, haha.
+Maybe I'll proofread this later... Or, maybe never... 😝
 
-Well...
-
-I think that is finally, actually all for now! I'll proofread this later... Or, maybe never... 😝
+Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI1NTMzODUsMTQ0NTA3NDUyMSw4MD
+eyJoaXN0b3J5IjpbLTE3NzgyMjkyNjEsMTQ0NTA3NDUyMSw4MD
 U0OTU1MzIsLTQ1MTg5NDA2NywxNzczNjQzMzU0LDkwODYyNTU0
 NSwtMTQ5MjU5MTQxN119
 -->
