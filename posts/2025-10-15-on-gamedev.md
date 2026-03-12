@@ -34,7 +34,7 @@ In my opinion, video game development is yet another "layer" of computing. Perha
 
 Video game development has so, so, so, so much depth. It's mind-blowing. Video games are probably one of the most complex applications of graphics processing out there - just look up "ray tracing". Even 3D graphics itself involves pure matrix mathematics. Video games often rely on sophisticated mathematical physics models/simulations - look up "broad phase vs narrow phase" or "space partitioning". Then, if a game is a real-time online multiplayer game, then you get into "netcode" (on the network layer) - look up "predictive roll-back" - a technique used to make players feel like they are with each other in real-time even though there might be seconds of latency between them. And, this is the surface of it all...
 
-It's truly amazing. And, honestly, it feels good to express gratitude to all of the people before me who have come up with remarkable methods of "bending a computer" to do what we want it to do in terms of giving people meaningful, interactive experiences via the channel of video games through the years.
+It's truly amazing. And, honestly, it feels good to express gratitude to all of the people before me who have come up with remarkable methods of "bending a computer" to do what we want it to do in terms of giving people meaningful, interactive experiences via the channel of video games throughout the years.
 
 But, today, I can't help but think people have forgotten the profound depth and elegance of computers, computer software, and video games.
 
@@ -68,6 +68,6 @@ So, all in all, I think game engines are truly good, but I think you lose some o
 
 Here on GhostGamedev, I think I'd like to explore trying to "build a game from scratch" or at least feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc2NjgwMjYsNDAyNTgyMDU3LDIxMD
-AzNTExNjZdfQ==
+eyJoaXN0b3J5IjpbMjA4NjA0NjI1Miw0MDI1ODIwNTcsMjEwMD
+M1MTE2Nl19
 -->
