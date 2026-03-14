@@ -62,7 +62,7 @@ It's something I didn't exactly have (hence you see me struggling with this stuf
 
 I'll do a blast of things I've done so far:
 
-**LIST START**
+[LIST START]
 
 ### 1)
 
@@ -94,7 +94,7 @@ Did you know that there are like 8 or so versions of the C language? Crazy, righ
 
 I also made updates to the blog! I could talk about that as well. 👀
 
-**LIST END**
+[LIST END]
 
 And, that's it!
 
@@ -108,8 +108,8 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODY2Mjg2MiwxMTE1NzE0NTA2LC01Nj
-UzMTc2MTgsLTkzMDM3OTI3NCwtMTQxMjgzMDU5NywxNTcyOTE0
-NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJdfQ
-==
+eyJoaXN0b3J5IjpbLTE3OTIzNDA2NzIsMTExNTcxNDUwNiwtNT
+Y1MzE3NjE4LC05MzAzNzkyNzQsLTE0MTI4MzA1OTcsMTU3Mjkx
+NDc2OCw0MDA3ODg5ODksNzM5OTI4NDM1LC0xNDk0MDMzNDkyXX
+0=
 -->
