@@ -6,13 +6,13 @@ date: 2025-10-15
 
 # On video game development
 
-After thinking about it, I feel like I didn't really fully introduce myself in my "Hello, World!" post. So, I wanted to talk more about that. Specifically, I wanted to elaborate more about my thoughts/philosophies rather than just "what I'm objectively going to be doing" here on GhostGamedev.
+After thinking about it, I feel like I didn't really fully introduce myself in my "Hello, World!" post. So, I wanted to talk more about that - ie, about "myself". Specifically, I wanted to elaborate more about "my thoughts/philosophies" rather than just "what I'm objectively doing" here on GhostGamedev.
 
 So, I'll start with computers.
 
 ## Computers
 
-I don't know about you, but straight up, computers, to me, are just like, "what the [INSERT FRENCH HERE] is going on?!?!?" And, I'm not saying this because I don't know how to use computers - what I mean is, I think many/most people have almost no idea what they are actually working with when using computers these days...
+I don't know about you, but straight up, computers, to me, are just like, "what the [INSERT FRENCH HERE] is going on?!?!?" And, I'm not saying this because I don't know how to use computers - what I mean is, I think many/most people have virtually no idea what they are actually working with when using modern-day computers these days...
 
 What I mean is, like, computers nowadays, let's take the "Intel i7" - according to a quick lookup, the 2010 model has 1.75 billion transistors. 1.75 billion. That's astronomical. For reference, the Earth is 4.5 billion years old. And, according to another quick lookup, the equivalent number of transistors required to perform the job of an abacus (a mechanical, manually operated calculator) is approximately 1,000. So, in a way, you almost are holding the power of 1.75 million abacuses - and that is in terms of physical computational material, I'm not even sure about computational speed, but I'm sure that it's also another astronomical number. And, I'm just speaking to the hardware level/layer of computers here. There are more levels - hardware, kernel, OS, drivers, network, application, graphics, etc. And, guess what? Each layer is a deeply complex subject. Humans commit their lives to mastering just a single layer.
 
@@ -68,6 +68,6 @@ So, all in all, I think game engines are truly good, but I think you lose some o
 
 Here on GhostGamedev, I think I'd like to explore trying to "build a game from scratch" or at least feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjA0NjI1Miw0MDI1ODIwNTcsMjEwMD
-M1MTE2Nl19
+eyJoaXN0b3J5IjpbMTUyNDUxMTIxOCwyMDg2MDQ2MjUyLDQwMj
+U4MjA1NywyMTAwMzUxMTY2XX0=
 -->
