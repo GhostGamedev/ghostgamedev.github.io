@@ -26,7 +26,7 @@ Point: Computers are immensely deep and immensely powerful things.
 
 And, how does all of this relate to video games?
 
-## Back to video games
+## Video games
 
 Well, video games are computer programs just like any other computer program.
 
@@ -40,7 +40,7 @@ But, today, I can't help but think people have forgotten the profound depth and 
 
 ### Lost appreciation
 
-I read Reddit forums/subreddits on game development and very often see comments like, "I could build this game in Unity in a month".
+I read Reddit forums/subreddits on game development and I very often see comments like, "I could build this game in Unity in a month".
 
 And, I always have just one thing so say about that... Everytime... And, that is,
 
@@ -56,9 +56,9 @@ Point: All video games are masterpieces.
 
 I think the issue, which are also solutions at the same time, let's call it a "double-edged sword", are game engines (ie, Godot, Unity, Unreal, GameMaker, etc). Game engines enable everyday people to build video games, which is incredible and very empowering. But, I think game engines these days also give people the illusion that video games themselves are simple, when, in reality, they aren't whatsoever.
 
-On top of that, I think that game engines make every single game built with the engine somehow all feel the same. Ie, I can, with reasonable accuracy, tell which engine is used for a game when I see it. How? Games developed in a given engine often all share the same graphics/shaders, the same physics feel, the same terrain generation, the same fog effect, the same character controller logic, etc.
+On top of that, I think that game engines make every single game built with the engine somehow all feel the same. Ie, I can, with reasonable accuracy, tell which engine is used for a game when I see it. How? Games developed in a given engine often all share the same graphics/shaders, the same physics feel, the same terrain generation, the same fog effect look, the same character controller feels, etc.
 
-And, to me, I think there is something lost when developing using a game engine. Game developers using game engines lose out on the experience of true, genuine computer programming. Game engines take care of all of the "computer stuff" so that, as a game developer, you focus on the "game" part. Which is good, but, I think game engines often take this idea a bit too far... What I mean is, game engines even force specific, opinionated programming patterns onto you - Unity has its entities/components with "MonoBehaviors" and Godot has "signals", for instance. If a game doesn't lend itself to those programming patterns, you are still stuck with them because other things within the engine are coupled with (dependent on) those systems. What is even worse is when you end up battling the engine - like, your game's software architecture literally contradicts the engine's programming patterns/architecture and you end up not being able to access specific variables/data at times when you need them, for instance. Cry 😭.
+And, to me, I think there is something lost when developing using a game engine. Game developers using game engines lose out on the experience of true, genuine computer programming. Game engines take care of all of the "computer stuff" so that, as a game developer, you focus on the "game" part. Which is good, but, I think game engines often take this idea a bit too far... What I mean is, game engines even force specific, opinionated programming patterns onto you - for instance, Unity has its entities/components with "MonoBehaviors" and Godot has "signals". If a game doesn't lend itself to those programming patterns, you are still stuck with them because other things within the engine are coupled with (dependent on) those systems. What is even worse is when you end up battling the engine - like, your game's software architecture literally contradicts the engine's programming patterns/architecture and you end up not being able to access specific variables/data at times when you need them, for instance. Cry 😭.
 
 ## Conclusion
 
@@ -66,8 +66,8 @@ So, all in all, I think game engines are truly good, but I think you lose some o
 
 ## What this means
 
-Here on GhostGamedev, I think I'd like to explore trying to "build a game from scratch" or at least feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🙂
+Here on GhostGamedev, I think I'd like to explore "building games from scratch" or, more specifically, feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🧙‍♂️🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDUxMTIxOCwyMDg2MDQ2MjUyLDQwMj
-U4MjA1NywyMTAwMzUxMTY2XX0=
+eyJoaXN0b3J5IjpbNzA3MTU3OTYzLDIwODYwNDYyNTIsNDAyNT
+gyMDU3LDIxMDAzNTExNjZdfQ==
 -->
