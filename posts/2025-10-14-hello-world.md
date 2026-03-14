@@ -75,17 +75,17 @@ For the next version of the blog (which I plan to work on hopefully soon), I pla
 
 Data transfer costs additional, unbounded money per GB on top of the base $4 per month (well, specifically, data sent (egress)) (data received (ingress) is free ✅).
 
-The reason I find this scary is in the event that a flood of malicious requests come to my server and run my bill up - the "infinite bill" problem. This is the public internet, after all - you never know who is out there. And, the last thing I want is a massive, unpayable bill and then end up in a bad situation (I'm certainly not the world's most money-rich person) from a hobby project... No thanks...
+The reason I find this scary is in the event that a flood of malicious requests come to my server and run my bill up - ie, the "infinite bill" problem. This is the public internet, after all - you never know who is out there. And, the last thing I want/need is a massive, unpayable bill and then end up in a bad situation (I'm certainly not the world's most money-rich person) from a hobby project... No thanks...
 
 At first, I researched to see if NGINX could somehow be configured to purposely/intentionally slow down my website, but I came to find that it can only do so per-request and/or per-client/IP... Well, effectively, anyway... But, I want to slow down my entire server - not just per-IP...
 
-Then, while doing research, I discovered something called "tc" in Linux which stands for "traffic control". Tc allows you to configure how the operating system handles/schedules network requests/packets at the driver level. It's actually quite cool! You can set a maximum data transfer rate as well as select which algorithm you want the operating system to use for scheduling network requests/packets going in/out of the network card.
+Then, while doing research, I discovered something called "tc" in Linux which stands for "traffic control". Tc allows you to configure how the operating system handles/schedules network requests/packets at the driver level. It's actually quite cool! You can set a maximum data transfer rate as well as select which algorithm you want the operating system to use for scheduling network requests/packets going out of the network card (I think tc is only for scheduling the sending of packets - not 100% sure about that, though).
 
 So, my plan is to create a Droplet and then somehow test out tc to see if I can indeed limit the data rate of my server. If I can, then I'd be able to compute an upper limit of bandwidth (and, therefore, a price limit) by multiplying the data rate (bytes per second) by the amount of seconds per month (30 days * 24 hours * 60 minutes * 60 seconds = 2,592,000 seconds).
 
 A few side notes: 
-- I did look for cheaper/cheap VPS hosts that didn't charge for data transference, but they generally seemed sketchy (stories including: history of asking for sensitive personal information, account terminations for no reason, wrongly sending people to debt collections, etc), and, still had unbounded data transference fees 🤦. So, I asked myself, what's the point of trying to use a cheaper host when it will probably end up being a much more expensive headache in the future? Perhaps sometimes it's better to just use the things that are well-known...
-- I also 100% intend to use Cloudflare in front of my server (some may say "Cloudflare will solve all of your problems"), but still, I want to know for certain that I'm safe. ✅
+- I did look for VPS hosts that didn't charge for data transference, but all of the hosts I found generally seemed sketchy (stories including: history of asking for sensitive personal information, account terminations for no reason, wrongly sending people to debt collections, etc), and, still had unbounded data transference fees once you looked deep enough into them 🤦. So, I asked myself, what's the point of trying to use a cheaper host when it will probably just end up being a much more expensive headache in the future? Perhaps sometimes it's better to just use the things that are big and well-known... (which is a bummer because I always love using the "better thing" vs the "popular thing") (but, in this case, I found no "better thing", so... 🤷)
+- I also 100% intend to use Cloudflare in front of my server (some may say "Just use Cloudflare. Cloudflare will solve all of your problems."), but still, I want to know for certain that I'm safe. ✅
 
 
 ## Well, that's all for now!
@@ -96,7 +96,7 @@ Maybe I'll proofread this later... Or, maybe never... 😝
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzgyMjkyNjEsMTQ0NTA3NDUyMSw4MD
+eyJoaXN0b3J5IjpbLTExMTUzNDU5NzgsMTQ0NTA3NDUyMSw4MD
 U0OTU1MzIsLTQ1MTg5NDA2NywxNzczNjQzMzU0LDkwODYyNTU0
 NSwtMTQ5MjU5MTQxN119
 -->
