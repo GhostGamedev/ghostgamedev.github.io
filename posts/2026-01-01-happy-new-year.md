@@ -6,11 +6,13 @@ date: 2026-01-01
 
 # Happy New Year! 🎉
 
-Well... Happy New Year! It's now 2026! We survived! Woohoo!
+Well... Happy New Year! It's now 2026!
 
-But, seriously... What a weird year number... Somehow 2016 feels more normal... 2026 feels... Weird somehow... I'm not even sure why...
+We survived! Woohoo!
 
-But, we don't control time, haha, so however weird it is, I hope 2026 brings good things for all! 🙏😊
+But, seriously... What a weird year number... Somehow "2016" feels more normal... "2026" feels... Weird somehow... I'm not even sure why...
+
+But, we don't control time, so however weird it is, I hope 2026 brings good things for all! 🙏😊
 
 And, what better way to start the year than to write a GhostGamedev post? 🙂
 
@@ -60,6 +62,8 @@ It's something I didn't exactly have (hence you see me struggling with this stuf
 
 I'll do a blast of things I've done so far:
 
+**LIST START**
+
 ### 1)
 
 I made this in WebGL2...
@@ -86,9 +90,11 @@ INTERESTING SIDE FACT:
 
 Did you know that there are like 8 or so versions of the C language? Crazy, right?
 
-### 3)
+### 3) 
 
 I also made updates to the blog! I could talk about that as well. 👀
+
+**LIST END**
 
 And, that's it!
 
@@ -102,7 +108,7 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzk1NDUzMSwxMTE1NzE0NTA2LC01Nj
+eyJoaXN0b3J5IjpbMTAxODY2Mjg2MiwxMTE1NzE0NTA2LC01Nj
 UzMTc2MTgsLTkzMDM3OTI3NCwtMTQxMjgzMDU5NywxNTcyOTE0
 NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJdfQ
 ==
