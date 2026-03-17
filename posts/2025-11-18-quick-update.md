@@ -22,8 +22,8 @@ Lots of goodies discovered! Lots of adventures! 🧙‍♂️
 
 I plan to do posts about all of these things, but for now I just wanted to do this small update!
 
-I hope you are well, and I look forward to seeing you again soon! 👻🙂🙏
+I hope you are well, and I look forward to chatting again soon! 👻🙂🙏
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzAyNDQzMiw4MjIxNDY1MTYsLTEzNj
-A3Njk3NTFdfQ==
+eyJoaXN0b3J5IjpbNzQ1NjI2NCw4MjIxNDY1MTYsLTEzNjA3Nj
+k3NTFdfQ==
 -->
