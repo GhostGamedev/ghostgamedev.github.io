@@ -20,6 +20,9 @@ a {
   /* color: #dedede; */
   color: #d6d6d6;
 }
+.text-lighter {
+  color: #b0b0b0;
+}
 
 /* attempt at making text prettier ~ don't know if it does anything */
 p {
@@ -38,4 +41,8 @@ p {
 
 img {
   max-width: 100%;
+}
+
+.text-center {
+  text-align: center;
 }
