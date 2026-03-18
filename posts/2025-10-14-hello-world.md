@@ -18,7 +18,7 @@ I believe that developing games/apps/software/etc is a game in itself - that sof
 
 - Fun = It's challenging (which is the heart of "funness")
 - Levels/progression = It changes the deeper you get into it
-- Win condition = Building the software
+- Win condition = Building the software (or the feature/system)
 
 Software development itself is like a massive adventure game. So, here on GhostGamedev, I'm going to treat software development like an adventure game!
 
@@ -96,7 +96,7 @@ Maybe I'll proofread this later... Or, maybe never... 😝
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUzNDU5NzgsMTQ0NTA3NDUyMSw4MD
-U0OTU1MzIsLTQ1MTg5NDA2NywxNzczNjQzMzU0LDkwODYyNTU0
-NSwtMTQ5MjU5MTQxN119
+eyJoaXN0b3J5IjpbMTc0MTM5MTkwNywxNDQ1MDc0NTIxLDgwNT
+Q5NTUzMiwtNDUxODk0MDY3LDE3NzM2NDMzNTQsOTA4NjI1NTQ1
+LC0xNDkyNTkxNDE3XX0=
 -->
