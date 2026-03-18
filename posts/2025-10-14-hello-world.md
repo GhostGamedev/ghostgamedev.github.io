@@ -22,7 +22,7 @@ I believe that developing games/apps/software/etc is a game in itself - that sof
 
 Software development itself is like a massive adventure game. So, here on GhostGamedev, I'm going to treat software development like an adventure game!
 
-## Where I will start my adventure 🧙‍♂️🕹️
+## Where I will start my adventure 🧙‍♂️
 
 To start my GhostGamedev adventures, I wanted to start with the "blogging" aspect. I just enjoy blogging, so yeah. It feels right.
 
@@ -98,7 +98,7 @@ Maybe I'll proofread this later... Or, maybe never... 😝
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg2NDMxNTcsMTQ0NTA3NDUyMSw4MD
+eyJoaXN0b3J5IjpbLTE5MDMyNjQ3OTIsMTQ0NTA3NDUyMSw4MD
 U0OTU1MzIsLTQ1MTg5NDA2NywxNzczNjQzMzU0LDkwODYyNTU0
 NSwtMTQ5MjU5MTQxN119
 -->
