@@ -1,10 +1,11 @@
 
-Mention: I might use an actual blogging engine ~ writing HTML is getting tiring
+/ Mention: I might use an actual blogging engine ~ writing HTML is getting tiring
 
 Mention: I intend to develop games from scratch in C & I intend to develop my blog from scratch in JavaScript
   > I'm not really looking to build games... I'm really just interested in the process...
     > As a hobby, anyway...
   > Eventually... Haha. Things will take a while to get stable for me.
 
-Post: Gamedev as a life-sustaining career ~ just a brief talk about it
+Post: Gamedev as a life-sustaining career ~ a discourse about it
   > Feasibility
+  > How it boils down to family support from a young age and is still required into adulthood

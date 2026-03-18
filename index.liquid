@@ -7,12 +7,50 @@ layout: home.liquid
 {% comment %} welcome {% endcomment %}
 
 <p>
-  Hello and welcome to GhostGamedev - a blog about gamedev (and some webdev)! 
-  Below you'll find a list of links to individual posts, 
-  and if you keep scrolling, 
-  you'll find all posts rendered here in a single page.
+  Hello and welcome to GhostGamedev 👋👻 - a blog about, 
+  
+  <ul>
+    <li>Video games</li>
+    <li>Philosophy behind video games</li>
+    <li>Video game design</li>
+    <li>Video game development</li>
+    <li>Software design</li>
+    <li>Computers</li>
+    <li>Dream video games (video games you wish existed)</li>
+    <li>And, a small amount of web development</li>
+  </ul>
+  
+  where game/app/software development is an adventure game in itself 🧙‍♂️.
+  Read the beginning of <a href="/hello-world">Hello World</a> for details 🙂.
+
+  {% comment %} Below you'll find a list of links to individual posts.
+  And, if you keep scrolling,
+  you'll find all posts rendered here in a single page. {% endcomment %}
+
+</p>
+
+<br />
+<hr />
+<br />
+
+<h3>Community Hub</h3>
+<p>
+  I created GhostGamedev to mix all of these topics because it's all related to me and it's all magical and special to me 🌌👾.
+  If this stuff is meaningful to you as well and would like to hang out with like-minded people and/or have something you'd like to share, consider joining the <a href="https://discord.gg/AsTYFFsab3">Discord community hub</a>!
 </p>
 <br />
+
+<h3>Blog Organization</h3>
+<p>
+  The blog is organized by "time" (ie, the day I decided to write) - I just write what I feel - even if that means I span multiple topics in a single post or write a story.
+  I know it's not the best organization method, but... It makes things easy for me!
+  I plan to eventually organize content better, but for now, it's what I've got!
+</p>
+<p>
+  Below you'll find the list of posts.
+</p>
+<br />
+
 <br />
 <br />
 
@@ -29,14 +67,25 @@ layout: home.liquid
     <a href="{{ post.url }}">{{ post.data.title }}</a>
     <span>- {{ post.data.date | myDateString }}</span>
     <br />
+    {% if post.data.summary %}
+      <div class="text-lighter" style="padding-top: 4px; font-size: 0.75rem;">
+        {{ post.data.summary }}
+      </div>
+    {% endif %}
     <br />
   {% endfor %}
 </div>
 
 <br />
 <hr />
+<br />
+<div class="text-center">
+  <div class="text-lighter" style="font-size: 0.8rem;">With care</div>
+  <div style="font-weight: 700;">GhostGamedev 👻🕹️</div>
+</div>
+<br />
 
-
+{% comment %} <br />
 <br />
 <br />
 <br />
@@ -46,11 +95,7 @@ layout: home.liquid
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br /> {% endcomment %}
 
 
 {% comment %} ----------------------------------------- {% endcomment %}
@@ -61,7 +106,7 @@ layout: home.liquid
   <span><i>Most recent posts are on top</i></span>
 </div> {% endcomment %}
 
-<br />
+{% comment %} <br />
 
 {% for post in collections.post %}
   <hr />
@@ -69,4 +114,4 @@ layout: home.liquid
   {{ post.templateContent }}
   <br />
   <br />
-{% endfor %}
+{% endfor %} {% endcomment %}
