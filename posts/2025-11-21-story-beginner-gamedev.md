@@ -1,7 +1,7 @@
 ---
 title: "The Story of a Beginner Video Game Developer Before Game Engines"
 permalink: "/story-of-a-beginner-video-game-developer-before-game-engines/"
-summary: "Trying to build a 3D game and failing massively. You need vision, appreciation, and knowledge."
+summary: "Trying to build a 3D video game and failing massively. You need vision, appreciation, and knowledge."
 date: 2025-11-21
 ---
 
@@ -84,6 +84,6 @@ Admittedly, however, due to "life things", gamedev things are currently a bit sl
 
 Well, I hope you enjoyed this story and I look forward to chatting again soon! 🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NDEzMjIzLDEyMjc5NDQ4NDgsLTEwOD
-U1ODc5MTksLTE4MDQ1NDI1MzNdfQ==
+eyJoaXN0b3J5IjpbMTU0MjYyNzk0OCwxMjI3OTQ0ODQ4LC0xMD
+g1NTg3OTE5LC0xODA0NTQyNTMzXX0=
 -->
