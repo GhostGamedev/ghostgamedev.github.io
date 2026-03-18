@@ -1,6 +1,7 @@
 ---
 title: "Happy New Year"
 permalink: "/happy-new-year-2026/"
+summary: "Dev update: created an 'overall goal' for GhostGamedev, my first WebGL2 application, TCC C compiler, updates to blog that I'll talk about later."
 date: 2026-01-01
 ---
 
@@ -108,8 +109,8 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAwNzI4ODgsMTExNTcxNDUwNiwtNT
-Y1MzE3NjE4LC05MzAzNzkyNzQsLTE0MTI4MzA1OTcsMTU3Mjkx
-NDc2OCw0MDA3ODg5ODksNzM5OTI4NDM1LC0xNDk0MDMzNDkyXX
-0=
+eyJoaXN0b3J5IjpbMTYxMTQ2ODU1NiwxMTE1NzE0NTA2LC01Nj
+UzMTc2MTgsLTkzMDM3OTI3NCwtMTQxMjgzMDU5NywxNTcyOTE0
+NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJdfQ
+==
 -->
