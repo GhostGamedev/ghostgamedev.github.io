@@ -1,6 +1,7 @@
 ---
 title: "On Gamedev"
 permalink: "/on-gamedev/"
+summary: "Computers, video games, game engines, accessibility at the price of lost appreciation."
 date: 2025-10-15
 ---
 
@@ -68,6 +69,6 @@ So, all in all, I think game engines are truly good, but I think you lose some o
 
 Here on GhostGamedev, I think I'd like to explore "building games from scratch" or, more specifically, feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🧙‍♂️🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3MTU3OTYzLDIwODYwNDYyNTIsNDAyNT
-gyMDU3LDIxMDAzNTExNjZdfQ==
+eyJoaXN0b3J5IjpbLTE3MzA3Njk2NzUsMjA4NjA0NjI1Miw0MD
+I1ODIwNTcsMjEwMDM1MTE2Nl19
 -->
