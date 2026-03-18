@@ -1,6 +1,7 @@
 ---
 title: "Quick Update"
 permalink: "/quick-update-2025-11-18/"
+summary: "Dev update: SSG for blog (for now), 11ty, GitHub pages, StackEdit. More detailed post to come?"
 date: 2025-11-18
 ---
 
@@ -24,6 +25,6 @@ I plan to do posts about all of these things, but for now I just wanted to do th
 
 I hope you are well, and I look forward to chatting again soon! 👻🙂🙏
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1NjI2NCw4MjIxNDY1MTYsLTEzNjA3Nj
-k3NTFdfQ==
+eyJoaXN0b3J5IjpbMTQxMzIzOTgzOSw4MjIxNDY1MTYsLTEzNj
+A3Njk3NTFdfQ==
 -->
