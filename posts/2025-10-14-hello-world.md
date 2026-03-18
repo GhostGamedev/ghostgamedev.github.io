@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 permalink: "/hello-world/"
-summary: "Introducing the idea of dev itself as an adventure game. Starting my adventures with the development of a blog application."
+summary: "Introducing the idea of dev itself as an adventure game. Starting my adventures with the development of this blog application."
 date: 2025-10-14
 ---
 
@@ -99,7 +99,7 @@ Maybe I'll proofread this later... Or, maybe never... 😝
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mjc2MDk4MiwxNjY2MjM2MDQ1LDE0ND
-UwNzQ1MjEsODA1NDk1NTMyLC00NTE4OTQwNjcsMTc3MzY0MzM1
-NCw5MDg2MjU1NDUsLTE0OTI1OTE0MTddfQ==
+eyJoaXN0b3J5IjpbMTc3OTY2Nzk1LDE2NjYyMzYwNDUsMTQ0NT
+A3NDUyMSw4MDU0OTU1MzIsLTQ1MTg5NDA2NywxNzczNjQzMzU0
+LDkwODYyNTU0NSwtMTQ5MjU5MTQxN119
 -->
