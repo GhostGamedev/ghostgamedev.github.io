@@ -9,7 +9,7 @@ date: 2026-03-30
 This is some text
 
 
-Because games are beautiful things. Necessary things. For the soul. For the heart.
+Because games are beautiful things. Necessary things. For the soul. For the heart. For the Love.
 
 Life itself is a game/simulation.
 ^
@@ -45,5 +45,5 @@ My art was good. It wasn't just typical "programmers art". I made it "actually g
 ^
 I guess I am an artist after all. Who would have known.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM2MDQ4MjQsLTc5NjAxNjkwOF19
+eyJoaXN0b3J5IjpbLTE2NzM1NTc5NTQsLTc5NjAxNjkwOF19
 -->
