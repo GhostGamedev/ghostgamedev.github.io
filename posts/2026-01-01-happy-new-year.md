@@ -87,9 +87,8 @@ int main() {
 }
 ```
 
-INTERESTING SIDE FACT:
-
-Did you know that there are like 8 or so versions of the C language? Crazy, right?
+*INTERESTING SIDE FACT: \
+Did you know that there are like 8 or so versions of the C language? Crazy, right?*
 
 ### 3) 
 
@@ -108,8 +107,8 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU0NzgyNTQsMTE4MzM4ODQ2MCwxMT
-E1NzE0NTA2LC01NjUzMTc2MTgsLTkzMDM3OTI3NCwtMTQxMjgz
-MDU5NywxNTcyOTE0NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLT
-E0OTQwMzM0OTJdfQ==
+eyJoaXN0b3J5IjpbMTMzNTA2MzEwNiwxMTgzMzg4NDYwLDExMT
+U3MTQ1MDYsLTU2NTMxNzYxOCwtOTMwMzc5Mjc0LC0xNDEyODMw
+NTk3LDE1NzI5MTQ3NjgsNDAwNzg4OTg5LDczOTkyODQzNSwtMT
+Q5NDAzMzQ5Ml19
 -->
