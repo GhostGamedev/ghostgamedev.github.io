@@ -19,6 +19,7 @@ And, what better way to start the year than to write a GhostGamedev post? 🙂
 
 I guess it's been a little over a month since I wrote my last post...
 
+
 # So, what's been happening?
 
 Recently, I've been thinking about this GhostGamedev blog, and for whatever reason, I started asking myself the questions,
@@ -28,32 +29,33 @@ Why am I doing all of this writing when I could be learning/doing game developme
 Initially, I think my intent was simply,
 
 - I enjoy it - I think writing is kinda fun - well, writing in the way I want to, anyway...
-- I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on. Although, I could technically achieve that with a personal journal, ie without posting it publicly... So?? 🤷‍♂️
+- I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on. Although, I could technically achieve that with a personal journal - ie, without posting it publicly... So?? 🤷‍♂️
 - I also thought it would be cool to just talk about cool things.
 
 But, then I realized that there perhaps might be another reason - a deeper reason.
 
 I don't think I fully understand it yet, but I'll try my best to explain what I feel so far, haha.
 
+
 # What am I trying to achieve in blogging?
 
 I think gamedev is a difficult and often discouraging process.
 
-So, perhaps I'm creating this blog to make gamedev feel cozier and more encouraging - for myself and also for other people who may happen to stumble across this tiny little blog.
+So, perhaps I'm creating this blog to make gamedev feel cozier and more encouraging - for myself and maybe also other people who may happen to stumble across this tiny little blog.
 
 Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart nor particularly artistic - I just try my best at things. 🤷
 
-So, to put it concretely,
+So, in attmpet to put it concretely,
 
-"Ghostgamedev exists to make gamedev cozier"
+<p style="text-align:center;">"Ghostgamedev exists to make gamedev cozier"</p>
 
 Yeah! I like it!
 
-I don't know if that changes anything... 😆
+I don't think that changes anything... 😆
 
 But!
 
-It does give GhostGamedev more purpose! Haha
+It perhaps gives GhostGamedev a bit more purpose! 🙂
 
 Like, to know that perhaps I'm helping some future kid/teen/adult/elder/person/etc out there who aspires to build video games to not give up. That's pretty cool. Well... To me, anyway...
 
@@ -62,8 +64,6 @@ It's something I didn't exactly have (hence you see me struggling with this stuf
 # Anyway...
 
 I'll do a blast of things I've done so far:
-
-#### [LIST START]
 
 ### 1)
 
@@ -95,9 +95,8 @@ Did you know that there are like 8 or so versions of the C language? Crazy, righ
 
 I also made updates to the blog! I could talk about that as well. 👀
 
-#### [LIST END]
 
-And, that's it!
+# And, that's it!
 
 So, in a nutshell, that's what I've done in my "gamedev journey" since last time I posted. 🧙‍♂️🕹️
 
@@ -109,8 +108,8 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzM4ODQ2MCwxMTE1NzE0NTA2LC01Nj
-UzMTc2MTgsLTkzMDM3OTI3NCwtMTQxMjgzMDU5NywxNTcyOTE0
-NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJdfQ
-==
+eyJoaXN0b3J5IjpbMTgwNjA3NTI0MiwxMTgzMzg4NDYwLDExMT
+U3MTQ1MDYsLTU2NTMxNzYxOCwtOTMwMzc5Mjc0LC0xNDEyODMw
+NTk3LDE1NzI5MTQ3NjgsNDAwNzg4OTg5LDczOTkyODQzNSwtMT
+Q5NDAzMzQ5Ml19
 -->
