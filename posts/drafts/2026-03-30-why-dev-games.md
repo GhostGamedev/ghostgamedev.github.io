@@ -10,6 +10,8 @@ This is some text
 
 
 Because games are beautiful things. Necessary things. For the soul. For the heart. For the Love.
+.
+And, to be a game developer is to give Love to help the spread of Love.
 
 If life itself is a game/simulation.
 ^
@@ -45,5 +47,5 @@ My art was good. It wasn't just typical "programmers art". I made it "actually g
 ^
 I guess I am an artist after all. Who would have known.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA2NTUyMTAsLTc5NjAxNjkwOF19
+eyJoaXN0b3J5IjpbLTkzOTE0NzEzOSwtNzk2MDE2OTA4XX0=
 -->
