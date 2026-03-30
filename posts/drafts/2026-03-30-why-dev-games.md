@@ -30,6 +30,11 @@ Entire worlds.
 With unique things about each of them.
 ^
 That world can be anything - a grand adventure, a challenge against odds (a rogue-like), a vibe (rings maps), 
+
+---
+
+I have a feeling I'd be really good at 3D modeling... Idk why... I was really good at Flash, so... Yeah...
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTIzNDgwN119
+eyJoaXN0b3J5IjpbLTc5NjAxNjkwOF19
 -->
