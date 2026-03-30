@@ -11,9 +11,9 @@ This is some text
 
 Because games are beautiful things. Necessary things. For the soul. For the heart. For the Love.
 
-Life itself is a game/simulation.
+If life itself is a game/simulation.
 ^
-So, games are extensions of reality.
+Then, games are extensions/improvements of/to reality.
 
 ---
 
@@ -45,5 +45,5 @@ My art was good. It wasn't just typical "programmers art". I made it "actually g
 ^
 I guess I am an artist after all. Who would have known.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM1NTc5NTQsLTc5NjAxNjkwOF19
+eyJoaXN0b3J5IjpbLTE1MTA2NTUyMTAsLTc5NjAxNjkwOF19
 -->
