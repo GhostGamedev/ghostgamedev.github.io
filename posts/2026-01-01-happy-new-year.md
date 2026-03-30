@@ -55,9 +55,9 @@ I don't think that changes anything... 😆
 
 But!
 
-It perhaps gives GhostGamedev a bit more purpose! 🙂
+Perhaps it gives GhostGamedev a bit more purpose! 🙂
 
-Like, to know that perhaps I'm helping some future kid/teen/adult/elder/person/etc out there who aspires to build video games to not give up. That's pretty cool. Well... To me, anyway...
+Like, to know that perhaps I'm helping some future kid/teen/adult/elder/person/etc out there who aspires to build video games not to give up. That's pretty cool. Well... To me, anyway...
 
 It's something I didn't exactly have (hence you see me struggling with this stuff today, haha), so it feels nice to at least try to give it forward in a way that I can!
 
@@ -108,8 +108,8 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjA3NTI0MiwxMTgzMzg4NDYwLDExMT
-U3MTQ1MDYsLTU2NTMxNzYxOCwtOTMwMzc5Mjc0LC0xNDEyODMw
-NTk3LDE1NzI5MTQ3NjgsNDAwNzg4OTg5LDczOTkyODQzNSwtMT
-Q5NDAzMzQ5Ml19
+eyJoaXN0b3J5IjpbLTE0NzU0NzgyNTQsMTE4MzM4ODQ2MCwxMT
+E1NzE0NTA2LC01NjUzMTc2MTgsLTkzMDM3OTI3NCwtMTQxMjgz
+MDU5NywxNTcyOTE0NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLT
+E0OTQwMzM0OTJdfQ==
 -->
