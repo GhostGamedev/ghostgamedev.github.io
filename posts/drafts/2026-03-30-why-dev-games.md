@@ -11,11 +11,23 @@ This is some text
 
 Because games are beautiful things.
 
+Life itself is a game/simulation.
+^
+So, games are extensions of reality.
+
+---
+
+Or, maybe reality as we know it is an extension... Like, it's a virtual thing... All the dimensions and stuff... It's just weird...
+^
+Thus making life and games identical.
+
+---
+
 Entire worlds.
 ^
 With unique things about each of them.
 ^
 That world can be anything - a grand adventure, a challenge against odds (a rogue-like), a vibe (rings maps), 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODUxNjgwOV19
+eyJoaXN0b3J5IjpbMTIyMzY1NjQ4Nl19
 -->
