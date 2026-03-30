@@ -9,7 +9,7 @@ date: 2026-03-30
 This is some text
 
 
-Because games are beautiful things.
+Because games are beautiful things. Necessary things. For the soul. For the heart.
 
 Life itself is a game/simulation.
 ^
@@ -17,11 +17,17 @@ So, games are extensions of reality.
 
 ---
 
-Or, maybe reality as we know it is an extension... Like, it's a virtual thing... All the dimensions and stuff... It's just weird...
+Or, maybe reality as we know it is an extension... Like, it's a virtual thing... All the dimensions and stuff... It's just weird... Perhaps it's weird because it's a simulation...
 ^
 Thus making life and games identical.
 
 Also making "beautiful experiences" of vital, essential importance.
+^
+Why? Because, if life itself is merely a game, then the point of it is to experience it.
+
+And, games provider beauty beyond what is possible in the current simulation.
+^
+So, it's optimal.
 
 ---
 
@@ -34,7 +40,10 @@ That world can be anything - a grand adventure, a challenge against odds (a rogu
 ---
 
 I have a feeling I'd be really good at 3D modeling... Idk why... I was really good at Flash, so... Yeah...
-
+^
+My art was good. It wasn't just typical "programmers art". I made it "actually good".
+^
+I guess I am an artist after all. Who would have known.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjAxNjkwOF19
+eyJoaXN0b3J5IjpbLTE0MzM2MDQ4MjQsLTc5NjAxNjkwOF19
 -->
