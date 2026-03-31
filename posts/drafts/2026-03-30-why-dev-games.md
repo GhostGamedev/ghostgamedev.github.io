@@ -4,9 +4,7 @@ permalink: "/why-do-we-develop-games/"
 date: 2026-03-30
 ---
 
-# The title
-
-This is some text
+# Why dev games
 
 
 Because games are beautiful things. Necessary things. For the soul. For the heart. For the Love.
@@ -46,6 +44,8 @@ I have a feeling I'd be really good at 3D modeling... Idk why... I was really go
 My art was good. It wasn't just typical "programmers art". I made it "actually good".
 ^
 I guess I am an artist after all. Who would have known.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTE0NzEzOSwtNzk2MDE2OTA4XX0=
+eyJoaXN0b3J5IjpbMjExOTAyNzY4MSwtOTM5MTQ3MTM5LC03OT
+YwMTY5MDhdfQ==
 -->
