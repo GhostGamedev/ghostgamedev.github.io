@@ -19,11 +19,13 @@ Then, games are extensions/improvements of/to reality.
 
 Or, maybe reality as we know it is an extension... Like, it's a virtual thing... All the dimensions and stuff... It's just weird... Perhaps it's weird because it's a simulation...
 ^
-Thus making life and games identical.
+Thus implying life and games = identical.
 
 Also making "beautiful experiences" of vital, essential importance.
 ^
 Why? Because, if life itself is merely a game, then the point of it is to experience it.
+^
+Games = life = experiences.
 
 And, games provider beauty beyond what is possible in the current simulation.
 ^
@@ -46,6 +48,6 @@ My art was good. It wasn't just typical "programmers art". I made it "actually g
 I guess I am an artist after all. Who would have known.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTAyNzY4MSwtOTM5MTQ3MTM5LC03OT
-YwMTY5MDhdfQ==
+eyJoaXN0b3J5IjpbOTg3OTcxOTgyLC05MzkxNDcxMzksLTc5Nj
+AxNjkwOF19
 -->
