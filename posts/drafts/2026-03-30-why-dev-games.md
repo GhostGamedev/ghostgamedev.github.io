@@ -7,7 +7,7 @@ date: 2026-03-30
 # Why dev games
 
 
-Because games are beautiful things. Necessary things. For the soul. For the heart. For the Love.
+Because games are beautiful things. Beauty is necessary for the soul. For Seeing. For the heart. For the Love. All healthy things.
 .
 And, to be a game developer is to give Love to help the spread of Love.
 
@@ -48,6 +48,6 @@ My art was good. It wasn't just typical "programmers art". I made it "actually g
 I guess I am an artist after all. Who would have known.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3OTcxOTgyLC05MzkxNDcxMzksLTc5Nj
-AxNjkwOF19
+eyJoaXN0b3J5IjpbLTU5ODc2MzI3Niw5ODc5NzE5ODIsLTkzOT
+E0NzEzOSwtNzk2MDE2OTA4XX0=
 -->
