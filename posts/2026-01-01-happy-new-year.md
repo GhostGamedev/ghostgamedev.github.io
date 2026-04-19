@@ -1,7 +1,7 @@
 ---
 title: "Happy New Year"
 permalink: "/happy-new-year-2026/"
-summary: "Dev update: Created an 'overall goal' for GhostGamedev, my first WebGL2 application, TCC C compiler, updates to blog that I'll talk about later."
+summary: "Dev update: Established an 'overall goal' for GhostGamedev - 'to make gamedev cozier', my first WebGL2 application, TCC C compiler, updates to blog that I'll talk about later."
 date: 2026-01-01
 ---
 
@@ -45,7 +45,7 @@ So, perhaps I'm creating this blog to make gamedev feel cozier and more encourag
 
 Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart nor particularly artistic - I just try my best at things. 🤷
 
-So, in attmpet to put it concretely,
+So, in attempt to put it concretely,
 
 <p style="text-align:center;">"Ghostgamedev exists to make gamedev cozier"</p>
 
@@ -107,8 +107,8 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIxMTE4ODcsMTE4MzM4ODQ2MCwxMT
-E1NzE0NTA2LC01NjUzMTc2MTgsLTkzMDM3OTI3NCwtMTQxMjgz
-MDU5NywxNTcyOTE0NzY4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLT
-E0OTQwMzM0OTJdfQ==
+eyJoaXN0b3J5IjpbLTEyNDExOTk0OTgsLTEyMjIxMTE4ODcsMT
+E4MzM4ODQ2MCwxMTE1NzE0NTA2LC01NjUzMTc2MTgsLTkzMDM3
+OTI3NCwtMTQxMjgzMDU5NywxNTcyOTE0NzY4LDQwMDc4ODk4OS
+w3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJdfQ==
 -->
