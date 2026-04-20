@@ -21,7 +21,7 @@ Crazy stuff...
 
 But, these days, I often find myself asking - were we humans even supposed to be able to compute with such astronomical power?
 
-I mean, like, today, computers have come so far that we now have AI - artificial (ie, computer-based) intelligence. Like, what!?!?
+I mean, like, today, computers have come so far that we now have AI - artificial (ie, computer-based) intelligence. Like, what!?!? Computers are living beings now!?!?!?
 
 Point: Computers are immensely deep and immensely powerful things. 
 
@@ -69,6 +69,6 @@ So, all in all, I think game engines are truly good, but I think you lose some o
 
 Here on GhostGamedev, I think I'd like to explore "building games from scratch" or, more specifically, feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🧙‍♂️🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA3Njk2NzUsMjA4NjA0NjI1Miw0MD
-I1ODIwNTcsMjEwMDM1MTE2Nl19
+eyJoaXN0b3J5IjpbLTQ0NTUyNTI2NiwtMTczMDc2OTY3NSwyMD
+g2MDQ2MjUyLDQwMjU4MjA1NywyMTAwMzUxMTY2XX0=
 -->
