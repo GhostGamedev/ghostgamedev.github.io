@@ -59,7 +59,7 @@ I think the issue, which are also solutions at the same time, let's call it a "d
 
 On top of that, I think that game engines make games built with the engine somehow all feel the same. Ie, I can, with reasonable accuracy, tell which engine is used for a game when I see it. How? Games developed in a given engine often all share the same graphics/shaders, the same physics feel, the same terrain generation, the same fog effect look, the same "character controller feel", etc.
 
-And, to me, I think there is something lost when developing using a game engine. Game developers using game engines lose out on the experience of true, genuine computer programming. Game engines take care of all of the "computer stuff" so that, as a game developer, you focus on the "game" part. Which is good, very good, in fact. But, I think game engines often take this idea a bit too far... What I mean is, game engines even force specific, opinionated programming patterns onto you - for instance, Unity has its entities/components with "MonoBehaviors" and Godot has "signals". If a game doesn't lend itself to those programming patterns, you are still stuck with them because other things within the engine are coupled with (dependent on) those systems. What is even worse is when you end up battling the engine - like, your game's software architecture literally contradicts the engine's programming patterns/architecture and you end up not being able to access specific variables/data at times when you need them, for instance. Cry 😭.
+And, to me, I think there is something lost when developing using a game engine. Game developers using game engines lose out on the experience of true, genuine computer programming. Game engines take care of all of the "computer" stuff so that, as a game developer, you focus on the "game" stuff. Which is good. Very good. But, I think game engines often take this idea a bit too far... What I mean is, game engines even force specific, opinionated programming patterns onto you - for instance, Unity has its entities/components with "MonoBehaviors" and Godot has "signals". If a game doesn't lend itself to those programming patterns, you are still stuck with them because other things within the engine are coupled with (dependent on) those systems. What is even worse is when you end up battling the engine - like, your game's software architecture literally contradicts the engine's programming patterns/architecture and you end up not being able to access specific variables/data at times when you need them, for instance. Cry 😭.
 
 ## Conclusion
 
@@ -69,6 +69,6 @@ So, all in all, I think game engines are truly good, but I think you lose some o
 
 Here on GhostGamedev, I think I'd like to explore "building games from scratch" or, more specifically, feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🧙‍♂️🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTI5OTgzOSwtMTczMDc2OTY3NSwyMD
+eyJoaXN0b3J5IjpbLTM0MzI2MjgxNSwtMTczMDc2OTY3NSwyMD
 g2MDQ2MjUyLDQwMjU4MjA1NywyMTAwMzUxMTY2XX0=
 -->
