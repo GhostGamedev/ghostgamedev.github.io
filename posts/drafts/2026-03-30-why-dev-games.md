@@ -41,13 +41,13 @@ That world can be anything - a grand adventure, a challenge against odds (a rogu
 
 ---
 
-I have a feeling I'd be really good at 3D modeling... Idk why... I was really good at Flash, so... Yeah...
+I have a feeling I'd be really good at 3D modeling... Idk why... I was really good at Flash animation, so... Yeah...
 ^
 My art was good. It wasn't just typical "programmers art". I made it "actually good".
 ^
 I guess I am an artist after all. Who would have known.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODc2MzI3Niw5ODc5NzE5ODIsLTkzOT
-E0NzEzOSwtNzk2MDE2OTA4XX0=
+eyJoaXN0b3J5IjpbLTE0NTc1OTA1NjgsLTU5ODc2MzI3Niw5OD
+c5NzE5ODIsLTkzOTE0NzEzOSwtNzk2MDE2OTA4XX0=
 -->
