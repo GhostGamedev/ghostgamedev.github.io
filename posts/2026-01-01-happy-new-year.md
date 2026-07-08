@@ -51,11 +51,11 @@ So, in attempt to put it concretely,
 
 Yeah! I like it!
 
-I don't think that changes anything... 😆
+I don't think it changes anything... 😆
 
 But!
 
-Perhaps it gives GhostGamedev a bit more purpose! 🙂
+Perhaps it gives GhostGamedev a bit more purpose. 🙂
 
 Like, to know that perhaps I'm helping some future kid/teen/adult/person/etc out there who aspires to build video games not to give up. That's pretty cool. Well... To me, anyway...
 
@@ -107,8 +107,9 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3MzkyOTUsLTEyNDExOTk0OTgsLTEyMj
-IxMTE4ODcsMTE4MzM4ODQ2MCwxMTE1NzE0NTA2LC01NjUzMTc2
-MTgsLTkzMDM3OTI3NCwtMTQxMjgzMDU5NywxNTcyOTE0NzY4LD
-QwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJdfQ==
+eyJoaXN0b3J5IjpbLTE0ODc3MDk1MjIsLTEyNDExOTk0OTgsLT
+EyMjIxMTE4ODcsMTE4MzM4ODQ2MCwxMTE1NzE0NTA2LC01NjUz
+MTc2MTgsLTkzMDM3OTI3NCwtMTQxMjgzMDU5NywxNTcyOTE0Nz
+Y4LDQwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJdfQ==
+
 -->
