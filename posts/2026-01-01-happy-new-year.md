@@ -1,7 +1,7 @@
 ---
 title: "Happy New Year"
 permalink: "/happy-new-year-2026/"
-summary: "Dev update: Established an 'overall goal' for GhostGamedev - 'to make gamedev cozier', my first WebGL2 application, TCC C compiler, updates to blog that I'll talk about later."
+summary: "Dev update: Established an \"overall goal\" for GhostGamedev - \"to make gamedev cozier\", my first WebGL2 application, TCC C compiler, updates to blog that I'll talk about later."
 date: 2026-01-01
 ---
 
@@ -28,7 +28,7 @@ Why am I doing all of this writing when I could be learning/doing game developme
 
 Initially, I think my intent was simply,
 
-- I enjoy it - I think writing is kinda fun - well, writing in the way I want to, anyway...
+- I enjoy it - I think writing is kinda fun - well, writing the way I want to, anyway...
 - I thought it would be cool to have a log of my progress (including problems/solutions) that I could look back on. Although, I could technically achieve that with a personal journal - ie, without posting it publicly... So?? 🤷‍♂️
 - I also thought it would be cool to just talk about cool things.
 
@@ -41,9 +41,9 @@ I don't think I fully understand it yet, but I'll try my best to explain what I 
 
 I think gamedev is a difficult and often discouraging process.
 
-So, perhaps I'm creating this blog to make gamedev feel cozier and more encouraging - for myself and maybe also other people who may happen to stumble across this tiny little blog.
+So, perhaps I'm creating this blog to make gamedev feel cozier and more encouraging - for myself and other people who may happen to stumble across this tiny little blog.
 
-Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only geniuses who build video games - because I'm just a normal guy! I'm not particularly smart nor particularly artistic - I just try my best at things. 🤷
+Like, as if beginner gamedevs (like me) can get a breath of fresh air and be reminded that there are other normal humans (like me) who struggle with this stuff and that it's not only "geniuses" who build video games - because I'm just a normal guy! I'm not particularly smart nor particularly artistic - I just try my best at things. 🤷
 
 So, in attempt to put it concretely,
 
@@ -57,7 +57,7 @@ But!
 
 Perhaps it gives GhostGamedev a bit more purpose! 🙂
 
-Like, to know that perhaps I'm helping some future kid/teen/adult/elder/person/etc out there who aspires to build video games not to give up. That's pretty cool. Well... To me, anyway...
+Like, to know that perhaps I'm helping some future kid/teen/adult/person/etc out there who aspires to build video games not to give up. That's pretty cool. Well... To me, anyway...
 
 It's something I didn't exactly have (hence you see me struggling with this stuff today, haha), so it feels nice to at least try to give it forward in a way that I can!
 
@@ -88,7 +88,7 @@ int main() {
 ```
 
 *INTERESTING FACT: \
-Did you know that there are like 8 or so versions of the C language? Crazy, right? The last version came out in 2024, so it can technically be considered as a "modern language".*
+Did you know that there are like 8 or so versions of the C language? Crazy, right? And, the last version came out in 2024! So, technically speaking, C can be considered a "modern language" (assuming you're using a more recent version, of course).*
 
 ### 3) 
 
@@ -107,8 +107,8 @@ I hope you've been well. 🙂🙏
 
 Peace!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDExOTk0OTgsLTEyMjIxMTE4ODcsMT
-E4MzM4ODQ2MCwxMTE1NzE0NTA2LC01NjUzMTc2MTgsLTkzMDM3
-OTI3NCwtMTQxMjgzMDU5NywxNTcyOTE0NzY4LDQwMDc4ODk4OS
-w3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJdfQ==
+eyJoaXN0b3J5IjpbNjc3MzkyOTUsLTEyNDExOTk0OTgsLTEyMj
+IxMTE4ODcsMTE4MzM4ODQ2MCwxMTE1NzE0NTA2LC01NjUzMTc2
+MTgsLTkzMDM3OTI3NCwtMTQxMjgzMDU5NywxNTcyOTE0NzY4LD
+QwMDc4ODk4OSw3Mzk5Mjg0MzUsLTE0OTQwMzM0OTJdfQ==
 -->
