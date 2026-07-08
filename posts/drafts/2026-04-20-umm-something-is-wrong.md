@@ -1,0 +1,140 @@
+---
+title: "The Title"
+permalink: "/the-title/"
+date: 2025-01-01
+---
+
+# The title
+
+I've written a bunch of drafts in my local notes app.
+
+But, I've just been refusing to refine any of them towards publication...
+
+I look at them, and I'm just like, "eh...", haha.
+
+---
+
+I've got,
+
+- X ~~2000's-style gamedev - Full OOP~~
+- X ~~OOP or not to OOP?~~
+- ? The 4-layer video game stack
+- ? Traditional app vs simulation system programming
+- X? Eleventy - The pros and cons
+- X? My journey finding StackEdit
+- ?? What are "metaverses" all about?
+- Why make games? Is it just stupid? Or, is it good?
+- What does it mean to create a game? Means to create the deepest possible meaning.
+- Art. What is it? What is art?
+- What makes something great?
+- "From scratch" is a funny phrase
+- My first experience with WebGL
+- My C card game I built
+- The C language for game dev - structs and the process - here's what you do
+- Gamedev as a career - how is it possible? is it possible? is it realistic?
+- Discovering EZ Engine
+- Planning on using Kode/Kore
+- How do solo devs make beautiful games in "after many long MONTHS" MONTHS?!?!?!?!?!?
+
+And... Eh... 🤷...
+
+---
+
+So, I wonder, maybe I'm asking myself, like,
+
+Is any of this worth posting?
+A: Probably not. Haha.
+
+What is actually worth posting?
+A: Things that help people.
+
+What would/wouldn't help people?
+A: Struggles. Knowing that there are other humans who struggle. Knowledge, too.
+
+The posts span so many general topics as well. Like, which topic should I post about?
+A: Doesn't matter as long as it might help someone who needs to hear something.
+
+---
+
+Maybe, I should ask myself,
+
+What is worth making? In general? (ie, are blogs worth it?)
+A: All kinds of things can be worth it.
+
+Am I having fun/fulfillment with this? (both reader & writer side are important)
+A: I think so. Haha.
+
+Should I make/do something else?
+A: Probably... But, I'm drawn to this for some reason...
+
+ANS:
+TRUTH. The **truth** is worth talking about. Always.
+
+---
+
+What if...
+
+I just code. I just create. Without thinking. Like, say, in LOVE2D. Like how I used to when I was a kid - how I just "went".
+^
+Although, with C, I don't think I'd really get very far "just going". Lol. But, hey! Maybe that's okay! Haha.
+
+---
+
+Also...
+
+Is my stuff/content even worth reading? Does it help anyone?
+A: Maybe it could someday. And, just that alone already makes it worth it!
+
+Is my dev worth following?
+  - > Like, personally, I tend to follow indie game devs just loosely. And, that's it.
+    - > Ie, I'm not really a "fanboy" type - I just watch from afar and smile.
+.
+A: Ehh. Generally, no. But, maybe yes for someone out there. Could possibly inspire someone. And, I guess even if it helps just one person makes it worth it.
+
+Does any of that matter?
+A: Yes and no... At the end of the day, nothing matters...
+
+Even if I make gamedev even 1% cozier for even one person, it's worth it. ✅
+^
+It's kinda cozy for me, but it's just a lot of effort...
+
+Maybe, for GhostGamedev, I should always remember in the back of my head, what I wish I could have heard, or someone told me, when I was 15.
+.
+Yes! This!
+
+---
+
+Post something real.
+
+The truth is, I don't know what to post about and I don't know why I'm doing it exactly.
+.
+UPDATE: I do know! It's to make gamedev cozy!
+
+Example: Message me if you need help with graphics programming, C, etc. (not that I can help much with those things yet...)
+
+---
+
+Maybe I just need to organize my blog...
+.
+Like, build a **core** that fits my style better...
+^
+Then, maybe things will start making a bit more sense...
+^
+This is a huge maybe. Lol.
+
+^^^
+
+Maybe I need to just organize the **entire initiative**.
+.
+Go back to the "roots".
+.
+Like, what is all of this really about?
+.
+To help people.
+To express myself a bit.
+
+---
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MTg0MjA0NzBdfQ==
+-->
