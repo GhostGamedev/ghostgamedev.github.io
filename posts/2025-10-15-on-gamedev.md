@@ -7,21 +7,21 @@ date: 2025-10-15
 
 # On video game development
 
-After thinking about it, I feel like I didn't really fully introduce myself in my "Hello, World!" post. So, I wanted to talk more about that - ie, about "myself". Specifically, I wanted to elaborate more about "my thoughts/philosophies" rather than just "what I'm objectively doing" here on GhostGamedev.
+After thinking about it, I feel like I didn't really exactly introduce myself in my "Hello, World!" post. So, I wanted to talk more about that - ie, about "myself". Specifically, I wanted to elaborate more about "my thoughts/philosophies" rather than just "what I'm objectively doing" here on GhostGamedev.
 
 So, I'll start with computers.
 
 ## Computers
 
-I don't know about you, but straight up, computers, to me, are just like, "what the [INSERT FRENCH HERE] is going on?!?!?" And, I'm not saying this because I don't know how to use computers - what I mean is, I think many/most people have virtually no idea what they are actually working with when using modern-day computers these days...
+I don't know about you, but straight up, computers, to me, are just like, "what the [INSERT FRENCH HERE] is going on?!?!?" And, I'm not saying this because I don't know how to use computers - what I mean is, I think many/most people have very little idea what they are actually working with when using modern-day computers these days...
 
-What I mean is, like, computers nowadays, let's take the "Intel i7" - according to a quick lookup, the 2010 model has 1.75 billion transistors. 1.75 billion. That's astronomical. For reference, the Earth is 4.5 billion years old. And, according to another quick lookup, the equivalent number of transistors required to perform the job of an abacus (a mechanical, manually operated calculator) is approximately 1,000. So, in a way, you almost are holding the power of 1.75 million abacuses - and that is in terms of physical computational material, I'm not even sure about computational speed, but I'm sure that it's also another astronomical number. And, I'm just speaking to the hardware level/layer of computers here. There are more levels - hardware, kernel, OS, drivers, network, application, graphics, etc. And, guess what? Each layer is a deeply complex subject. Humans commit their lives to mastering just a single layer.
+What I mean is, like, computers nowadays, let's take the "Intel i7" - according to a quick lookup, the 2010 model has 1.75 billion transistors. **1.75 billion**. That's astronomical. For reference, the Earth is 4.5 billion years old. And, according to another quick lookup, the equivalent number of transistors required to perform the job of an abacus (a mechanical, manually operated calculator) is approximately 1,000. So, in a way, you almost are holding the power of 1.75 million abacuses - and that is in terms of physical computational material, I'm not even sure about computational speed, but I'm sure that it's also another astronomical number. And, I'm just speaking to the hardware level/layer of computers here. There are more levels - hardware, kernel, OS, drivers, network, application, graphics, etc. And, guess what? Each layer is a deeply complex subject. Humans can commit their lives to mastering just a single layer.
 
 Crazy stuff...
 
 But, these days, I often find myself asking - were we humans even supposed to be able to compute with such astronomical power?
 
-I mean, like, today, computers have come so far that we now have AI - artificial (ie, computer-based) intelligence. Like, what!?!? Computers are living beings now!?!?!?
+I mean, like, today, computers have come so far that we now have "AI" - artificial (ie, computer-based) intelligence. Like, what!?!? Computers are living beings now!?!?!
 
 Point: Computers are immensely deep and immensely powerful things. 
 
@@ -33,15 +33,17 @@ Well, video games are computer programs just like any other computer program.
 
 In my opinion, video game development is yet another "layer" of computing. Perhaps a "compound layer" of computing that is a blend of effectively all of the layers of a computer combined.
 
-Video game development has so, so, so, so much depth. It's mind-blowing. Video games are probably one of the most complex applications of graphics processing out there - just look up "ray tracing" - a way to simulate lighting by shooting 'rays' from the camera outward (it's like the opposite of light - it's genius). Even 3D graphics itself involves pure matrix mathematics. Video games often rely on sophisticated mathematical physics models/simulations - look up "broad phase vs narrow phase" or "space partitioning" - both of which are methods to execute large amounts of objects in a virtual world. Then, if a game is a real-time online multiplayer game, then you get into "netcode" (on the network layer) - look up "predictive roll-back" - a technique used to make players feel like they are with each other in real-time even though there might be seconds of latency between them. And, this is just the surface of it all...
+Video game development has so, so, so, so much depth. It's mind-blowing. Video games are probably one of the most complex applications of graphics processing out there - just look up "ray tracing" - a way to simulate lighting by shooting "rays" from the camera outward (it's like the opposite of how light works in real life - it's genius). Even 3D graphics itself involves pure matrix mathematics. Video games often rely on sophisticated mathematical physics models/simulations - look up "broad phase vs narrow phase" or "space partitioning" - both of which are methods to simulate large amounts of objects in a virtual world. Then, if a game is a real-time online multiplayer game, then you get into "netcode" (on the network layer) - look up "predictive roll-back" - a technique used to make players feel like they are with each other in real-time even though there might be seconds of latency between them. And, this is just the surface of it all...
 
-It's truly amazing. And, honestly, it feels cool to express gratitude to all of the people before me who have come up with remarkable methods of "bending a computer" to execute what we want it to do in order to give people meaningful, interactive experiences via the channel of video games.
+It's truly amazing.
+
+There have been many people throughout time who have come up with remarkable methods of "bending a computer" (ie, computer algorithms) to execute what we want it to do in order to give people meaningful, interactive experiences via the channel of video games.
 
 But, today, I can't help but think people have forgotten the profound depth and elegance of computers, computer software, and video games.
 
 ### Lost appreciation
 
-I read Reddit forums/subreddits on game development and I very often see comments like, "I could build this game in Unity in a month".
+I read Reddit forums/subreddits on game development and I quite often see comments like, "I could build this game in Unity in a month".
 
 And, I always have just one thing so say about that... Every time... And, that is,
 
@@ -57,18 +59,19 @@ Point: All video games are masterpieces.
 
 I think the issue, which are also solutions at the same time, let's call it a "double-edged sword", are game engines (ie, Godot, Unity, Unreal, GameMaker, etc). Game engines enable everyday people to build video games, which is incredible and very empowering. But, I think game engines these days also give people the illusion that video games themselves are simple, when, in reality, they aren't whatsoever.
 
-On top of that, I think that game engines make games built with the engine somehow all feel the same. Ie, I can, with reasonable accuracy, tell which engine is used for a game when I see it. How? Games developed in a given engine often all share the same graphics/shaders, the same physics feel, the same terrain generation, the same fog effect look, the same "character controller feel", etc.
+On top of that, I think that game engines make games built with the engine somehow all feel the same. Ie, I can, with reasonable accuracy, tell which engine is used for a game when I see it. How? Games developed in a given engine often share the same graphics/shaders, the same physics feel, the same terrain generation, the same fog effect look, the same "character controller feel", etc.
 
-And, to me, I think there is something lost when developing using a game engine. Game developers using game engines lose out on the experience of true, genuine computer programming. Game engines take care of all of the "computer" stuff so that, as a game developer, you focus on the "game" stuff. Which is good. Very good. But, I think game engines often take this idea a bit too far... What I mean is, game engines even force specific, opinionated programming patterns onto you - for instance, Unity has its entities/components with "MonoBehaviors" and Godot has "signals". If a game doesn't lend itself to those programming patterns, you are still stuck with them because other things within the engine are coupled with (dependent on) those systems. What is even worse is when you end up battling the engine - like, your game's software architecture literally contradicts the engine's programming patterns/architecture and you end up not being able to access specific variables/data at times when you need them, for instance. Cry 😭.
+And, to me, I think there is something lost when developing using a game engine. Game developers using game engines lose out on the experience of true, genuine computer programming. Game engines take care of all of the "computer" stuff so that, as a game developer, you focus on the "game" stuff. Which is good. Very good. But, I think game engines often take this idea a bit too far... What I mean is, game engines even force specific, opinionated programming patterns onto you - for instance, Unity has its entities-components with "MonoBehaviors" and Godot has "signals". If a game doesn't lend itself to those programming patterns, you are still stuck with them because other things within the engine are coupled with (dependent on) those systems. What is even worse is when you end up battling the engine - like, your game's software architecture literally contradicts the engine's programming patterns/architecture and you end up not being able to access specific variables/data at times when you need them, for instance. Cry 😭.
 
 ## Conclusion
 
-So, all in all, I think game engines are truly good, but I think you lose some of the meaning behind what it means to develop video games when using game engines. Admittedly, I've never built a game from scratch, so I don't know if what I'm saying is all true. Maybe having a somewhat generic look/feel with all of your games and being forced into specific programming patterns is worth the tradeoff with everything game engines provide, haha.
+All in all, I think game engines are truly good, but I think you lose some of the meaning behind what it means to develop video games when using game engines. Admittedly, I've never built a game from scratch, so I don't know if what I'm saying is all true. Maybe having a somewhat generic look/feel with all of your games and being forced into specific programming patterns is worth the tradeoff with everything game engines provide, haha.
 
 ## What this means
 
 Here on GhostGamedev, I think I'd like to explore "building games from scratch" or, more specifically, feel out all of the various systems involved in doing so. I think that would be a quite the grand adventure. 🧙‍♂️🙂
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzI2MjgxNSwtMTczMDc2OTY3NSwyMD
-g2MDQ2MjUyLDQwMjU4MjA1NywyMTAwMzUxMTY2XX0=
+eyJoaXN0b3J5IjpbLTczNTUwOTIyNCwtMzQzMjYyODE1LC0xNz
+MwNzY5Njc1LDIwODYwNDYyNTIsNDAyNTgyMDU3LDIxMDAzNTEx
+NjZdfQ==
 -->
