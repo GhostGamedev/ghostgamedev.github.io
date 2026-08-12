@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm GhostGamedev 👻🙂
+Welcome to GhostGamedev 👻🙂
 
 <!--
 **GhostGamedev/ghostgamedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
