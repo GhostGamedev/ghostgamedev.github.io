@@ -1,7 +1,7 @@
 ---
 title: "Quick Update"
 permalink: "/quick-update-2025-11-18/"
-summary: "Dev update: SSG for blog (for now), 11ty, GitHub pages, StackEdit. More detailed post to come?"
+summary: "Dev update: SSG for blog (for now), 11ty, GitHub Pages, StackEdit. More detailed post to come?"
 date: 2025-11-18
 ---
 
